@@ -1,0 +1,1954 @@
+Element,HTML,Content,Predicted_Class
+option,"<option disabled=""disabled"" selected=""selected"" value="""">Menu Utama</option>",menu utama,Unwanted
+option,"<option value=""https://tender.selangor.my"">Utama</option>",utama,Unwanted
+option,"<option value=""https://tender.selangor.my/prices"">Carta Tender</option>",carta tender,Unwanted
+option,"<option value=""https://tender.selangor.my/results"">Penender Berjaya</option>",penender berjaya,Unwanted
+option,"<option value=""https://tender.selangor.my/circulars/list"">Pekeliling</option>",pekeliling,Unwanted
+option,"<option value=""https://tender.selangor.my/aduan"">Aduan</option>",aduan,Unwanted
+option,"<option value=""https://tender.selangor.my/helps"">Bantuan</option>",bantuan,Unwanted
+option,"<option value=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</option>",panduan pengguna,Unwanted
+option,"<option value=""https://tender.selangor.my/contact"">Hubungi Kami</option>",hubungi kami,Unwanted
+option,"<option value=""https://tender.selangor.my/agencies?type=1"">
+                                Pejabat SUK</option>",pejabat suk,Unwanted
+option,"<option value=""https://tender.selangor.my/agencies?type=2"">
+                                Pejabat Daerah</option>",pejabat daerah,Unwanted
+option,"<option value=""https://tender.selangor.my/agencies?type=3"">
+                                PBT</option>",pbt,Unwanted
+option,"<option value=""https://tender.selangor.my/agencies?type=4"">
+                                Jabatan Lain</option>",jabatan lain,Unwanted
+option,"<option value=""https://tender.selangor.my/agencies?type=5"">
+                                Perbendaharaan Negeri Selangor</option>",perbendaharaan negeri selangor,Unwanted
+option,"<option value=""https://tender.selangor.my/agencies?type=6"">
+                                Jabatan Kerja Raya Negeri Selangor</option>",jabatan kerja raya negeri selangor,Unwanted
+option,"<option value=""https://tender.selangor.my/agencies?type=7"">
+                                Jabatan Pengairan dan Saliran</option>",jabatan pengairan dan saliran,Unwanted
+option,"<option value=""https://tender.selangor.my/agencies?type=8"">
+                                Jabatan di bawah Kerajaan Negeri Selangor</option>",jabatan di bawah kerajaan negeri selangor,Unwanted
+option,"<option value=""10"">10</option>",10,Unwanted
+option,"<option value=""25"">25</option>",25,Unwanted
+option,"<option value=""50"">50</option>",50,Unwanted
+option,"<option value=""100"">100</option>",100,Unwanted
+a,"<a class=""forget-password"" href=""https://tender.selangor.my/auth/forgot_password"">Lupa
+                                    Kata Laluan?</a>",lupa kata laluan?,Unwanted
+a,"<a class=""forget-password"" href=""https://tender.selangor.my/register"">Daftar Akaun!</a>",daftar akaun!,Unwanted
+a,"<a href=""https://tender.selangor.my/manuals/pendaftaran"" target=""blank"">Cara
+                                    Mendaftar</a>",cara mendaftar,Unwanted
+a,"<a href=""https://tender.selangor.my""><i class=""fa fa-home"" style=""color: white""></i>
+                            Utama</a>",utama,Unwanted
+a,"<a href=""https://tender.selangor.my/prices""><i class=""fa fa-list"" style=""color: white""></i> Carta Tender</a>",carta tender,Unwanted
+a,"<a href=""https://tender.selangor.my/results""><i class=""fa fa-trophy"" style=""color: white""></i> Penender Berjaya</a>",penender berjaya,Unwanted
+a,"<a href=""https://tender.selangor.my/circulars/list""><i class=""fa fa-file-text"" style=""color: white""></i>
+                            Pekeliling</a>",pekeliling,Unwanted
+a,"<a href=""https://tender.selangor.my/aduan""><i class=""fa fa-comment"" style=""color: white""></i>
+						Aduan</a>",aduan,Unwanted
+a,"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-question-circle"" style=""color: white""></i> Pertanyaan <i class=""fa fa-angle-down""></i>
+</a>",pertanyaan,Unwanted
+a,"<a href=""https://tender.selangor.my/helps"">Bantuan</a>",bantuan,Unwanted
+a,"<a href=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</a>",panduan pengguna,Unwanted
+a,"<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-building"" style=""color: white""></i> Direktori Agensi <i class=""fa fa-angle-down""></i>
+</a>",direktori agensi,Unwanted
+a,"<a href=""https://tender.selangor.my/agencies?type=5"">Perbendaharaan Negeri Selangor</a>",perbendaharaan negeri selangor,Unwanted
+a,"<a href=""https://tender.selangor.my/agencies?type=1"">Pejabat SUK</a>",pejabat suk,Unwanted
+a,"<a href=""https://tender.selangor.my/agencies?type=2"">Pejabat Daerah</a>",pejabat daerah,Unwanted
+a,"<a href=""https://tender.selangor.my/agencies?type=3"">PBT</a>",pbt,Unwanted
+a,"<a href=""https://tender.selangor.my/agencies?type=6"">Jabatan Kerja Raya Negeri Selangor</a>",jabatan kerja raya negeri selangor,Unwanted
+a,"<a href=""https://tender.selangor.my/agencies?type=7"">Jabatan Pengairan dan Saliran</a>",jabatan pengairan dan saliran,Unwanted
+a,"<a href=""https://tender.selangor.my/agencies?type=8"">Jabatan di bawah Kerajaan Negeri Selangor</a>",jabatan di bawah kerajaan negeri selangor,Unwanted
+a,"<a href=""https://tender.selangor.my/agencies?type=4"">Jabatan Lain</a>",jabatan lain,Unwanted
+a,"<a class=""left carousel-control"" data-slide=""prev"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-left""></span>
+<span class=""sr-only"">Previous</span>
+</a>",previous,Unwanted
+a,"<a class=""right carousel-control"" data-slide=""next"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-right""></span>
+<span class=""sr-only"">Next</span>
+</a>",next,Unwanted
+a,"<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>",tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r),Tender
+a,"<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>","tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r)",Tender
+a,"<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>","tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r)",Tender
+a,"<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>",addendum 01,Unwanted
+a,"<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>","tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r)",Tender
+a,"<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>",tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r),Tender
+a,"<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>",tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r),Tender
+a,"<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""/news"" id=""btn-view-all"">Lihat Semua</a>",lihat semua,Unwanted
+a,"<a class=""btn btn-lg btn-block btn-danger"" href=""https://tender.selangor.my/register"" id=""btn-register-vendor"">Daftar Syarikat</a>",daftar syarikat,Unwanted
+a,"<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""https://tender.selangor.my/company_search"" id=""btn-search-vendor"">Semak Pendaftaran Syarikat</a>",semak pendaftaran syarikat,Unwanted
+a,"<a href=""https://tender.selangor.my"">Semua</a>",semua,Unwanted
+a,"<a href=""https://tender.selangor.my?type=tenders"">Tender</a>",tender,Unwanted
+a,"<a href=""https://tender.selangor.my?type=quotations"">Sebut Harga</a>",sebut harga,Unwanted
+a,"<a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a>",sebelum,Unwanted
+a,"<a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a>",kemudian,Unwanted
+a,"<a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a>",tenderadmin@selangor.gov.my,Unwanted
+a,"<a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a>",tenderadmin@selangor.gov.my,Unwanted
+a,"<a href=""https://tender.selangor.my/privacy"">Polisi Keselamatan</a>",polisi keselamatan,Unwanted
+title,<title>Sistem Tender Online Selangor</title>,sistem tender online selangor,Unwanted
+span,"<span class=""sr-only"">Previous</span>",previous,Unwanted
+span,"<span class=""sr-only"">Next</span>",next,Unwanted
+span,"<span class=""item-label"">6 Dec 2023</span>",6 dec 2023,Date
+span,"<span class=""item-label"">6 Dec 2023</span>",6 dec 2023,Date
+span,"<span class=""item-label"">6 Dec 2023</span>",6 dec 2023,Date
+span,"<span class=""item-label"">6 Dec 2023</span>",6 dec 2023,Date
+span,"<span class=""item-label"">30 Nov 2023</span>",30 nov 2023,Date
+span,"<span class=""item-label"">28 Nov 2023</span>",28 nov 2023,Date
+span,"<span class=""item-label"">23 Nov 2023</span>",23 nov 2023,Date
+span,"<span>Pendaftaran Syarikat, Pembaharuan dan Pembelian Dokumen Tender / Sebut Harga boleh dilakukan menggunakan</span>","pendaftaran syarikat, pembaharuan dan pembelian dokumen tender / sebut harga boleh dilakukan menggunakan",Unwanted
+span,"<span class=""text-center"">
+<b>Versi Sistem  : STOS Ver 2.3</b>
+</span>",versi sistem : stos ver 2.3,Unwanted
+span,"<span aria-hidden=""true"">Ã</span>",ã,Unwanted
+p,"<p>
+						Unit Perancang Ekonomi Negeri (UPEN) <br/>
+						Tingkat 4, Bangunan Sultan Salahuddin Abdul Aziz Shah <br/>
+						40503 Shah Alam. Selangor Darul Ehsan <br/>
+</p>","unit perancang ekonomi negeri (upen) tingkat 4, bangunan sultan salahuddin abdul aziz shah 40503 shah alam. selangor darul ehsan",Unwanted
+p,"<p>8.00 Pagi-5.00 Petang , Kecuali Sabtu, Ahad dan Cuti Umum</p>","8.00 pagi-5.00 petang , kecuali sabtu, ahad dan cuti umum",Unwanted
+p,"<p><a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a></p>",tenderadmin@selangor.gov.my,Unwanted
+p,"<p>
+						- Masalah berkaitan pendaftaran <br/>
+						- Masalah berkaitan kemaskini <br/>
+						- Pendaftaran / Kemaskini mengambil 3 hari waktu bekerja
+					</p>",- masalah berkaitan pendaftaran - masalah berkaitan kemaskini - pendaftaran / kemaskini mengambil 3 hari waktu bekerja,Unwanted
+p,"<p>
+						Bahagian Pengurusan Maklumat (BPM) <br/>
+						Tingkat 2, Bangunan Sultan Salahuddin Abdul Aziz Shah <br/>
+						40503 Shah Alam. Selangor Darul Ehsan
+					</p>","bahagian pengurusan maklumat (bpm) tingkat 2, bangunan sultan salahuddin abdul aziz shah 40503 shah alam. selangor darul ehsan",Unwanted
+p,"<p> 8.00 Pagi - 5.00 Petang , Kecuali Sabtu, Ahad dan Cuti Umum</p>","8.00 pagi - 5.00 petang , kecuali sabtu, ahad dan cuti umum",Unwanted
+p,"<p><a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a></p>",tenderadmin@selangor.gov.my,Unwanted
+p,"<p>
+						- Mesti ada tajuk e-mail <br/>
+						- Nyatakan masalah dengan jelas <br/>
+						- Lampirkan Screen Shot  <br/>
+						- Untuk masalah pembayaran, sila lampirkan salinan transaksi bank. <br/>
+						- Masalah transaksi pembayaran dengan PBT diuruskan oleh PBT. <br/>
+						- Masalah transaksi dengan Pejabat SUK, diuruskan oleh Bahagian Khidmat Pengurusan (BKP, Unit Kewangan, Tingkat 17)
+					</p>","- mesti ada tajuk e-mail - nyatakan masalah dengan jelas - lampirkan screen shot - untuk masalah pembayaran, sila lampirkan salinan transaksi bank. - masalah transaksi pembayaran dengan pbt diuruskan oleh pbt. - masalah transaksi dengan pejabat suk, diuruskan oleh bahagian khidmat pengurusan (bkp, unit kewangan, tingkat 17)",Unwanted
+p,"<p id=""payment-kinds"">
+<span>Pendaftaran Syarikat, Pembaharuan dan Pembelian Dokumen Tender / Sebut Harga boleh dilakukan menggunakan</span><br/><br/>
+<i class=""temp-icon temp-icon-fpx""></i> </p>","pendaftaran syarikat, pembaharuan dan pembelian dokumen tender / sebut harga boleh dilakukan menggunakan",Unwanted
+p,"<p class=""text-center"">
+<img alt=""sirim"" src=""https://tender.selangor.my/images/sirim.png"" style=""margin-bottom: -5px"" width=""210px""/>
+<br/> <br/>
+<span class=""text-center"">
+<b>Versi Sistem  : STOS Ver 2.3</b>
+</span>
+<br/>
+</p>",versi sistem : stos ver 2.3,Unwanted
+li,"<li>
+<form accept-charset=""utf-8"" action=""https://tender.selangor.my/auth/login"" autocomplete=""false"" class=""form-inline"" id=""form-sign-in"" method=""POST"">
+<div class=""form-group""><input autocomplete=""off"" class=""input-sm form-control"" id=""email"" name=""email"" placeholder=""Alamat Emel"" type=""email""/></div>
+<div class=""form-group""><input autocomplete=""new-password"" class=""input-sm form-control"" id=""password"" name=""password"" onfocus=""this.removeAttribute('readonly')"" placeholder=""Kata Laluan"" readonly=""readonly"" type=""password""/></div>
+<input class=""btn btn-sm bg-blue-selangor"" type=""submit"" value=""Daftar Masuk""/>
+<div class=""options"">
+<a class=""forget-password"" href=""https://tender.selangor.my/auth/forgot_password"">Lupa
+                                    Kata Laluan?</a> â¢
+                                <a class=""forget-password"" href=""https://tender.selangor.my/register"">Daftar Akaun!</a> â¢
+                                <a href=""https://tender.selangor.my/manuals/pendaftaran"" target=""blank"">Cara
+                                    Mendaftar</a>
+</div>
+<input name=""_token"" type=""hidden"" value=""XtiLrypspVauIcgZMk9JIqo0uhhj92EkHFXTVgNL""/></form>
+</li>",lupa kata laluan? â¢ daftar akaun! â¢ cara mendaftar,Unwanted
+li,"<li><a href=""https://tender.selangor.my""><i class=""fa fa-home"" style=""color: white""></i>
+                            Utama</a></li>",utama,Unwanted
+li,"<li><a href=""https://tender.selangor.my/prices""><i class=""fa fa-list"" style=""color: white""></i> Carta Tender</a></li>",carta tender,Unwanted
+li,"<li><a href=""https://tender.selangor.my/results""><i class=""fa fa-trophy"" style=""color: white""></i> Penender Berjaya</a></li>",penender berjaya,Unwanted
+li,"<li><a href=""https://tender.selangor.my/circulars/list""><i class=""fa fa-file-text"" style=""color: white""></i>
+                            Pekeliling</a></li>",pekeliling,Unwanted
+li,"<li><a href=""https://tender.selangor.my/aduan""><i class=""fa fa-comment"" style=""color: white""></i>
+						Aduan</a></li>",aduan,Unwanted
+li,"<li class=""dropdown"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-question-circle"" style=""color: white""></i> Pertanyaan <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/helps"">Bantuan</a></li>
+<li><a href=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</a></li>
+</ul>
+</li>",pertanyaan bantuan panduan pengguna,Unwanted
+li,"<li><a href=""https://tender.selangor.my/helps"">Bantuan</a></li>",bantuan,Unwanted
+li,"<li><a href=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</a></li>",panduan pengguna,Unwanted
+li,"<li class=""dropdown pull-right"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-building"" style=""color: white""></i> Direktori Agensi <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/agencies?type=5"">Perbendaharaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=1"">Pejabat SUK</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=2"">Pejabat Daerah</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=3"">PBT</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=6"">Jabatan Kerja Raya Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=7"">Jabatan Pengairan dan Saliran</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=8"">Jabatan di bawah Kerajaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=4"">Jabatan Lain</a>
+</li>
+</ul>
+</li>",direktori agensi perbendaharaan negeri selangor pejabat suk pejabat daerah pbt jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor jabatan lain,Unwanted
+li,"<li><a href=""https://tender.selangor.my/agencies?type=5"">Perbendaharaan Negeri Selangor</a>
+</li>",perbendaharaan negeri selangor,Unwanted
+li,"<li><a href=""https://tender.selangor.my/agencies?type=1"">Pejabat SUK</a>
+</li>",pejabat suk,Unwanted
+li,"<li><a href=""https://tender.selangor.my/agencies?type=2"">Pejabat Daerah</a>
+</li>",pejabat daerah,Unwanted
+li,"<li><a href=""https://tender.selangor.my/agencies?type=3"">PBT</a>
+</li>",pbt,Unwanted
+li,"<li><a href=""https://tender.selangor.my/agencies?type=6"">Jabatan Kerja Raya Negeri Selangor</a>
+</li>",jabatan kerja raya negeri selangor,Unwanted
+li,"<li><a href=""https://tender.selangor.my/agencies?type=7"">Jabatan Pengairan dan Saliran</a>
+</li>",jabatan pengairan dan saliran,Unwanted
+li,"<li><a href=""https://tender.selangor.my/agencies?type=8"">Jabatan di bawah Kerajaan Negeri Selangor</a>
+</li>",jabatan di bawah kerajaan negeri selangor,Unwanted
+li,"<li><a href=""https://tender.selangor.my/agencies?type=4"">Jabatan Lain</a>
+</li>",jabatan lain,Unwanted
+li,"<li class=""active""><a href=""https://tender.selangor.my"">Semua</a></li>",semua,Unwanted
+li,"<li><a href=""https://tender.selangor.my?type=tenders"">Tender</a></li>",tender,Unwanted
+li,"<li><a href=""https://tender.selangor.my?type=quotations"">Sebut Harga</a></li>",sebut harga,Unwanted
+li,"<li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li>",sebelum,Unwanted
+li,"<li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li>",kemudian,Unwanted
+b,<b>Versi Sistem  : STOS Ver 2.3</b>,versi sistem : stos ver 2.3,Unwanted
+div,"<div class=""page-header"">
+<div class=""page-header-top"">
+<div class=""container"">
+<div class=""page-logo"">
+<a href=""/"" title=""Utama""><img src=""https://tender.selangor.my/images/header.png""/></a>
+</div>
+<div class=""visible-xs visible-sm pull-left"" id=""mobile-menu"">
+<select id=""select-navigation"">
+<option disabled=""disabled"" selected=""selected"" value="""">Menu Utama</option>
+<option value=""https://tender.selangor.my"">Utama</option>
+<option value=""https://tender.selangor.my/prices"">Carta Tender</option>
+<option value=""https://tender.selangor.my/results"">Penender Berjaya</option>
+<option value=""https://tender.selangor.my/circulars/list"">Pekeliling</option>
+<option value=""https://tender.selangor.my/aduan"">Aduan</option>
+<option value=""https://tender.selangor.my/helps"">Bantuan</option>
+<option value=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</option>
+<option value=""https://tender.selangor.my/contact"">Hubungi Kami</option>
+<optgroup label=""Agensi"">
+<option value=""https://tender.selangor.my/agencies?type=1"">
+                                Pejabat SUK</option>
+<option value=""https://tender.selangor.my/agencies?type=2"">
+                                Pejabat Daerah</option>
+<option value=""https://tender.selangor.my/agencies?type=3"">
+                                PBT</option>
+<option value=""https://tender.selangor.my/agencies?type=4"">
+                                Jabatan Lain</option>
+<option value=""https://tender.selangor.my/agencies?type=5"">
+                                Perbendaharaan Negeri Selangor</option>
+<option value=""https://tender.selangor.my/agencies?type=6"">
+                                Jabatan Kerja Raya Negeri Selangor</option>
+<option value=""https://tender.selangor.my/agencies?type=7"">
+                                Jabatan Pengairan dan Saliran</option>
+<option value=""https://tender.selangor.my/agencies?type=8"">
+                                Jabatan di bawah Kerajaan Negeri Selangor</option>
+</optgroup>
+</select>
+</div>
+<div class=""top-menu"">
+<ul class=""nav navbar-nav pull-right nav-user"">
+<li>
+<form accept-charset=""utf-8"" action=""https://tender.selangor.my/auth/login"" autocomplete=""false"" class=""form-inline"" id=""form-sign-in"" method=""POST"">
+<div class=""form-group""><input autocomplete=""off"" class=""input-sm form-control"" id=""email"" name=""email"" placeholder=""Alamat Emel"" type=""email""/></div>
+<div class=""form-group""><input autocomplete=""new-password"" class=""input-sm form-control"" id=""password"" name=""password"" onfocus=""this.removeAttribute('readonly')"" placeholder=""Kata Laluan"" readonly=""readonly"" type=""password""/></div>
+<input class=""btn btn-sm bg-blue-selangor"" type=""submit"" value=""Daftar Masuk""/>
+<div class=""options"">
+<a class=""forget-password"" href=""https://tender.selangor.my/auth/forgot_password"">Lupa
+                                    Kata Laluan?</a> â¢
+                                <a class=""forget-password"" href=""https://tender.selangor.my/register"">Daftar Akaun!</a> â¢
+                                <a href=""https://tender.selangor.my/manuals/pendaftaran"" target=""blank"">Cara
+                                    Mendaftar</a>
+</div>
+<input name=""_token"" type=""hidden"" value=""XtiLrypspVauIcgZMk9JIqo0uhhj92EkHFXTVgNL""/></form>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- BEGIN HEADER MENU -->
+<div class=""page-header-menu"">
+<div class=""container"">
+<div class=""hor-menu"">
+<ul class=""nav navbar-nav"">
+<li><a href=""https://tender.selangor.my""><i class=""fa fa-home"" style=""color: white""></i>
+                            Utama</a></li>
+<li><a href=""https://tender.selangor.my/prices""><i class=""fa fa-list"" style=""color: white""></i> Carta Tender</a></li>
+<li><a href=""https://tender.selangor.my/results""><i class=""fa fa-trophy"" style=""color: white""></i> Penender Berjaya</a></li>
+<li><a href=""https://tender.selangor.my/circulars/list""><i class=""fa fa-file-text"" style=""color: white""></i>
+                            Pekeliling</a></li>
+<!--<li><a href=""https://tender.selangor.my/contact""><i class=""fa fa-phone-square"" style=""color: white""></i> Hubungi Kami</a></li>-->
+<li><a href=""https://tender.selangor.my/aduan""><i class=""fa fa-comment"" style=""color: white""></i>
+						Aduan</a></li>
+<li class=""dropdown"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-question-circle"" style=""color: white""></i> Pertanyaan <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/helps"">Bantuan</a></li>
+<li><a href=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</a></li>
+</ul>
+</li>
+<li class=""dropdown pull-right"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-building"" style=""color: white""></i> Direktori Agensi <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/agencies?type=5"">Perbendaharaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=1"">Pejabat SUK</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=2"">Pejabat Daerah</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=3"">PBT</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=6"">Jabatan Kerja Raya Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=7"">Jabatan Pengairan dan Saliran</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=8"">Jabatan di bawah Kerajaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=4"">Jabatan Lain</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- END MEGA MENU -->
+</div>
+</div>
+<!-- END HEADER MENU -->
+</div>",menu utama utama carta tender penender berjaya pekeliling aduan bantuan panduan pengguna hubungi kami pejabat suk pejabat daerah pbt jabatan lain perbendaharaan negeri selangor jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor lupa kata laluan? â¢ daftar akaun! â¢ cara mendaftar utama carta tender penender berjaya pekeliling aduan pertanyaan bantuan panduan pengguna direktori agensi perbendaharaan negeri selangor pejabat suk pejabat daerah pbt jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor jabatan lain,Unwanted
+div,"<div class=""page-header-top"">
+<div class=""container"">
+<div class=""page-logo"">
+<a href=""/"" title=""Utama""><img src=""https://tender.selangor.my/images/header.png""/></a>
+</div>
+<div class=""visible-xs visible-sm pull-left"" id=""mobile-menu"">
+<select id=""select-navigation"">
+<option disabled=""disabled"" selected=""selected"" value="""">Menu Utama</option>
+<option value=""https://tender.selangor.my"">Utama</option>
+<option value=""https://tender.selangor.my/prices"">Carta Tender</option>
+<option value=""https://tender.selangor.my/results"">Penender Berjaya</option>
+<option value=""https://tender.selangor.my/circulars/list"">Pekeliling</option>
+<option value=""https://tender.selangor.my/aduan"">Aduan</option>
+<option value=""https://tender.selangor.my/helps"">Bantuan</option>
+<option value=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</option>
+<option value=""https://tender.selangor.my/contact"">Hubungi Kami</option>
+<optgroup label=""Agensi"">
+<option value=""https://tender.selangor.my/agencies?type=1"">
+                                Pejabat SUK</option>
+<option value=""https://tender.selangor.my/agencies?type=2"">
+                                Pejabat Daerah</option>
+<option value=""https://tender.selangor.my/agencies?type=3"">
+                                PBT</option>
+<option value=""https://tender.selangor.my/agencies?type=4"">
+                                Jabatan Lain</option>
+<option value=""https://tender.selangor.my/agencies?type=5"">
+                                Perbendaharaan Negeri Selangor</option>
+<option value=""https://tender.selangor.my/agencies?type=6"">
+                                Jabatan Kerja Raya Negeri Selangor</option>
+<option value=""https://tender.selangor.my/agencies?type=7"">
+                                Jabatan Pengairan dan Saliran</option>
+<option value=""https://tender.selangor.my/agencies?type=8"">
+                                Jabatan di bawah Kerajaan Negeri Selangor</option>
+</optgroup>
+</select>
+</div>
+<div class=""top-menu"">
+<ul class=""nav navbar-nav pull-right nav-user"">
+<li>
+<form accept-charset=""utf-8"" action=""https://tender.selangor.my/auth/login"" autocomplete=""false"" class=""form-inline"" id=""form-sign-in"" method=""POST"">
+<div class=""form-group""><input autocomplete=""off"" class=""input-sm form-control"" id=""email"" name=""email"" placeholder=""Alamat Emel"" type=""email""/></div>
+<div class=""form-group""><input autocomplete=""new-password"" class=""input-sm form-control"" id=""password"" name=""password"" onfocus=""this.removeAttribute('readonly')"" placeholder=""Kata Laluan"" readonly=""readonly"" type=""password""/></div>
+<input class=""btn btn-sm bg-blue-selangor"" type=""submit"" value=""Daftar Masuk""/>
+<div class=""options"">
+<a class=""forget-password"" href=""https://tender.selangor.my/auth/forgot_password"">Lupa
+                                    Kata Laluan?</a> â¢
+                                <a class=""forget-password"" href=""https://tender.selangor.my/register"">Daftar Akaun!</a> â¢
+                                <a href=""https://tender.selangor.my/manuals/pendaftaran"" target=""blank"">Cara
+                                    Mendaftar</a>
+</div>
+<input name=""_token"" type=""hidden"" value=""XtiLrypspVauIcgZMk9JIqo0uhhj92EkHFXTVgNL""/></form>
+</li>
+</ul>
+</div>
+</div>
+</div>",menu utama utama carta tender penender berjaya pekeliling aduan bantuan panduan pengguna hubungi kami pejabat suk pejabat daerah pbt jabatan lain perbendaharaan negeri selangor jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor lupa kata laluan? â¢ daftar akaun! â¢ cara mendaftar,Unwanted
+div,"<div class=""container"">
+<div class=""page-logo"">
+<a href=""/"" title=""Utama""><img src=""https://tender.selangor.my/images/header.png""/></a>
+</div>
+<div class=""visible-xs visible-sm pull-left"" id=""mobile-menu"">
+<select id=""select-navigation"">
+<option disabled=""disabled"" selected=""selected"" value="""">Menu Utama</option>
+<option value=""https://tender.selangor.my"">Utama</option>
+<option value=""https://tender.selangor.my/prices"">Carta Tender</option>
+<option value=""https://tender.selangor.my/results"">Penender Berjaya</option>
+<option value=""https://tender.selangor.my/circulars/list"">Pekeliling</option>
+<option value=""https://tender.selangor.my/aduan"">Aduan</option>
+<option value=""https://tender.selangor.my/helps"">Bantuan</option>
+<option value=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</option>
+<option value=""https://tender.selangor.my/contact"">Hubungi Kami</option>
+<optgroup label=""Agensi"">
+<option value=""https://tender.selangor.my/agencies?type=1"">
+                                Pejabat SUK</option>
+<option value=""https://tender.selangor.my/agencies?type=2"">
+                                Pejabat Daerah</option>
+<option value=""https://tender.selangor.my/agencies?type=3"">
+                                PBT</option>
+<option value=""https://tender.selangor.my/agencies?type=4"">
+                                Jabatan Lain</option>
+<option value=""https://tender.selangor.my/agencies?type=5"">
+                                Perbendaharaan Negeri Selangor</option>
+<option value=""https://tender.selangor.my/agencies?type=6"">
+                                Jabatan Kerja Raya Negeri Selangor</option>
+<option value=""https://tender.selangor.my/agencies?type=7"">
+                                Jabatan Pengairan dan Saliran</option>
+<option value=""https://tender.selangor.my/agencies?type=8"">
+                                Jabatan di bawah Kerajaan Negeri Selangor</option>
+</optgroup>
+</select>
+</div>
+<div class=""top-menu"">
+<ul class=""nav navbar-nav pull-right nav-user"">
+<li>
+<form accept-charset=""utf-8"" action=""https://tender.selangor.my/auth/login"" autocomplete=""false"" class=""form-inline"" id=""form-sign-in"" method=""POST"">
+<div class=""form-group""><input autocomplete=""off"" class=""input-sm form-control"" id=""email"" name=""email"" placeholder=""Alamat Emel"" type=""email""/></div>
+<div class=""form-group""><input autocomplete=""new-password"" class=""input-sm form-control"" id=""password"" name=""password"" onfocus=""this.removeAttribute('readonly')"" placeholder=""Kata Laluan"" readonly=""readonly"" type=""password""/></div>
+<input class=""btn btn-sm bg-blue-selangor"" type=""submit"" value=""Daftar Masuk""/>
+<div class=""options"">
+<a class=""forget-password"" href=""https://tender.selangor.my/auth/forgot_password"">Lupa
+                                    Kata Laluan?</a> â¢
+                                <a class=""forget-password"" href=""https://tender.selangor.my/register"">Daftar Akaun!</a> â¢
+                                <a href=""https://tender.selangor.my/manuals/pendaftaran"" target=""blank"">Cara
+                                    Mendaftar</a>
+</div>
+<input name=""_token"" type=""hidden"" value=""XtiLrypspVauIcgZMk9JIqo0uhhj92EkHFXTVgNL""/></form>
+</li>
+</ul>
+</div>
+</div>",menu utama utama carta tender penender berjaya pekeliling aduan bantuan panduan pengguna hubungi kami pejabat suk pejabat daerah pbt jabatan lain perbendaharaan negeri selangor jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor lupa kata laluan? â¢ daftar akaun! â¢ cara mendaftar,Unwanted
+div,"<div class=""visible-xs visible-sm pull-left"" id=""mobile-menu"">
+<select id=""select-navigation"">
+<option disabled=""disabled"" selected=""selected"" value="""">Menu Utama</option>
+<option value=""https://tender.selangor.my"">Utama</option>
+<option value=""https://tender.selangor.my/prices"">Carta Tender</option>
+<option value=""https://tender.selangor.my/results"">Penender Berjaya</option>
+<option value=""https://tender.selangor.my/circulars/list"">Pekeliling</option>
+<option value=""https://tender.selangor.my/aduan"">Aduan</option>
+<option value=""https://tender.selangor.my/helps"">Bantuan</option>
+<option value=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</option>
+<option value=""https://tender.selangor.my/contact"">Hubungi Kami</option>
+<optgroup label=""Agensi"">
+<option value=""https://tender.selangor.my/agencies?type=1"">
+                                Pejabat SUK</option>
+<option value=""https://tender.selangor.my/agencies?type=2"">
+                                Pejabat Daerah</option>
+<option value=""https://tender.selangor.my/agencies?type=3"">
+                                PBT</option>
+<option value=""https://tender.selangor.my/agencies?type=4"">
+                                Jabatan Lain</option>
+<option value=""https://tender.selangor.my/agencies?type=5"">
+                                Perbendaharaan Negeri Selangor</option>
+<option value=""https://tender.selangor.my/agencies?type=6"">
+                                Jabatan Kerja Raya Negeri Selangor</option>
+<option value=""https://tender.selangor.my/agencies?type=7"">
+                                Jabatan Pengairan dan Saliran</option>
+<option value=""https://tender.selangor.my/agencies?type=8"">
+                                Jabatan di bawah Kerajaan Negeri Selangor</option>
+</optgroup>
+</select>
+</div>",menu utama utama carta tender penender berjaya pekeliling aduan bantuan panduan pengguna hubungi kami pejabat suk pejabat daerah pbt jabatan lain perbendaharaan negeri selangor jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor,Unwanted
+div,"<div class=""top-menu"">
+<ul class=""nav navbar-nav pull-right nav-user"">
+<li>
+<form accept-charset=""utf-8"" action=""https://tender.selangor.my/auth/login"" autocomplete=""false"" class=""form-inline"" id=""form-sign-in"" method=""POST"">
+<div class=""form-group""><input autocomplete=""off"" class=""input-sm form-control"" id=""email"" name=""email"" placeholder=""Alamat Emel"" type=""email""/></div>
+<div class=""form-group""><input autocomplete=""new-password"" class=""input-sm form-control"" id=""password"" name=""password"" onfocus=""this.removeAttribute('readonly')"" placeholder=""Kata Laluan"" readonly=""readonly"" type=""password""/></div>
+<input class=""btn btn-sm bg-blue-selangor"" type=""submit"" value=""Daftar Masuk""/>
+<div class=""options"">
+<a class=""forget-password"" href=""https://tender.selangor.my/auth/forgot_password"">Lupa
+                                    Kata Laluan?</a> â¢
+                                <a class=""forget-password"" href=""https://tender.selangor.my/register"">Daftar Akaun!</a> â¢
+                                <a href=""https://tender.selangor.my/manuals/pendaftaran"" target=""blank"">Cara
+                                    Mendaftar</a>
+</div>
+<input name=""_token"" type=""hidden"" value=""XtiLrypspVauIcgZMk9JIqo0uhhj92EkHFXTVgNL""/></form>
+</li>
+</ul>
+</div>",lupa kata laluan? â¢ daftar akaun! â¢ cara mendaftar,Unwanted
+div,"<div class=""options"">
+<a class=""forget-password"" href=""https://tender.selangor.my/auth/forgot_password"">Lupa
+                                    Kata Laluan?</a> â¢
+                                <a class=""forget-password"" href=""https://tender.selangor.my/register"">Daftar Akaun!</a> â¢
+                                <a href=""https://tender.selangor.my/manuals/pendaftaran"" target=""blank"">Cara
+                                    Mendaftar</a>
+</div>",lupa kata laluan? â¢ daftar akaun! â¢ cara mendaftar,Unwanted
+div,"<div class=""page-header-menu"">
+<div class=""container"">
+<div class=""hor-menu"">
+<ul class=""nav navbar-nav"">
+<li><a href=""https://tender.selangor.my""><i class=""fa fa-home"" style=""color: white""></i>
+                            Utama</a></li>
+<li><a href=""https://tender.selangor.my/prices""><i class=""fa fa-list"" style=""color: white""></i> Carta Tender</a></li>
+<li><a href=""https://tender.selangor.my/results""><i class=""fa fa-trophy"" style=""color: white""></i> Penender Berjaya</a></li>
+<li><a href=""https://tender.selangor.my/circulars/list""><i class=""fa fa-file-text"" style=""color: white""></i>
+                            Pekeliling</a></li>
+<!--<li><a href=""https://tender.selangor.my/contact""><i class=""fa fa-phone-square"" style=""color: white""></i> Hubungi Kami</a></li>-->
+<li><a href=""https://tender.selangor.my/aduan""><i class=""fa fa-comment"" style=""color: white""></i>
+						Aduan</a></li>
+<li class=""dropdown"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-question-circle"" style=""color: white""></i> Pertanyaan <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/helps"">Bantuan</a></li>
+<li><a href=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</a></li>
+</ul>
+</li>
+<li class=""dropdown pull-right"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-building"" style=""color: white""></i> Direktori Agensi <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/agencies?type=5"">Perbendaharaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=1"">Pejabat SUK</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=2"">Pejabat Daerah</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=3"">PBT</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=6"">Jabatan Kerja Raya Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=7"">Jabatan Pengairan dan Saliran</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=8"">Jabatan di bawah Kerajaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=4"">Jabatan Lain</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- END MEGA MENU -->
+</div>
+</div>",utama carta tender penender berjaya pekeliling aduan pertanyaan bantuan panduan pengguna direktori agensi perbendaharaan negeri selangor pejabat suk pejabat daerah pbt jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor jabatan lain,Unwanted
+div,"<div class=""container"">
+<div class=""hor-menu"">
+<ul class=""nav navbar-nav"">
+<li><a href=""https://tender.selangor.my""><i class=""fa fa-home"" style=""color: white""></i>
+                            Utama</a></li>
+<li><a href=""https://tender.selangor.my/prices""><i class=""fa fa-list"" style=""color: white""></i> Carta Tender</a></li>
+<li><a href=""https://tender.selangor.my/results""><i class=""fa fa-trophy"" style=""color: white""></i> Penender Berjaya</a></li>
+<li><a href=""https://tender.selangor.my/circulars/list""><i class=""fa fa-file-text"" style=""color: white""></i>
+                            Pekeliling</a></li>
+<!--<li><a href=""https://tender.selangor.my/contact""><i class=""fa fa-phone-square"" style=""color: white""></i> Hubungi Kami</a></li>-->
+<li><a href=""https://tender.selangor.my/aduan""><i class=""fa fa-comment"" style=""color: white""></i>
+						Aduan</a></li>
+<li class=""dropdown"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-question-circle"" style=""color: white""></i> Pertanyaan <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/helps"">Bantuan</a></li>
+<li><a href=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</a></li>
+</ul>
+</li>
+<li class=""dropdown pull-right"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-building"" style=""color: white""></i> Direktori Agensi <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/agencies?type=5"">Perbendaharaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=1"">Pejabat SUK</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=2"">Pejabat Daerah</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=3"">PBT</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=6"">Jabatan Kerja Raya Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=7"">Jabatan Pengairan dan Saliran</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=8"">Jabatan di bawah Kerajaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=4"">Jabatan Lain</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+<!-- END MEGA MENU -->
+</div>",utama carta tender penender berjaya pekeliling aduan pertanyaan bantuan panduan pengguna direktori agensi perbendaharaan negeri selangor pejabat suk pejabat daerah pbt jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor jabatan lain,Unwanted
+div,"<div class=""hor-menu"">
+<ul class=""nav navbar-nav"">
+<li><a href=""https://tender.selangor.my""><i class=""fa fa-home"" style=""color: white""></i>
+                            Utama</a></li>
+<li><a href=""https://tender.selangor.my/prices""><i class=""fa fa-list"" style=""color: white""></i> Carta Tender</a></li>
+<li><a href=""https://tender.selangor.my/results""><i class=""fa fa-trophy"" style=""color: white""></i> Penender Berjaya</a></li>
+<li><a href=""https://tender.selangor.my/circulars/list""><i class=""fa fa-file-text"" style=""color: white""></i>
+                            Pekeliling</a></li>
+<!--<li><a href=""https://tender.selangor.my/contact""><i class=""fa fa-phone-square"" style=""color: white""></i> Hubungi Kami</a></li>-->
+<li><a href=""https://tender.selangor.my/aduan""><i class=""fa fa-comment"" style=""color: white""></i>
+						Aduan</a></li>
+<li class=""dropdown"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-question-circle"" style=""color: white""></i> Pertanyaan <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/helps"">Bantuan</a></li>
+<li><a href=""https://tender.selangor.my/manuals/pendaftaran"">Panduan Pengguna</a></li>
+</ul>
+</li>
+<li class=""dropdown pull-right"">
+<a class=""dropdown-toggle"" data-toggle=""dropdown"" href=""#"">
+<i class=""fa fa-building"" style=""color: white""></i> Direktori Agensi <i class=""fa fa-angle-down""></i>
+</a>
+<ul class=""dropdown-menu pull-right"">
+<li><a href=""https://tender.selangor.my/agencies?type=5"">Perbendaharaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=1"">Pejabat SUK</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=2"">Pejabat Daerah</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=3"">PBT</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=6"">Jabatan Kerja Raya Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=7"">Jabatan Pengairan dan Saliran</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=8"">Jabatan di bawah Kerajaan Negeri Selangor</a>
+</li>
+<li><a href=""https://tender.selangor.my/agencies?type=4"">Jabatan Lain</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>",utama carta tender penender berjaya pekeliling aduan pertanyaan bantuan panduan pengguna direktori agensi perbendaharaan negeri selangor pejabat suk pejabat daerah pbt jabatan kerja raya negeri selangor jabatan pengairan dan saliran jabatan di bawah kerajaan negeri selangor jabatan lain,Unwanted
+div,"<div class=""page-container"">
+<div class=""page-content"">
+<div class=""container"" id=""container"">
+<div class=""row"" id=""landing-top"">
+<div class=""col-lg-9"">
+<div class=""carousel slide"" data-ride=""carousel"" id=""landing-carousel"">
+<!-- Indicators -->
+<ol class=""carousel-indicators"">
+<li class=""active"" data-slide-to=""0"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""1"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""2"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""3"" data-target=""#landing-carousel""></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class=""carousel-inner"" role=""listbox"">
+<div class=""item active"">
+<img alt=""Makluman Pegawai Agensi"" src=""https://tender.selangor.my/uploads/banners/Pegawai-Agensi-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Sila kemaskini alamat syarikat"" src=""https://tender.selangor.my/uploads/banners/KEMASKINI-ALAMAT-SYARIKAT-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Kebenaran Khas , Hubungi Pegawai Bertanggungjawab"" src=""https://tender.selangor.my/uploads/banners/Kebenaran Khas  2023.png""/>
+</div>
+<div class=""item"">
+<a href=""https://www.selangoradvance.com.my"" title=""Selangor Advance"">
+<img alt=""Selangor Advance"" src=""https://tender.selangor.my/uploads/banners/845x280.png""/>
+</a> </div>
+</div>
+<!-- Controls -->
+<a class=""left carousel-control"" data-slide=""prev"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-left""></span>
+<span class=""sr-only"">Previous</span>
+</a>
+<a class=""right carousel-control"" data-slide=""next"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-right""></span>
+<span class=""sr-only"">Next</span>
+</a>
+</div>
+</div>
+<div class=""col-lg-3"">
+<div class=""portlet box blue-selangor"" id=""announcements"">
+<div class=""portlet-title"">
+<div class=""caption""><i class=""fa fa-newspaper-o""></i> Berita Terkini</div>
+</div>
+<div class=""portlet-body"">
+<div id=""announcements-ticker"" style=""position: relative; height: 200px; overflow: hidden;"">
+<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""/news"" id=""btn-view-all"">Lihat Semua</a>
+</div>
+</div>
+</div>
+</div>
+<div class=""row"" id=""landing-register"">
+<div class=""col-lg-9 text"">
+	        	Dapatkan maklumat tender dan sebut harga terkini di negeri Selangor!
+	    	</div>
+<div class=""col-lg-3"">
+<a class=""btn btn-lg btn-block btn-danger"" href=""https://tender.selangor.my/register"" id=""btn-register-vendor"">Daftar Syarikat</a>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""https://tender.selangor.my/company_search"" id=""btn-search-vendor"">Semak Pendaftaran Syarikat</a>
+</div>
+</div>
+<h4><i class=""fa fa-files-o""></i> Tender &amp; Sebut Harga</h4>
+<ul class=""nav nav-tabs nav-justified"" role=""tablist"">
+<li class=""active""><a href=""https://tender.selangor.my"">Semua</a></li>
+<li><a href=""https://tender.selangor.my?type=tenders"">Tender</a></li>
+<li><a href=""https://tender.selangor.my?type=quotations"">Sebut Harga</a></li>
+</ul>
+<div class=""dataTables_wrapper form-inline no-footer"" id=""DataTables_Table_0_wrapper""><div class=""row""><div class=""col-sm-12""><div class=""pull-right""><div class=""dataTables_filter"" id=""DataTables_Table_0_filter""><label>Carian:<input aria-controls=""DataTables_Table_0"" class="""" placeholder="""" type=""search""/></label></div></div><div class=""pull-left""><div class=""dataTables_length"" id=""DataTables_Table_0_length""><label>Papar <select aria-controls=""DataTables_Table_0"" class="""" name=""DataTables_Table_0_length""><option value=""10"">10</option><option value=""25"">25</option><option value=""50"">50</option><option value=""100"">100</option></select> rekod</label></div></div><div class=""clearfix""></div></div></div><table aria-describedby=""DataTables_Table_0_info"" class=""DT2 table table-hover table-compact dataTable no-footer"" data-path=""/"" id=""DataTables_Table_0"" role=""grid"">
+<thead class=""bg-blue-selangor"">
+<tr role=""row""><th aria-controls=""DataTables_Table_0"" aria-label=""No / Tajuk: diaktifkan kepada susunan lajur menaik"" class=""col-lg-4 sorting"" colspan=""1"" rowspan=""1"" style=""width: 130px;"" tabindex=""0"">No / Tajuk</th><th aria-controls=""DataTables_Table_0"" aria-label=""Kod Bidang: diaktifkan kepada susunan lajur menaik"" class=""col-lg-3 sorting"" colspan=""1"" rowspan=""1"" style=""width: 148px;"" tabindex=""0"">Kod Bidang</th><th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Jual: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 140px;"" tabindex=""0"">Tarikh Jual</th><th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Tutup: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 154px;"" tabindex=""0"">Tarikh Tutup</th><th aria-controls=""DataTables_Table_0"" aria-label=""Harga Dokumen: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 189px;"" tabindex=""0"">Harga Dokumen</th></tr>
+</thead>
+<tbody>
+<tr class=""odd""><td class=""dataTables_empty"" colspan=""5"" valign=""top"">Diproses...</td></tr></tbody>
+</table><div class=""row""><div class=""col-sm-12""><div class=""pull-left""><div aria-live=""polite"" class=""dataTables_info"" id=""DataTables_Table_0_info"" role=""status"">Paparan 0 hingga 0 dari 0 rekod</div></div><div class=""pull-right""><div class=""dataTables_paginate paging_bs_normal"" id=""DataTables_Table_0_paginate""><ul class=""pagination""><li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li><li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li></ul></div></div><div class=""clearfix""></div></div></div></div>
+</div>
+</div>
+</div>","previous next berita terkini tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023 lihat semua dapatkan maklumat tender dan sebut harga terkini di negeri selangor! daftar syarikat semak pendaftaran syarikat tender & sebut harga semua tender sebut harga carian:papar 102550100 rekod no / tajukkod bidangtarikh jualtarikh tutupharga dokumen diproses... paparan 0 hingga 0 dari 0 rekodâ sebelumkemudian",Unwanted
+div,"<div class=""page-content"">
+<div class=""container"" id=""container"">
+<div class=""row"" id=""landing-top"">
+<div class=""col-lg-9"">
+<div class=""carousel slide"" data-ride=""carousel"" id=""landing-carousel"">
+<!-- Indicators -->
+<ol class=""carousel-indicators"">
+<li class=""active"" data-slide-to=""0"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""1"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""2"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""3"" data-target=""#landing-carousel""></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class=""carousel-inner"" role=""listbox"">
+<div class=""item active"">
+<img alt=""Makluman Pegawai Agensi"" src=""https://tender.selangor.my/uploads/banners/Pegawai-Agensi-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Sila kemaskini alamat syarikat"" src=""https://tender.selangor.my/uploads/banners/KEMASKINI-ALAMAT-SYARIKAT-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Kebenaran Khas , Hubungi Pegawai Bertanggungjawab"" src=""https://tender.selangor.my/uploads/banners/Kebenaran Khas  2023.png""/>
+</div>
+<div class=""item"">
+<a href=""https://www.selangoradvance.com.my"" title=""Selangor Advance"">
+<img alt=""Selangor Advance"" src=""https://tender.selangor.my/uploads/banners/845x280.png""/>
+</a> </div>
+</div>
+<!-- Controls -->
+<a class=""left carousel-control"" data-slide=""prev"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-left""></span>
+<span class=""sr-only"">Previous</span>
+</a>
+<a class=""right carousel-control"" data-slide=""next"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-right""></span>
+<span class=""sr-only"">Next</span>
+</a>
+</div>
+</div>
+<div class=""col-lg-3"">
+<div class=""portlet box blue-selangor"" id=""announcements"">
+<div class=""portlet-title"">
+<div class=""caption""><i class=""fa fa-newspaper-o""></i> Berita Terkini</div>
+</div>
+<div class=""portlet-body"">
+<div id=""announcements-ticker"" style=""position: relative; height: 200px; overflow: hidden;"">
+<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""/news"" id=""btn-view-all"">Lihat Semua</a>
+</div>
+</div>
+</div>
+</div>
+<div class=""row"" id=""landing-register"">
+<div class=""col-lg-9 text"">
+	        	Dapatkan maklumat tender dan sebut harga terkini di negeri Selangor!
+	    	</div>
+<div class=""col-lg-3"">
+<a class=""btn btn-lg btn-block btn-danger"" href=""https://tender.selangor.my/register"" id=""btn-register-vendor"">Daftar Syarikat</a>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""https://tender.selangor.my/company_search"" id=""btn-search-vendor"">Semak Pendaftaran Syarikat</a>
+</div>
+</div>
+<h4><i class=""fa fa-files-o""></i> Tender &amp; Sebut Harga</h4>
+<ul class=""nav nav-tabs nav-justified"" role=""tablist"">
+<li class=""active""><a href=""https://tender.selangor.my"">Semua</a></li>
+<li><a href=""https://tender.selangor.my?type=tenders"">Tender</a></li>
+<li><a href=""https://tender.selangor.my?type=quotations"">Sebut Harga</a></li>
+</ul>
+<div class=""dataTables_wrapper form-inline no-footer"" id=""DataTables_Table_0_wrapper""><div class=""row""><div class=""col-sm-12""><div class=""pull-right""><div class=""dataTables_filter"" id=""DataTables_Table_0_filter""><label>Carian:<input aria-controls=""DataTables_Table_0"" class="""" placeholder="""" type=""search""/></label></div></div><div class=""pull-left""><div class=""dataTables_length"" id=""DataTables_Table_0_length""><label>Papar <select aria-controls=""DataTables_Table_0"" class="""" name=""DataTables_Table_0_length""><option value=""10"">10</option><option value=""25"">25</option><option value=""50"">50</option><option value=""100"">100</option></select> rekod</label></div></div><div class=""clearfix""></div></div></div><table aria-describedby=""DataTables_Table_0_info"" class=""DT2 table table-hover table-compact dataTable no-footer"" data-path=""/"" id=""DataTables_Table_0"" role=""grid"">
+<thead class=""bg-blue-selangor"">
+<tr role=""row""><th aria-controls=""DataTables_Table_0"" aria-label=""No / Tajuk: diaktifkan kepada susunan lajur menaik"" class=""col-lg-4 sorting"" colspan=""1"" rowspan=""1"" style=""width: 130px;"" tabindex=""0"">No / Tajuk</th><th aria-controls=""DataTables_Table_0"" aria-label=""Kod Bidang: diaktifkan kepada susunan lajur menaik"" class=""col-lg-3 sorting"" colspan=""1"" rowspan=""1"" style=""width: 148px;"" tabindex=""0"">Kod Bidang</th><th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Jual: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 140px;"" tabindex=""0"">Tarikh Jual</th><th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Tutup: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 154px;"" tabindex=""0"">Tarikh Tutup</th><th aria-controls=""DataTables_Table_0"" aria-label=""Harga Dokumen: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 189px;"" tabindex=""0"">Harga Dokumen</th></tr>
+</thead>
+<tbody>
+<tr class=""odd""><td class=""dataTables_empty"" colspan=""5"" valign=""top"">Diproses...</td></tr></tbody>
+</table><div class=""row""><div class=""col-sm-12""><div class=""pull-left""><div aria-live=""polite"" class=""dataTables_info"" id=""DataTables_Table_0_info"" role=""status"">Paparan 0 hingga 0 dari 0 rekod</div></div><div class=""pull-right""><div class=""dataTables_paginate paging_bs_normal"" id=""DataTables_Table_0_paginate""><ul class=""pagination""><li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li><li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li></ul></div></div><div class=""clearfix""></div></div></div></div>
+</div>
+</div>","previous next berita terkini tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023 lihat semua dapatkan maklumat tender dan sebut harga terkini di negeri selangor! daftar syarikat semak pendaftaran syarikat tender & sebut harga semua tender sebut harga carian:papar 102550100 rekod no / tajukkod bidangtarikh jualtarikh tutupharga dokumen diproses... paparan 0 hingga 0 dari 0 rekodâ sebelumkemudian",Unwanted
+div,"<div class=""container"" id=""container"">
+<div class=""row"" id=""landing-top"">
+<div class=""col-lg-9"">
+<div class=""carousel slide"" data-ride=""carousel"" id=""landing-carousel"">
+<!-- Indicators -->
+<ol class=""carousel-indicators"">
+<li class=""active"" data-slide-to=""0"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""1"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""2"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""3"" data-target=""#landing-carousel""></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class=""carousel-inner"" role=""listbox"">
+<div class=""item active"">
+<img alt=""Makluman Pegawai Agensi"" src=""https://tender.selangor.my/uploads/banners/Pegawai-Agensi-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Sila kemaskini alamat syarikat"" src=""https://tender.selangor.my/uploads/banners/KEMASKINI-ALAMAT-SYARIKAT-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Kebenaran Khas , Hubungi Pegawai Bertanggungjawab"" src=""https://tender.selangor.my/uploads/banners/Kebenaran Khas  2023.png""/>
+</div>
+<div class=""item"">
+<a href=""https://www.selangoradvance.com.my"" title=""Selangor Advance"">
+<img alt=""Selangor Advance"" src=""https://tender.selangor.my/uploads/banners/845x280.png""/>
+</a> </div>
+</div>
+<!-- Controls -->
+<a class=""left carousel-control"" data-slide=""prev"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-left""></span>
+<span class=""sr-only"">Previous</span>
+</a>
+<a class=""right carousel-control"" data-slide=""next"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-right""></span>
+<span class=""sr-only"">Next</span>
+</a>
+</div>
+</div>
+<div class=""col-lg-3"">
+<div class=""portlet box blue-selangor"" id=""announcements"">
+<div class=""portlet-title"">
+<div class=""caption""><i class=""fa fa-newspaper-o""></i> Berita Terkini</div>
+</div>
+<div class=""portlet-body"">
+<div id=""announcements-ticker"" style=""position: relative; height: 200px; overflow: hidden;"">
+<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""/news"" id=""btn-view-all"">Lihat Semua</a>
+</div>
+</div>
+</div>
+</div>
+<div class=""row"" id=""landing-register"">
+<div class=""col-lg-9 text"">
+	        	Dapatkan maklumat tender dan sebut harga terkini di negeri Selangor!
+	    	</div>
+<div class=""col-lg-3"">
+<a class=""btn btn-lg btn-block btn-danger"" href=""https://tender.selangor.my/register"" id=""btn-register-vendor"">Daftar Syarikat</a>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""https://tender.selangor.my/company_search"" id=""btn-search-vendor"">Semak Pendaftaran Syarikat</a>
+</div>
+</div>
+<h4><i class=""fa fa-files-o""></i> Tender &amp; Sebut Harga</h4>
+<ul class=""nav nav-tabs nav-justified"" role=""tablist"">
+<li class=""active""><a href=""https://tender.selangor.my"">Semua</a></li>
+<li><a href=""https://tender.selangor.my?type=tenders"">Tender</a></li>
+<li><a href=""https://tender.selangor.my?type=quotations"">Sebut Harga</a></li>
+</ul>
+<div class=""dataTables_wrapper form-inline no-footer"" id=""DataTables_Table_0_wrapper""><div class=""row""><div class=""col-sm-12""><div class=""pull-right""><div class=""dataTables_filter"" id=""DataTables_Table_0_filter""><label>Carian:<input aria-controls=""DataTables_Table_0"" class="""" placeholder="""" type=""search""/></label></div></div><div class=""pull-left""><div class=""dataTables_length"" id=""DataTables_Table_0_length""><label>Papar <select aria-controls=""DataTables_Table_0"" class="""" name=""DataTables_Table_0_length""><option value=""10"">10</option><option value=""25"">25</option><option value=""50"">50</option><option value=""100"">100</option></select> rekod</label></div></div><div class=""clearfix""></div></div></div><table aria-describedby=""DataTables_Table_0_info"" class=""DT2 table table-hover table-compact dataTable no-footer"" data-path=""/"" id=""DataTables_Table_0"" role=""grid"">
+<thead class=""bg-blue-selangor"">
+<tr role=""row""><th aria-controls=""DataTables_Table_0"" aria-label=""No / Tajuk: diaktifkan kepada susunan lajur menaik"" class=""col-lg-4 sorting"" colspan=""1"" rowspan=""1"" style=""width: 130px;"" tabindex=""0"">No / Tajuk</th><th aria-controls=""DataTables_Table_0"" aria-label=""Kod Bidang: diaktifkan kepada susunan lajur menaik"" class=""col-lg-3 sorting"" colspan=""1"" rowspan=""1"" style=""width: 148px;"" tabindex=""0"">Kod Bidang</th><th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Jual: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 140px;"" tabindex=""0"">Tarikh Jual</th><th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Tutup: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 154px;"" tabindex=""0"">Tarikh Tutup</th><th aria-controls=""DataTables_Table_0"" aria-label=""Harga Dokumen: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 189px;"" tabindex=""0"">Harga Dokumen</th></tr>
+</thead>
+<tbody>
+<tr class=""odd""><td class=""dataTables_empty"" colspan=""5"" valign=""top"">Diproses...</td></tr></tbody>
+</table><div class=""row""><div class=""col-sm-12""><div class=""pull-left""><div aria-live=""polite"" class=""dataTables_info"" id=""DataTables_Table_0_info"" role=""status"">Paparan 0 hingga 0 dari 0 rekod</div></div><div class=""pull-right""><div class=""dataTables_paginate paging_bs_normal"" id=""DataTables_Table_0_paginate""><ul class=""pagination""><li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li><li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li></ul></div></div><div class=""clearfix""></div></div></div></div>
+</div>","previous next berita terkini tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023 lihat semua dapatkan maklumat tender dan sebut harga terkini di negeri selangor! daftar syarikat semak pendaftaran syarikat tender & sebut harga semua tender sebut harga carian:papar 102550100 rekod no / tajukkod bidangtarikh jualtarikh tutupharga dokumen diproses... paparan 0 hingga 0 dari 0 rekodâ sebelumkemudian",Unwanted
+div,"<div class=""row"" id=""landing-top"">
+<div class=""col-lg-9"">
+<div class=""carousel slide"" data-ride=""carousel"" id=""landing-carousel"">
+<!-- Indicators -->
+<ol class=""carousel-indicators"">
+<li class=""active"" data-slide-to=""0"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""1"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""2"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""3"" data-target=""#landing-carousel""></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class=""carousel-inner"" role=""listbox"">
+<div class=""item active"">
+<img alt=""Makluman Pegawai Agensi"" src=""https://tender.selangor.my/uploads/banners/Pegawai-Agensi-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Sila kemaskini alamat syarikat"" src=""https://tender.selangor.my/uploads/banners/KEMASKINI-ALAMAT-SYARIKAT-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Kebenaran Khas , Hubungi Pegawai Bertanggungjawab"" src=""https://tender.selangor.my/uploads/banners/Kebenaran Khas  2023.png""/>
+</div>
+<div class=""item"">
+<a href=""https://www.selangoradvance.com.my"" title=""Selangor Advance"">
+<img alt=""Selangor Advance"" src=""https://tender.selangor.my/uploads/banners/845x280.png""/>
+</a> </div>
+</div>
+<!-- Controls -->
+<a class=""left carousel-control"" data-slide=""prev"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-left""></span>
+<span class=""sr-only"">Previous</span>
+</a>
+<a class=""right carousel-control"" data-slide=""next"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-right""></span>
+<span class=""sr-only"">Next</span>
+</a>
+</div>
+</div>
+<div class=""col-lg-3"">
+<div class=""portlet box blue-selangor"" id=""announcements"">
+<div class=""portlet-title"">
+<div class=""caption""><i class=""fa fa-newspaper-o""></i> Berita Terkini</div>
+</div>
+<div class=""portlet-body"">
+<div id=""announcements-ticker"" style=""position: relative; height: 200px; overflow: hidden;"">
+<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""/news"" id=""btn-view-all"">Lihat Semua</a>
+</div>
+</div>
+</div>
+</div>","previous next berita terkini tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023 lihat semua",Tender
+div,"<div class=""col-lg-9"">
+<div class=""carousel slide"" data-ride=""carousel"" id=""landing-carousel"">
+<!-- Indicators -->
+<ol class=""carousel-indicators"">
+<li class=""active"" data-slide-to=""0"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""1"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""2"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""3"" data-target=""#landing-carousel""></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class=""carousel-inner"" role=""listbox"">
+<div class=""item active"">
+<img alt=""Makluman Pegawai Agensi"" src=""https://tender.selangor.my/uploads/banners/Pegawai-Agensi-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Sila kemaskini alamat syarikat"" src=""https://tender.selangor.my/uploads/banners/KEMASKINI-ALAMAT-SYARIKAT-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Kebenaran Khas , Hubungi Pegawai Bertanggungjawab"" src=""https://tender.selangor.my/uploads/banners/Kebenaran Khas  2023.png""/>
+</div>
+<div class=""item"">
+<a href=""https://www.selangoradvance.com.my"" title=""Selangor Advance"">
+<img alt=""Selangor Advance"" src=""https://tender.selangor.my/uploads/banners/845x280.png""/>
+</a> </div>
+</div>
+<!-- Controls -->
+<a class=""left carousel-control"" data-slide=""prev"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-left""></span>
+<span class=""sr-only"">Previous</span>
+</a>
+<a class=""right carousel-control"" data-slide=""next"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-right""></span>
+<span class=""sr-only"">Next</span>
+</a>
+</div>
+</div>",previous next,Unwanted
+div,"<div class=""carousel slide"" data-ride=""carousel"" id=""landing-carousel"">
+<!-- Indicators -->
+<ol class=""carousel-indicators"">
+<li class=""active"" data-slide-to=""0"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""1"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""2"" data-target=""#landing-carousel""></li>
+<li data-slide-to=""3"" data-target=""#landing-carousel""></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class=""carousel-inner"" role=""listbox"">
+<div class=""item active"">
+<img alt=""Makluman Pegawai Agensi"" src=""https://tender.selangor.my/uploads/banners/Pegawai-Agensi-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Sila kemaskini alamat syarikat"" src=""https://tender.selangor.my/uploads/banners/KEMASKINI-ALAMAT-SYARIKAT-2023.png""/>
+</div>
+<div class=""item"">
+<img alt=""Kebenaran Khas , Hubungi Pegawai Bertanggungjawab"" src=""https://tender.selangor.my/uploads/banners/Kebenaran Khas  2023.png""/>
+</div>
+<div class=""item"">
+<a href=""https://www.selangoradvance.com.my"" title=""Selangor Advance"">
+<img alt=""Selangor Advance"" src=""https://tender.selangor.my/uploads/banners/845x280.png""/>
+</a> </div>
+</div>
+<!-- Controls -->
+<a class=""left carousel-control"" data-slide=""prev"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-left""></span>
+<span class=""sr-only"">Previous</span>
+</a>
+<a class=""right carousel-control"" data-slide=""next"" href=""#landing-carousel"" role=""button"">
+<span aria-hidden=""true"" class=""glyphicon glyphicon-chevron-right""></span>
+<span class=""sr-only"">Next</span>
+</a>
+</div>",previous next,Unwanted
+div,"<div class=""col-lg-3"">
+<div class=""portlet box blue-selangor"" id=""announcements"">
+<div class=""portlet-title"">
+<div class=""caption""><i class=""fa fa-newspaper-o""></i> Berita Terkini</div>
+</div>
+<div class=""portlet-body"">
+<div id=""announcements-ticker"" style=""position: relative; height: 200px; overflow: hidden;"">
+<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""/news"" id=""btn-view-all"">Lihat Semua</a>
+</div>
+</div>
+</div>","berita terkini tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023 lihat semua",Tender
+div,"<div class=""portlet box blue-selangor"" id=""announcements"">
+<div class=""portlet-title"">
+<div class=""caption""><i class=""fa fa-newspaper-o""></i> Berita Terkini</div>
+</div>
+<div class=""portlet-body"">
+<div id=""announcements-ticker"" style=""position: relative; height: 200px; overflow: hidden;"">
+<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""/news"" id=""btn-view-all"">Lihat Semua</a>
+</div>
+</div>","berita terkini tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023 lihat semua",Tender
+div,"<div class=""portlet-title"">
+<div class=""caption""><i class=""fa fa-newspaper-o""></i> Berita Terkini</div>
+</div>",berita terkini,Unwanted
+div,"<div class=""caption""><i class=""fa fa-newspaper-o""></i> Berita Terkini</div>",berita terkini,Unwanted
+div,"<div class=""portlet-body"">
+<div id=""announcements-ticker"" style=""position: relative; height: 200px; overflow: hidden;"">
+<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""/news"" id=""btn-view-all"">Lihat Semua</a>
+</div>","tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023 lihat semua",Tender
+div,"<div id=""announcements-ticker"" style=""position: relative; height: 200px; overflow: hidden;"">
+<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>
+</div>","tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023",Tender
+div,"<div class=""general-item-list"" style=""margin: 0px; position: absolute;"">
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>
+<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>
+</div>","tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023 tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023 addendum 01 6 dec 2023 tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023 tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023 tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023",Tender
+div,"<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>",tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023,Tender
+div,"<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>",tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023,Tender
+div,"<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2456"">TAWARAN SEMULA : KERJA-KERJA PENYELENGGARAAN LORONG BELAKANG YANG ROSAK DI SEKITAR PETALING JAYA - MBPJ/SH/K/316/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>",tawaran semula : kerja-kerja penyelenggaraan lorong belakang yang rosak di sekitar petaling jaya - mbpj/sh/k/316/2023(r) 6 dec 2023,Tender
+div,"<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>","tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023",Tender
+div,"<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>","tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023",Tender
+div,"<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2457"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ UTARA).- MBPJ/SH/K/317/2023(R) (R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>","tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej utara).- mbpj/sh/k/317/2023(r) (r) 6 dec 2023",Tender
+div,"<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>","tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023",Tender
+div,"<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>","tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023",Tender
+div,"<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2458"">TAWARAN SEMULA : KERJA-KERJA MEMBAIKI ""POTHOLE"" DI SEKITAR PETALING JAYA (PAKEJ SELATAN). - MBPJ/SH/K/318/2023(R)</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>","tawaran semula : kerja-kerja membaiki ""pothole"" di sekitar petaling jaya (pakej selatan). - mbpj/sh/k/318/2023(r) 6 dec 2023",Tender
+div,"<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>
+</div>",addendum 01 6 dec 2023,Date
+div,"<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>
+</div>",addendum 01 6 dec 2023,Date
+div,"<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2459"">Addendum 01</a>
+<span class=""item-label"">6 Dec 2023</span>
+</div>",addendum 01 6 dec 2023,Date
+div,"<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>
+</div>","tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023",Tender
+div,"<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>
+</div>","tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023",Tender
+div,"<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2455"">TAWARAN SEMULA : AGEN PENGEMBARAAN USAHAWAN PETALING JAYA 2023 KE BANGKOK, THAILAND - MBPJ/SH/P/322/2023(R) (R)</a>
+<span class=""item-label"">30 Nov 2023</span>
+</div>","tawaran semula : agen pengembaraan usahawan petaling jaya 2023 ke bangkok, thailand - mbpj/sh/p/322/2023(r) (r) 30 nov 2023",Tender
+div,"<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>
+</div>",tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023,Tender
+div,"<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>
+</div>",tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023,Tender
+div,"<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2454"">TAWARAN SEMULA:  KAWALAN KESELAMATAN BERSENJATA UNTUK TUGAS MENGAWAL - MBPJ/SH/P/157/2023 (R)(R)</a>
+<span class=""item-label"">28 Nov 2023</span>
+</div>",tawaran semula: kawalan keselamatan bersenjata untuk tugas mengawal - mbpj/sh/p/157/2023 (r)(r) 28 nov 2023,Tender
+div,"<div class=""item"" style=""margin: 0px;"">
+<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>
+</div>",tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023,Tender
+div,"<div class=""item-head"">
+<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>
+</div>",tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023,Tender
+div,"<div class=""item-details"">
+<a href=""https://tender.selangor.my/news/2453"">TAWARAN SEMULA : PENYEWAAN MESIN PENYALIN SEBANYAK SATU(1) UNIT JENIS BERAT - MBPJ/SH/P/307/2023 (R)</a>
+<span class=""item-label"">23 Nov 2023</span>
+</div>",tawaran semula : penyewaan mesin penyalin sebanyak satu(1) unit jenis berat - mbpj/sh/p/307/2023 (r) 23 nov 2023,Tender
+div,"<div class=""row"" id=""landing-register"">
+<div class=""col-lg-9 text"">
+	        	Dapatkan maklumat tender dan sebut harga terkini di negeri Selangor!
+	    	</div>
+<div class=""col-lg-3"">
+<a class=""btn btn-lg btn-block btn-danger"" href=""https://tender.selangor.my/register"" id=""btn-register-vendor"">Daftar Syarikat</a>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""https://tender.selangor.my/company_search"" id=""btn-search-vendor"">Semak Pendaftaran Syarikat</a>
+</div>
+</div>",dapatkan maklumat tender dan sebut harga terkini di negeri selangor! daftar syarikat semak pendaftaran syarikat,Unwanted
+div,"<div class=""col-lg-9 text"">
+	        	Dapatkan maklumat tender dan sebut harga terkini di negeri Selangor!
+	    	</div>",dapatkan maklumat tender dan sebut harga terkini di negeri selangor!,Unwanted
+div,"<div class=""col-lg-3"">
+<a class=""btn btn-lg btn-block btn-danger"" href=""https://tender.selangor.my/register"" id=""btn-register-vendor"">Daftar Syarikat</a>
+<a class=""btn btn-sm btn-block bg-blue-selangor"" href=""https://tender.selangor.my/company_search"" id=""btn-search-vendor"">Semak Pendaftaran Syarikat</a>
+</div>",daftar syarikat semak pendaftaran syarikat,Unwanted
+div,"<div class=""dataTables_wrapper form-inline no-footer"" id=""DataTables_Table_0_wrapper""><div class=""row""><div class=""col-sm-12""><div class=""pull-right""><div class=""dataTables_filter"" id=""DataTables_Table_0_filter""><label>Carian:<input aria-controls=""DataTables_Table_0"" class="""" placeholder="""" type=""search""/></label></div></div><div class=""pull-left""><div class=""dataTables_length"" id=""DataTables_Table_0_length""><label>Papar <select aria-controls=""DataTables_Table_0"" class="""" name=""DataTables_Table_0_length""><option value=""10"">10</option><option value=""25"">25</option><option value=""50"">50</option><option value=""100"">100</option></select> rekod</label></div></div><div class=""clearfix""></div></div></div><table aria-describedby=""DataTables_Table_0_info"" class=""DT2 table table-hover table-compact dataTable no-footer"" data-path=""/"" id=""DataTables_Table_0"" role=""grid"">
+<thead class=""bg-blue-selangor"">
+<tr role=""row""><th aria-controls=""DataTables_Table_0"" aria-label=""No / Tajuk: diaktifkan kepada susunan lajur menaik"" class=""col-lg-4 sorting"" colspan=""1"" rowspan=""1"" style=""width: 130px;"" tabindex=""0"">No / Tajuk</th><th aria-controls=""DataTables_Table_0"" aria-label=""Kod Bidang: diaktifkan kepada susunan lajur menaik"" class=""col-lg-3 sorting"" colspan=""1"" rowspan=""1"" style=""width: 148px;"" tabindex=""0"">Kod Bidang</th><th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Jual: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 140px;"" tabindex=""0"">Tarikh Jual</th><th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Tutup: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 154px;"" tabindex=""0"">Tarikh Tutup</th><th aria-controls=""DataTables_Table_0"" aria-label=""Harga Dokumen: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 189px;"" tabindex=""0"">Harga Dokumen</th></tr>
+</thead>
+<tbody>
+<tr class=""odd""><td class=""dataTables_empty"" colspan=""5"" valign=""top"">Diproses...</td></tr></tbody>
+</table><div class=""row""><div class=""col-sm-12""><div class=""pull-left""><div aria-live=""polite"" class=""dataTables_info"" id=""DataTables_Table_0_info"" role=""status"">Paparan 0 hingga 0 dari 0 rekod</div></div><div class=""pull-right""><div class=""dataTables_paginate paging_bs_normal"" id=""DataTables_Table_0_paginate""><ul class=""pagination""><li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li><li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li></ul></div></div><div class=""clearfix""></div></div></div></div>",carian:papar 102550100 rekod no / tajukkod bidangtarikh jualtarikh tutupharga dokumen diproses... paparan 0 hingga 0 dari 0 rekodâ sebelumkemudian,Unwanted
+div,"<div class=""row""><div class=""col-sm-12""><div class=""pull-right""><div class=""dataTables_filter"" id=""DataTables_Table_0_filter""><label>Carian:<input aria-controls=""DataTables_Table_0"" class="""" placeholder="""" type=""search""/></label></div></div><div class=""pull-left""><div class=""dataTables_length"" id=""DataTables_Table_0_length""><label>Papar <select aria-controls=""DataTables_Table_0"" class="""" name=""DataTables_Table_0_length""><option value=""10"">10</option><option value=""25"">25</option><option value=""50"">50</option><option value=""100"">100</option></select> rekod</label></div></div><div class=""clearfix""></div></div></div>",carian:papar 102550100 rekod,Unwanted
+div,"<div class=""col-sm-12""><div class=""pull-right""><div class=""dataTables_filter"" id=""DataTables_Table_0_filter""><label>Carian:<input aria-controls=""DataTables_Table_0"" class="""" placeholder="""" type=""search""/></label></div></div><div class=""pull-left""><div class=""dataTables_length"" id=""DataTables_Table_0_length""><label>Papar <select aria-controls=""DataTables_Table_0"" class="""" name=""DataTables_Table_0_length""><option value=""10"">10</option><option value=""25"">25</option><option value=""50"">50</option><option value=""100"">100</option></select> rekod</label></div></div><div class=""clearfix""></div></div>",carian:papar 102550100 rekod,Unwanted
+div,"<div class=""pull-right""><div class=""dataTables_filter"" id=""DataTables_Table_0_filter""><label>Carian:<input aria-controls=""DataTables_Table_0"" class="""" placeholder="""" type=""search""/></label></div></div>",carian:,Unwanted
+div,"<div class=""dataTables_filter"" id=""DataTables_Table_0_filter""><label>Carian:<input aria-controls=""DataTables_Table_0"" class="""" placeholder="""" type=""search""/></label></div>",carian:,Unwanted
+div,"<div class=""pull-left""><div class=""dataTables_length"" id=""DataTables_Table_0_length""><label>Papar <select aria-controls=""DataTables_Table_0"" class="""" name=""DataTables_Table_0_length""><option value=""10"">10</option><option value=""25"">25</option><option value=""50"">50</option><option value=""100"">100</option></select> rekod</label></div></div>",papar 102550100 rekod,Unwanted
+div,"<div class=""dataTables_length"" id=""DataTables_Table_0_length""><label>Papar <select aria-controls=""DataTables_Table_0"" class="""" name=""DataTables_Table_0_length""><option value=""10"">10</option><option value=""25"">25</option><option value=""50"">50</option><option value=""100"">100</option></select> rekod</label></div>",papar 102550100 rekod,Unwanted
+div,"<div class=""row""><div class=""col-sm-12""><div class=""pull-left""><div aria-live=""polite"" class=""dataTables_info"" id=""DataTables_Table_0_info"" role=""status"">Paparan 0 hingga 0 dari 0 rekod</div></div><div class=""pull-right""><div class=""dataTables_paginate paging_bs_normal"" id=""DataTables_Table_0_paginate""><ul class=""pagination""><li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li><li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li></ul></div></div><div class=""clearfix""></div></div></div>",paparan 0 hingga 0 dari 0 rekodâ sebelumkemudian,Unwanted
+div,"<div class=""col-sm-12""><div class=""pull-left""><div aria-live=""polite"" class=""dataTables_info"" id=""DataTables_Table_0_info"" role=""status"">Paparan 0 hingga 0 dari 0 rekod</div></div><div class=""pull-right""><div class=""dataTables_paginate paging_bs_normal"" id=""DataTables_Table_0_paginate""><ul class=""pagination""><li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li><li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li></ul></div></div><div class=""clearfix""></div></div>",paparan 0 hingga 0 dari 0 rekodâ sebelumkemudian,Unwanted
+div,"<div class=""pull-left""><div aria-live=""polite"" class=""dataTables_info"" id=""DataTables_Table_0_info"" role=""status"">Paparan 0 hingga 0 dari 0 rekod</div></div>",paparan 0 hingga 0 dari 0 rekod,Unwanted
+div,"<div aria-live=""polite"" class=""dataTables_info"" id=""DataTables_Table_0_info"" role=""status"">Paparan 0 hingga 0 dari 0 rekod</div>",paparan 0 hingga 0 dari 0 rekod,Unwanted
+div,"<div class=""pull-right""><div class=""dataTables_paginate paging_bs_normal"" id=""DataTables_Table_0_paginate""><ul class=""pagination""><li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li><li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li></ul></div></div>",sebelumkemudian,Unwanted
+div,"<div class=""dataTables_paginate paging_bs_normal"" id=""DataTables_Table_0_paginate""><ul class=""pagination""><li class=""prev disabled""><a href=""#""><span class=""glyphicon glyphicon-chevron-left""></span>Â Sebelum</a></li><li class=""next disabled""><a href=""#"">KemudianÂ <span class=""glyphicon glyphicon-chevron-right""></span></a></li></ul></div>",sebelumkemudian,Unwanted
+div,"<div class=""container"">
+<div class=""row"">
+<div class=""col-lg-4 agency-info"">
+<h1>Maklumat Berkaitan Pendaftaran / Kemaskini</h1>
+<p>
+						Unit Perancang Ekonomi Negeri (UPEN) <br/>
+						Tingkat 4, Bangunan Sultan Salahuddin Abdul Aziz Shah <br/>
+						40503 Shah Alam. Selangor Darul Ehsan <br/>
+</p>
+<h1>Waktu Urusan :</h1> <p>8.00 Pagi-5.00 Petang , Kecuali Sabtu, Ahad dan Cuti Umum</p>
+<h1>Alamat Emel  :</h1> <p><a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a></p>
+<p>
+						- Masalah berkaitan pendaftaran <br/>
+						- Masalah berkaitan kemaskini <br/>
+						- Pendaftaran / Kemaskini mengambil 3 hari waktu bekerja
+					</p>
+</div>
+<div class=""col-lg-4 agency-info"">
+<h1>Maklumat Berkaitan Masalah Teknikal Sistem</h1>
+<p>
+						Bahagian Pengurusan Maklumat (BPM) <br/>
+						Tingkat 2, Bangunan Sultan Salahuddin Abdul Aziz Shah <br/>
+						40503 Shah Alam. Selangor Darul Ehsan
+					</p>
+<h1>Waktu Urusan :</h1> <p> 8.00 Pagi - 5.00 Petang , Kecuali Sabtu, Ahad dan Cuti Umum</p>
+<h1>Alamat Emel  :</h1> <p><a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a></p>
+<p>
+						- Mesti ada tajuk e-mail <br/>
+						- Nyatakan masalah dengan jelas <br/>
+						- Lampirkan Screen Shot  <br/>
+						- Untuk masalah pembayaran, sila lampirkan salinan transaksi bank. <br/>
+						- Masalah transaksi pembayaran dengan PBT diuruskan oleh PBT. <br/>
+						- Masalah transaksi dengan Pejabat SUK, diuruskan oleh Bahagian Khidmat Pengurusan (BKP, Unit Kewangan, Tingkat 17)
+					</p>
+</div>
+<div class=""col-lg-3"">
+<p id=""payment-kinds"">
+<span>Pendaftaran Syarikat, Pembaharuan dan Pembelian Dokumen Tender / Sebut Harga boleh dilakukan menggunakan</span><br/><br/>
+<i class=""temp-icon temp-icon-fpx""></i> </p>
+<p class=""text-center"">
+<img alt=""sirim"" src=""https://tender.selangor.my/images/sirim.png"" style=""margin-bottom: -5px"" width=""210px""/>
+<br/> <br/>
+<span class=""text-center"">
+<b>Versi Sistem  : STOS Ver 2.3</b>
+</span>
+<br/>
+</p>
+<p class=""text-center"">
+</p>
+</div>
+</div>
+</div>","maklumat berkaitan pendaftaran / kemaskini unit perancang ekonomi negeri (upen) tingkat 4, bangunan sultan salahuddin abdul aziz shah 40503 shah alam. selangor darul ehsan waktu urusan : 8.00 pagi-5.00 petang , kecuali sabtu, ahad dan cuti umum alamat emel : tenderadmin@selangor.gov.my - masalah berkaitan pendaftaran - masalah berkaitan kemaskini - pendaftaran / kemaskini mengambil 3 hari waktu bekerja maklumat berkaitan masalah teknikal sistem bahagian pengurusan maklumat (bpm) tingkat 2, bangunan sultan salahuddin abdul aziz shah 40503 shah alam. selangor darul ehsan waktu urusan : 8.00 pagi - 5.00 petang , kecuali sabtu, ahad dan cuti umum alamat emel : tenderadmin@selangor.gov.my - mesti ada tajuk e-mail - nyatakan masalah dengan jelas - lampirkan screen shot - untuk masalah pembayaran, sila lampirkan salinan transaksi bank. - masalah transaksi pembayaran dengan pbt diuruskan oleh pbt. - masalah transaksi dengan pejabat suk, diuruskan oleh bahagian khidmat pengurusan (bkp, unit kewangan, tingkat 17) pendaftaran syarikat, pembaharuan dan pembelian dokumen tender / sebut harga boleh dilakukan menggunakan versi sistem : stos ver 2.3",Unwanted
+div,"<div class=""row"">
+<div class=""col-lg-4 agency-info"">
+<h1>Maklumat Berkaitan Pendaftaran / Kemaskini</h1>
+<p>
+						Unit Perancang Ekonomi Negeri (UPEN) <br/>
+						Tingkat 4, Bangunan Sultan Salahuddin Abdul Aziz Shah <br/>
+						40503 Shah Alam. Selangor Darul Ehsan <br/>
+</p>
+<h1>Waktu Urusan :</h1> <p>8.00 Pagi-5.00 Petang , Kecuali Sabtu, Ahad dan Cuti Umum</p>
+<h1>Alamat Emel  :</h1> <p><a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a></p>
+<p>
+						- Masalah berkaitan pendaftaran <br/>
+						- Masalah berkaitan kemaskini <br/>
+						- Pendaftaran / Kemaskini mengambil 3 hari waktu bekerja
+					</p>
+</div>
+<div class=""col-lg-4 agency-info"">
+<h1>Maklumat Berkaitan Masalah Teknikal Sistem</h1>
+<p>
+						Bahagian Pengurusan Maklumat (BPM) <br/>
+						Tingkat 2, Bangunan Sultan Salahuddin Abdul Aziz Shah <br/>
+						40503 Shah Alam. Selangor Darul Ehsan
+					</p>
+<h1>Waktu Urusan :</h1> <p> 8.00 Pagi - 5.00 Petang , Kecuali Sabtu, Ahad dan Cuti Umum</p>
+<h1>Alamat Emel  :</h1> <p><a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a></p>
+<p>
+						- Mesti ada tajuk e-mail <br/>
+						- Nyatakan masalah dengan jelas <br/>
+						- Lampirkan Screen Shot  <br/>
+						- Untuk masalah pembayaran, sila lampirkan salinan transaksi bank. <br/>
+						- Masalah transaksi pembayaran dengan PBT diuruskan oleh PBT. <br/>
+						- Masalah transaksi dengan Pejabat SUK, diuruskan oleh Bahagian Khidmat Pengurusan (BKP, Unit Kewangan, Tingkat 17)
+					</p>
+</div>
+<div class=""col-lg-3"">
+<p id=""payment-kinds"">
+<span>Pendaftaran Syarikat, Pembaharuan dan Pembelian Dokumen Tender / Sebut Harga boleh dilakukan menggunakan</span><br/><br/>
+<i class=""temp-icon temp-icon-fpx""></i> </p>
+<p class=""text-center"">
+<img alt=""sirim"" src=""https://tender.selangor.my/images/sirim.png"" style=""margin-bottom: -5px"" width=""210px""/>
+<br/> <br/>
+<span class=""text-center"">
+<b>Versi Sistem  : STOS Ver 2.3</b>
+</span>
+<br/>
+</p>
+<p class=""text-center"">
+</p>
+</div>
+</div>","maklumat berkaitan pendaftaran / kemaskini unit perancang ekonomi negeri (upen) tingkat 4, bangunan sultan salahuddin abdul aziz shah 40503 shah alam. selangor darul ehsan waktu urusan : 8.00 pagi-5.00 petang , kecuali sabtu, ahad dan cuti umum alamat emel : tenderadmin@selangor.gov.my - masalah berkaitan pendaftaran - masalah berkaitan kemaskini - pendaftaran / kemaskini mengambil 3 hari waktu bekerja maklumat berkaitan masalah teknikal sistem bahagian pengurusan maklumat (bpm) tingkat 2, bangunan sultan salahuddin abdul aziz shah 40503 shah alam. selangor darul ehsan waktu urusan : 8.00 pagi - 5.00 petang , kecuali sabtu, ahad dan cuti umum alamat emel : tenderadmin@selangor.gov.my - mesti ada tajuk e-mail - nyatakan masalah dengan jelas - lampirkan screen shot - untuk masalah pembayaran, sila lampirkan salinan transaksi bank. - masalah transaksi pembayaran dengan pbt diuruskan oleh pbt. - masalah transaksi dengan pejabat suk, diuruskan oleh bahagian khidmat pengurusan (bkp, unit kewangan, tingkat 17) pendaftaran syarikat, pembaharuan dan pembelian dokumen tender / sebut harga boleh dilakukan menggunakan versi sistem : stos ver 2.3",Unwanted
+div,"<div class=""col-lg-4 agency-info"">
+<h1>Maklumat Berkaitan Pendaftaran / Kemaskini</h1>
+<p>
+						Unit Perancang Ekonomi Negeri (UPEN) <br/>
+						Tingkat 4, Bangunan Sultan Salahuddin Abdul Aziz Shah <br/>
+						40503 Shah Alam. Selangor Darul Ehsan <br/>
+</p>
+<h1>Waktu Urusan :</h1> <p>8.00 Pagi-5.00 Petang , Kecuali Sabtu, Ahad dan Cuti Umum</p>
+<h1>Alamat Emel  :</h1> <p><a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a></p>
+<p>
+						- Masalah berkaitan pendaftaran <br/>
+						- Masalah berkaitan kemaskini <br/>
+						- Pendaftaran / Kemaskini mengambil 3 hari waktu bekerja
+					</p>
+</div>","maklumat berkaitan pendaftaran / kemaskini unit perancang ekonomi negeri (upen) tingkat 4, bangunan sultan salahuddin abdul aziz shah 40503 shah alam. selangor darul ehsan waktu urusan : 8.00 pagi-5.00 petang , kecuali sabtu, ahad dan cuti umum alamat emel : tenderadmin@selangor.gov.my - masalah berkaitan pendaftaran - masalah berkaitan kemaskini - pendaftaran / kemaskini mengambil 3 hari waktu bekerja",Unwanted
+div,"<div class=""col-lg-4 agency-info"">
+<h1>Maklumat Berkaitan Masalah Teknikal Sistem</h1>
+<p>
+						Bahagian Pengurusan Maklumat (BPM) <br/>
+						Tingkat 2, Bangunan Sultan Salahuddin Abdul Aziz Shah <br/>
+						40503 Shah Alam. Selangor Darul Ehsan
+					</p>
+<h1>Waktu Urusan :</h1> <p> 8.00 Pagi - 5.00 Petang , Kecuali Sabtu, Ahad dan Cuti Umum</p>
+<h1>Alamat Emel  :</h1> <p><a href=""mailto:tenderadmin@selangor.gov.my"">tenderadmin@selangor.gov.my</a></p>
+<p>
+						- Mesti ada tajuk e-mail <br/>
+						- Nyatakan masalah dengan jelas <br/>
+						- Lampirkan Screen Shot  <br/>
+						- Untuk masalah pembayaran, sila lampirkan salinan transaksi bank. <br/>
+						- Masalah transaksi pembayaran dengan PBT diuruskan oleh PBT. <br/>
+						- Masalah transaksi dengan Pejabat SUK, diuruskan oleh Bahagian Khidmat Pengurusan (BKP, Unit Kewangan, Tingkat 17)
+					</p>
+</div>","maklumat berkaitan masalah teknikal sistem bahagian pengurusan maklumat (bpm) tingkat 2, bangunan sultan salahuddin abdul aziz shah 40503 shah alam. selangor darul ehsan waktu urusan : 8.00 pagi - 5.00 petang , kecuali sabtu, ahad dan cuti umum alamat emel : tenderadmin@selangor.gov.my - mesti ada tajuk e-mail - nyatakan masalah dengan jelas - lampirkan screen shot - untuk masalah pembayaran, sila lampirkan salinan transaksi bank. - masalah transaksi pembayaran dengan pbt diuruskan oleh pbt. - masalah transaksi dengan pejabat suk, diuruskan oleh bahagian khidmat pengurusan (bkp, unit kewangan, tingkat 17)",Unwanted
+div,"<div class=""col-lg-3"">
+<p id=""payment-kinds"">
+<span>Pendaftaran Syarikat, Pembaharuan dan Pembelian Dokumen Tender / Sebut Harga boleh dilakukan menggunakan</span><br/><br/>
+<i class=""temp-icon temp-icon-fpx""></i> </p>
+<p class=""text-center"">
+<img alt=""sirim"" src=""https://tender.selangor.my/images/sirim.png"" style=""margin-bottom: -5px"" width=""210px""/>
+<br/> <br/>
+<span class=""text-center"">
+<b>Versi Sistem  : STOS Ver 2.3</b>
+</span>
+<br/>
+</p>
+<p class=""text-center"">
+</p>
+</div>","pendaftaran syarikat, pembaharuan dan pembelian dokumen tender / sebut harga boleh dilakukan menggunakan versi sistem : stos ver 2.3",Unwanted
+div,"<div class=""footer-darker"">
+<div class=""container"">
+<div class=""row"">
+<div class=""col-lg-6"">Â©2023 Setiausaha Kerajaan Negeri Selangor. Hak Cipta Terpelihara. | 
+            <a href=""https://tender.selangor.my/privacy"">Polisi Keselamatan</a>
+</div>
+<div class=""col-lg-6 right"">Sesuai dipapar menggunakan Edge 2023, Firefox 110.0, Google Chrome 110.0 ke atas dengan resolusi 1024 x 768.</div>
+</div>
+</div>
+</div>","â©2023 setiausaha kerajaan negeri selangor. hak cipta terpelihara. | polisi keselamatan sesuai dipapar menggunakan edge 2023, firefox 110.0, google chrome 110.0 ke atas dengan resolusi 1024 x 768.",Unwanted
+div,"<div class=""container"">
+<div class=""row"">
+<div class=""col-lg-6"">Â©2023 Setiausaha Kerajaan Negeri Selangor. Hak Cipta Terpelihara. | 
+            <a href=""https://tender.selangor.my/privacy"">Polisi Keselamatan</a>
+</div>
+<div class=""col-lg-6 right"">Sesuai dipapar menggunakan Edge 2023, Firefox 110.0, Google Chrome 110.0 ke atas dengan resolusi 1024 x 768.</div>
+</div>
+</div>","â©2023 setiausaha kerajaan negeri selangor. hak cipta terpelihara. | polisi keselamatan sesuai dipapar menggunakan edge 2023, firefox 110.0, google chrome 110.0 ke atas dengan resolusi 1024 x 768.",Unwanted
+div,"<div class=""row"">
+<div class=""col-lg-6"">Â©2023 Setiausaha Kerajaan Negeri Selangor. Hak Cipta Terpelihara. | 
+            <a href=""https://tender.selangor.my/privacy"">Polisi Keselamatan</a>
+</div>
+<div class=""col-lg-6 right"">Sesuai dipapar menggunakan Edge 2023, Firefox 110.0, Google Chrome 110.0 ke atas dengan resolusi 1024 x 768.</div>
+</div>","â©2023 setiausaha kerajaan negeri selangor. hak cipta terpelihara. | polisi keselamatan sesuai dipapar menggunakan edge 2023, firefox 110.0, google chrome 110.0 ke atas dengan resolusi 1024 x 768.",Unwanted
+div,"<div class=""col-lg-6"">Â©2023 Setiausaha Kerajaan Negeri Selangor. Hak Cipta Terpelihara. | 
+            <a href=""https://tender.selangor.my/privacy"">Polisi Keselamatan</a>
+</div>",â©2023 setiausaha kerajaan negeri selangor. hak cipta terpelihara. | polisi keselamatan,Unwanted
+div,"<div class=""col-lg-6 right"">Sesuai dipapar menggunakan Edge 2023, Firefox 110.0, Google Chrome 110.0 ke atas dengan resolusi 1024 x 768.</div>","sesuai dipapar menggunakan edge 2023, firefox 110.0, google chrome 110.0 ke atas dengan resolusi 1024 x 768.",Unwanted
+div,"<div aria-hidden=""true"" aria-labelledby=""myPopupLabel"" class=""modal fade"" id=""myPopup"" role=""dialog"" tabindex=""-1"">
+<div class=""modal-dialog"" role=""document"">
+<form action="""" id=""myPopupForm"" method="""">
+<input name=""_token"" type=""hidden"" value=""XtiLrypspVauIcgZMk9JIqo0uhhj92EkHFXTVgNL""/> <div class=""modal-content"">
+<div class=""modal-header"" id=""modal_header"">
+<h5 class=""modal-title"" id=""modal_title"">Modal title</h5>
+<button aria-label=""Close"" class=""close"" data-dismiss=""modal"" type=""button"">
+<span aria-hidden=""true"">Ã</span>
+</button>
+</div>
+<div class=""modal-body"" id=""modal_body"">
+</div>
+<div class=""modal-footer"">
+<button class=""btn btn-secondary"" data-dismiss=""modal"" id=""button_cancel"" type=""button"">Close</button>
+<button class=""btn btn-primary"" id=""button_confirm"" type=""button"">Save changes</button>
+</div>
+</div>
+</form>
+</div>
+</div>",modal title ã close save changes,Unwanted
+div,"<div class=""modal-dialog"" role=""document"">
+<form action="""" id=""myPopupForm"" method="""">
+<input name=""_token"" type=""hidden"" value=""XtiLrypspVauIcgZMk9JIqo0uhhj92EkHFXTVgNL""/> <div class=""modal-content"">
+<div class=""modal-header"" id=""modal_header"">
+<h5 class=""modal-title"" id=""modal_title"">Modal title</h5>
+<button aria-label=""Close"" class=""close"" data-dismiss=""modal"" type=""button"">
+<span aria-hidden=""true"">Ã</span>
+</button>
+</div>
+<div class=""modal-body"" id=""modal_body"">
+</div>
+<div class=""modal-footer"">
+<button class=""btn btn-secondary"" data-dismiss=""modal"" id=""button_cancel"" type=""button"">Close</button>
+<button class=""btn btn-primary"" id=""button_confirm"" type=""button"">Save changes</button>
+</div>
+</div>
+</form>
+</div>",modal title ã close save changes,Unwanted
+div,"<div class=""modal-content"">
+<div class=""modal-header"" id=""modal_header"">
+<h5 class=""modal-title"" id=""modal_title"">Modal title</h5>
+<button aria-label=""Close"" class=""close"" data-dismiss=""modal"" type=""button"">
+<span aria-hidden=""true"">Ã</span>
+</button>
+</div>
+<div class=""modal-body"" id=""modal_body"">
+</div>
+<div class=""modal-footer"">
+<button class=""btn btn-secondary"" data-dismiss=""modal"" id=""button_cancel"" type=""button"">Close</button>
+<button class=""btn btn-primary"" id=""button_confirm"" type=""button"">Save changes</button>
+</div>
+</div>",modal title ã close save changes,Unwanted
+div,"<div class=""modal-header"" id=""modal_header"">
+<h5 class=""modal-title"" id=""modal_title"">Modal title</h5>
+<button aria-label=""Close"" class=""close"" data-dismiss=""modal"" type=""button"">
+<span aria-hidden=""true"">Ã</span>
+</button>
+</div>",modal title ã,Unwanted
+div,"<div class=""modal-footer"">
+<button class=""btn btn-secondary"" data-dismiss=""modal"" id=""button_cancel"" type=""button"">Close</button>
+<button class=""btn btn-primary"" id=""button_confirm"" type=""button"">Save changes</button>
+</div>",close save changes,Unwanted
+div,"<div class=""sidr left"" id=""sidr""><div class=""sidr-inner"">undefined</div></div>",undefined,Unwanted
+div,"<div class=""sidr-inner"">undefined</div>",undefined,Unwanted
+h1,<h1>Maklumat Berkaitan Pendaftaran / Kemaskini</h1>,maklumat berkaitan pendaftaran / kemaskini,Unwanted
+h1,<h1>Waktu Urusan :</h1>,waktu urusan :,Unwanted
+h1,<h1>Alamat Emel  :</h1>,alamat emel :,Unwanted
+h1,<h1>Maklumat Berkaitan Masalah Teknikal Sistem</h1>,maklumat berkaitan masalah teknikal sistem,Unwanted
+h1,<h1>Waktu Urusan :</h1>,waktu urusan :,Unwanted
+h1,<h1>Alamat Emel  :</h1>,alamat emel :,Unwanted
+h5,"<h5 class=""modal-title"" id=""modal_title"">Modal title</h5>",modal title,Unwanted
+td,"<td class=""dataTables_empty"" colspan=""5"" valign=""top"">Diproses...</td>",diproses...,Unwanted
+th,"<th aria-controls=""DataTables_Table_0"" aria-label=""No / Tajuk: diaktifkan kepada susunan lajur menaik"" class=""col-lg-4 sorting"" colspan=""1"" rowspan=""1"" style=""width: 130px;"" tabindex=""0"">No / Tajuk</th>",no / tajuk,Unwanted
+th,"<th aria-controls=""DataTables_Table_0"" aria-label=""Kod Bidang: diaktifkan kepada susunan lajur menaik"" class=""col-lg-3 sorting"" colspan=""1"" rowspan=""1"" style=""width: 148px;"" tabindex=""0"">Kod Bidang</th>",kod bidang,Unwanted
+th,"<th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Jual: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 140px;"" tabindex=""0"">Tarikh Jual</th>",tarikh jual,Unwanted
+th,"<th aria-controls=""DataTables_Table_0"" aria-label=""Tarikh Tutup: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 154px;"" tabindex=""0"">Tarikh Tutup</th>",tarikh tutup,Unwanted
+th,"<th aria-controls=""DataTables_Table_0"" aria-label=""Harga Dokumen: diaktifkan kepada susunan lajur menaik"" class=""sorting"" colspan=""1"" rowspan=""1"" style=""width: 189px;"" tabindex=""0"">Harga Dokumen</th>",harga dokumen,Unwanted
