@@ -225,6 +225,7 @@ def scrape(page_source):
     # Save the updated DataFrame to a new CSV file
     class_data_df.to_csv('class_data_with_text.csv', index=False)
 
+    TenderResult = {'Final': []}
     for index, row in class_data_df.iterrows():
 
         # Find all elements based on the tag and class
@@ -234,9 +235,21 @@ def scrape(page_source):
         TenderCleaned = [Tender.text.strip() for Tender in Tenderlist]
 
         # Do something with TenderCleaned, for example, print it
-        print(TenderCleaned)
-    print("\n","next","\n")
-    #TenderCleaned = [Tender.text.strip() for Tender in Tenderlist]
+        #print(TenderCleaned)
+        
+        for v in TenderCleaned:
+            TenderResult['Final'].append(v)
+            print(v)
+            print("\n")
+            
+        
+        print("\n")
+    
+    TenderResult_df = pd.DataFrame(TenderResult)
+    TenderResult_df = TenderResult_df.drop_duplicates()
+    TenderResult_df.to_csv('TenderResult.csv', index=False)
+
+    return TenderResult_df
 
 # Prompt user for URL
 val = input('Enter a URL: ')  # Prompt the user enter  URL
@@ -248,7 +261,8 @@ wait.until(EC.url_to_be(val))
 if get_url == val:
     page_source = driver.page_source
 
-scrape(page_source)
+tender_df = scrape(page_source)
+
 
 # Ask user if they want to scrape more pages
 continue_scraping = input("Do you want to scrape from other pages? (yes/no): ")
@@ -266,9 +280,10 @@ if continue_scraping.lower() == 'yes':
                 break
         
             next_button.click()
-            time.sleep(5)
+            time.sleep(3)
             page_source = driver.page_source
-            scrape(page_source)
+            current_page = scrape(page_source)
+            tender_df = pd.concat([tender_df, current_page], ignore_index=True)
             #initial_data = pd.concat([initial_data, page_data], ignore_index=True)
             
             
@@ -281,6 +296,32 @@ if continue_scraping.lower() == 'yes':
         except TimeoutException:
             print(f"Timeout occurred on page: Page {page_number}")
             break
-        
+
+    svm_classifier = joblib.load('FYP2_model.pkl')
+    tfidf_vectorizer = joblib.load('FYP2_vectorizer.pkl')
+
+    # Load the test CSV file LOOK HEREeeeeeeeeeeeeeeeeeeeee
+    #test_df = pd.read_csv('pagination_data.csv', encoding='unicode_escape')
+
+    # Apply the same text preprocessing to the 'Content' column
+    tender_df['Final'] = tender_df['Final'].apply(preprocess_text)
+
+    # Transform the test data using the same TF-IDF vectorizer
+    X_test_tfidf = tfidf_vectorizer.transform(tender_df['Final'].values.astype('U'))
+
+    # Predict the classes using the trained SVM classifier
+    predictions = svm_classifier.predict(X_test_tfidf)
+
+    # Add the predicted classes to the test DataFrame
+    tender_df['Predicted_Class'] = predictions
+
+    # Save the updated DataFrame to a new CSV file
+    tender_df.to_csv('TenderResult_Predicted.csv', index=False)
+
+    tender_df = tender_df[tender_df['Predicted_Class'] == 'Tender']
+    tender_df = tender_df.drop_duplicates()
+
+    Final_tender_list = tender_df.drop('Predicted_Class', axis=1)
+    Final_tender_list.to_csv('Final_tender_list.csv', index=False)   
 
 driver.quit()
