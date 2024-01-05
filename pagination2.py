@@ -38,6 +38,8 @@ from selenium.common.exceptions import NoSuchElementException, TimeoutException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import sys
+
 
 options = Options()
 #options.add_argument('--headless')
@@ -164,12 +166,12 @@ def scrape(page_source):
     df = df.dropna(subset=['Content'])  # Drop rows where 'Content' is null
     df.to_csv('Train_data.csv', index=False)
 
-    log("Data saved to predict")
+    #log("Data saved to predict")
 
 
     #Predicting the data
-    svm_classifier = joblib.load('FYP2_model.pkl')
-    tfidf_vectorizer = joblib.load('FYP2_vectorizer.pkl')
+    svm_classifier = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_model.pkl')
+    tfidf_vectorizer = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_vectorizer.pkl')
 
     # Load the test CSV file
     test_df = pd.read_csv('Train_data.csv', encoding='unicode_escape')
@@ -239,11 +241,11 @@ def scrape(page_source):
         
         for v in TenderCleaned:
             TenderResult['Final'].append(v)
-            print(v)
-            print("\n")
+            #print(v)
+            #print("\n")
             
         
-        print("\n")
+        #print("\n")
     
     TenderResult_df = pd.DataFrame(TenderResult)
     TenderResult_df = TenderResult_df.drop_duplicates()
@@ -252,7 +254,9 @@ def scrape(page_source):
     return TenderResult_df
 
 # Prompt user for URL
-val = input('Enter a URL: ')  # Prompt the user enter  URL
+val = sys.argv[1]
+
+#val = input('Enter a URL: ')  # Prompt the user enter  URL
 wait = WebDriverWait(driver, 10)
 driver.get(val)
 get_url = driver.current_url
@@ -265,10 +269,13 @@ tender_df = scrape(page_source)
 
 
 # Ask user if they want to scrape more pages
-continue_scraping = input("Do you want to scrape from other pages? (yes/no): ")
+#continue_scraping = input("Do you want to scrape from other pages? (yes/no): ")
+continue_scraping = sys.argv[2]
 if continue_scraping.lower() == 'yes':
-    next_button_xpath = input("Enter the XPath for the 'Next' button: ")
-    disabled_class = input("Enter the class name when the 'Next' button is disabled: ")
+    #next_button_xpath = input("Enter the XPath for the 'Next' button: ")
+    next_button_xpath = sys.argv[3]
+    #disabled_class = input("Enter the class name when the 'Next' button is disabled: ")
+    disabled_class = sys.argv[4]
     page_number = 1
     #next_button = WebDriverWait(driver, 100).until(EC.element_to_be_clickable((By.XPATH, next_button_xpath)))
     while True:
@@ -288,7 +295,7 @@ if continue_scraping.lower() == 'yes':
             
             
             page_number += 1
-            print(page_number)
+            #print(page_number)
             #time.sleep(2)
         except NoSuchElementException:
             print(f"Element not found on page: Page {page_number}")
@@ -297,31 +304,51 @@ if continue_scraping.lower() == 'yes':
             print(f"Timeout occurred on page: Page {page_number}")
             break
 
-    svm_classifier = joblib.load('FYP2_model.pkl')
-    tfidf_vectorizer = joblib.load('FYP2_vectorizer.pkl')
+svm_classifier = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_model.pkl')
+tfidf_vectorizer = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_vectorizer.pkl')
 
     # Load the test CSV file LOOK HEREeeeeeeeeeeeeeeeeeeeee
     #test_df = pd.read_csv('pagination_data.csv', encoding='unicode_escape')
 
     # Apply the same text preprocessing to the 'Content' column
-    tender_df['Final'] = tender_df['Final'].apply(preprocess_text)
+tender_df['Final'] = tender_df['Final'].apply(preprocess_text)
 
     # Transform the test data using the same TF-IDF vectorizer
-    X_test_tfidf = tfidf_vectorizer.transform(tender_df['Final'].values.astype('U'))
+X_test_tfidf = tfidf_vectorizer.transform(tender_df['Final'].values.astype('U'))
 
     # Predict the classes using the trained SVM classifier
-    predictions = svm_classifier.predict(X_test_tfidf)
+predictions = svm_classifier.predict(X_test_tfidf)
 
     # Add the predicted classes to the test DataFrame
-    tender_df['Predicted_Class'] = predictions
+tender_df['Predicted_Class'] = predictions
 
     # Save the updated DataFrame to a new CSV file
-    tender_df.to_csv('TenderResult_Predicted.csv', index=False)
+tender_df.to_csv('TenderResult_Predicted.csv', index=False)
 
-    tender_df = tender_df[tender_df['Predicted_Class'] == 'Tender']
-    tender_df = tender_df.drop_duplicates()
+tender_df = tender_df[tender_df['Predicted_Class'] == 'Tender']
+tender_df = tender_df.drop_duplicates()
 
-    Final_tender_list = tender_df.drop('Predicted_Class', axis=1)
-    Final_tender_list.to_csv('Final_tender_list.csv', index=False)   
+Final_tender_list = tender_df.drop('Predicted_Class', axis=1)
+Final_tender_list.to_csv('Final_tender_list.csv', index=False)
+
+
+# Iterating and printing
+index = 0
+for index, row in Final_tender_list.iterrows():
+    print(f"{index + 1}. {row['Final']}")   
+
+print('\n','IT_TENDER','\n')
+
+with open(r'C:\Users\User\Desktop\FYP\Webscraper\IT_keywords.txt', 'r') as file:
+    keywords = [line.strip() for line in file]
+
+# Function to check if any keyword is in a sentence
+def contains_keyword(sentence, keywords):
+    return any(keyword in sentence for keyword in keywords)
+
+# Iterate through DataFrame and check for keywords
+for index, row in Final_tender_list.iterrows():
+    if contains_keyword(row['Final'], keywords):
+        print(f"{index + 1}. {row['Final']}")
 
 driver.quit()

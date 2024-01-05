@@ -1,0 +1,854 @@
+Element,HTML,Content,Predicted_Class
+ul,"<ul id=""pmenu"">
+<li><a href=""index.php?mod=utama"">Menu Utama</a></li>
+<li class=""drop""><a href=""index.php?mod=utama"">Perolehan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li class=""fly""><a class=""enclose"" href=""index.php?mod=utama"">Iklan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=1"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href=""index.php?action=senarai_carta&amp;mod=view"">Senarai Carta</a></li>
+<li class=""fly""><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan"">Keputusan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=3"">Lembaga Perolehan Tender</a></li>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=2"">Jawatankuasa Sebutharga</a></li>
+<li class=""fly""><a href="""">Muktamad<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=cabutan_undi"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href=""?action=pendaftaran_kontraktor&amp;mod=daftar"">Pendaftaran</a>
+<!--<ul>
+<li><a href=""?action=semak_pendaftaran"">Semak Pendaftaran</a></li>
+</ul>-->
+</li>
+<li><a class=""enclose"" href=""index.php?action=agensi&amp;mod=view"">Jabatan/Agensi</a></li>
+<li><a href=""index.php?action=berita&amp;mod=view"">Hebahan</a></li>
+<li class=""drop""><a href=""#nogo"">Bantuan</a><!--[if gte IE 7]><!--><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li>
+<a class=""enclose"" href=""/manual/PenggunaUmum.pdf"" target=""_blank"">Panduan Pengguna</a>
+</li>
+<li><a href=""index.php?action=pertanyaan"">Pertanyaaan</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>",menu utama perolehan iklan cabutan undi sebutharga tender senarai carta keputusan lembaga perolehan tender jawatankuasa sebutharga muktamad cabutan undi sebutharga tender pendaftaran jabatan/agensi hebahan bantuan panduan pengguna pertanyaaan,Unwanted
+ul,"<ul>
+<li class=""fly""><a class=""enclose"" href=""index.php?mod=utama"">Iklan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=1"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href=""index.php?action=senarai_carta&amp;mod=view"">Senarai Carta</a></li>
+<li class=""fly""><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan"">Keputusan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=3"">Lembaga Perolehan Tender</a></li>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=2"">Jawatankuasa Sebutharga</a></li>
+<li class=""fly""><a href="""">Muktamad<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=cabutan_undi"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>",iklan cabutan undi sebutharga tender senarai carta keputusan lembaga perolehan tender jawatankuasa sebutharga muktamad cabutan undi sebutharga tender,Unwanted
+ul,"<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=1"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>",cabutan undi sebutharga tender,Unwanted
+ul,"<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=3"">Lembaga Perolehan Tender</a></li>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=2"">Jawatankuasa Sebutharga</a></li>
+<li class=""fly""><a href="""">Muktamad<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=cabutan_undi"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>",lembaga perolehan tender jawatankuasa sebutharga muktamad cabutan undi sebutharga tender,Unwanted
+ul,"<ul>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=cabutan_undi"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>",cabutan undi sebutharga tender,Unwanted
+ul,"<ul>
+<li>
+<a class=""enclose"" href=""/manual/PenggunaUmum.pdf"" target=""_blank"">Panduan Pengguna</a>
+</li>
+<li><a href=""index.php?action=pertanyaan"">Pertanyaaan</a></li>
+</ul>",panduan pengguna pertanyaaan,Unwanted
+strong,<strong>P : Kerajaan Negeri Pulau Pinang</strong>,p : kerajaan negeri pulau pinang,Unwanted
+strong,<strong>Penafian : Kerajaan Negeri Pulau Pinang dan Jabatan Kewangan Negeri Pulau Pinang tidak bertanggungjawab terhadap sebarang kehilangan dan kerosakan yang dialami kerana menggunakan maklumat di laman ini.</strong>,penafian : kerajaan negeri pulau pinang dan jabatan kewangan negeri pulau pinang tidak bertanggungjawab terhadap sebarang kehilangan dan kerosakan yang dialami kerana menggunakan maklumat di laman ini.,Unwanted
+strong,<strong>Paparan terbaik menggunakan Internet Explorer 7.0 ke atas dan Firefox 3.0 dengan resolusi skrin 1024x768.</strong>,paparan terbaik menggunakan internet explorer 7.0 ke atas dan firefox 3.0 dengan resolusi skrin 1024x768.,Unwanted
+div,"<div id=""menu_container"">
+<ul id=""pmenu"">
+<li><a href=""index.php?mod=utama"">Menu Utama</a></li>
+<li class=""drop""><a href=""index.php?mod=utama"">Perolehan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li class=""fly""><a class=""enclose"" href=""index.php?mod=utama"">Iklan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=1"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href=""index.php?action=senarai_carta&amp;mod=view"">Senarai Carta</a></li>
+<li class=""fly""><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan"">Keputusan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=3"">Lembaga Perolehan Tender</a></li>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=2"">Jawatankuasa Sebutharga</a></li>
+<li class=""fly""><a href="""">Muktamad<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=cabutan_undi"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href=""?action=pendaftaran_kontraktor&amp;mod=daftar"">Pendaftaran</a>
+<!--<ul>
+<li><a href=""?action=semak_pendaftaran"">Semak Pendaftaran</a></li>
+</ul>-->
+</li>
+<li><a class=""enclose"" href=""index.php?action=agensi&amp;mod=view"">Jabatan/Agensi</a></li>
+<li><a href=""index.php?action=berita&amp;mod=view"">Hebahan</a></li>
+<li class=""drop""><a href=""#nogo"">Bantuan</a><!--[if gte IE 7]><!--><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li>
+<a class=""enclose"" href=""/manual/PenggunaUmum.pdf"" target=""_blank"">Panduan Pengguna</a>
+</li>
+<li><a href=""index.php?action=pertanyaan"">Pertanyaaan</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+</div>",menu utama perolehan iklan cabutan undi sebutharga tender senarai carta keputusan lembaga perolehan tender jawatankuasa sebutharga muktamad cabutan undi sebutharga tender pendaftaran jabatan/agensi hebahan bantuan panduan pengguna pertanyaaan,Unwanted
+div,"<div class=""title_form"">Email</div>",email,Unwanted
+div,"<div class=""title_form"">Kata laluan</div>",kata laluan,Unwanted
+div,"<div id=""calback"">
+<div id=""calendar"" style=""opacity: 0.99999;"">
+<table cellspacing=""1"" class=""cal"">
+<tbody><tr>
+<td colspan=""7"">
+<table class=""calhead"">
+<tbody><tr>
+<td>
+				Â 
+			</td>
+<td align=""right"">
+<div>Januari 2024</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr class=""dayhead"">
+<td>A</td>
+<td>I</td>
+<td>S</td>
+<td>R</td>
+<td>K</td>
+<td>J</td>
+<td>S</td>
+</tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>1</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>2</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>3</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>4</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b style=""color:#C00"">5</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>6</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>7</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>8</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>9</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>10</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>11</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>12</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>13</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>14</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>15</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>16</b></div></td><td class=""dayover"" onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>17</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>18</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>19</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>20</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>21</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>22</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>23</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>24</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>25</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>26</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>27</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>28</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>29</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>30</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>31</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td></tr></tbody></table></div>
+</div>",januari 2024 a i s r k j s â 12345678910111213141516171819202122232425262728293031,Unwanted
+div,"<div id=""calendar"" style=""opacity: 0.99999;"">
+<table cellspacing=""1"" class=""cal"">
+<tbody><tr>
+<td colspan=""7"">
+<table class=""calhead"">
+<tbody><tr>
+<td>
+				Â 
+			</td>
+<td align=""right"">
+<div>Januari 2024</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr class=""dayhead"">
+<td>A</td>
+<td>I</td>
+<td>S</td>
+<td>R</td>
+<td>K</td>
+<td>J</td>
+<td>S</td>
+</tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>1</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>2</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>3</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>4</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b style=""color:#C00"">5</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>6</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>7</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>8</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>9</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>10</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>11</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>12</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>13</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>14</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>15</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>16</b></div></td><td class=""dayover"" onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>17</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>18</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>19</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>20</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>21</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>22</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>23</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>24</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>25</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>26</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>27</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>28</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>29</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>30</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>31</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td></tr></tbody></table></div>",januari 2024 a i s r k j s â 12345678910111213141516171819202122232425262728293031,Unwanted
+div,<div>Januari 2024</div>,januari 2024,Unwanted
+div,"<div class=""day""><b>1</b></div>",1,Unwanted
+div,"<div class=""day""><b>2</b></div>",2,Unwanted
+div,"<div class=""day""><b>3</b></div>",3,Unwanted
+div,"<div class=""day""><b>4</b></div>",4,Unwanted
+div,"<div class=""day""><b style=""color:#C00"">5</b></div>",5,Unwanted
+div,"<div class=""day""><b>6</b></div>",6,Unwanted
+div,"<div class=""day""><b>7</b></div>",7,Unwanted
+div,"<div class=""day""><b>8</b></div>",8,Unwanted
+div,"<div class=""day""><b>9</b></div>",9,Unwanted
+div,"<div class=""day""><b>10</b></div>",10,Unwanted
+div,"<div class=""day""><b>11</b></div>",11,Unwanted
+div,"<div class=""day""><b>12</b></div>",12,Date
+div,"<div class=""day""><b>13</b></div>",13,Unwanted
+div,"<div class=""day""><b>14</b></div>",14,Unwanted
+div,"<div class=""day""><b>15</b></div>",15,Date
+div,"<div class=""day""><b>16</b></div>",16,Date
+div,"<div class=""day""><b>17</b></div>",17,Unwanted
+div,"<div class=""day""><b>18</b></div>",18,Date
+div,"<div class=""day""><b>19</b></div>",19,Unwanted
+div,"<div class=""day""><b>20</b></div>",20,Unwanted
+div,"<div class=""day""><b>21</b></div>",21,Date
+div,"<div class=""day""><b>22</b></div>",22,Date
+div,"<div class=""day""><b>23</b></div>",23,RefNum
+div,"<div class=""day""><b>24</b></div>",24,Unwanted
+div,"<div class=""day""><b>25</b></div>",25,Unwanted
+div,"<div class=""day""><b>26</b></div>",26,Unwanted
+div,"<div class=""day""><b>27</b></div>",27,Unwanted
+div,"<div class=""day""><b>28</b></div>",28,Unwanted
+div,"<div class=""day""><b>29</b></div>",29,Unwanted
+div,"<div class=""day""><b>30</b></div>",30,Unwanted
+div,"<div class=""day""><b>31</b></div>",31,Unwanted
+div,"<div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div>",jabatan pengairan & saliran,Unwanted
+div,"<div class=""view_title_kecil"">JPS/N/SH/BPME/M/7/2024</div>",jps/n/sh/bpme/m/7/2024,RefNum
+div,"<div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div>",jabatan pengairan & saliran,Unwanted
+div,"<div class=""view_title_kecil"">JPS/N/SH/BPME/M/8/2024</div>",jps/n/sh/bpme/m/8/2024,RefNum
+div,"<div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div>",jabatan pengairan & saliran,Unwanted
+div,"<div class=""view_title_kecil"">JPS/N/SH/BPME/M/9/2024</div>",jps/n/sh/bpme/m/9/2024,RefNum
+div,"<div class=""view_title_content"">Pej. Setiausaha Kerajaan Negeri</div>",pej. setiausaha kerajaan negeri,Unwanted
+div,"<div class=""view_title_kecil"">PSUKPP/2/2024</div>",psukpp/2/2024,Tender
+div,"<div class=""view_title_content"">Pej. Setiausaha Kerajaan Negeri</div>",pej. setiausaha kerajaan negeri,Unwanted
+div,"<div class=""view_title_kecil"">PSUKPP/3/2024</div>",psukpp/3/2024,Tender
+div,"<div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div>",majlis bandaraya seberang perai,Unwanted
+div,"<div class=""view_title_kecil"">T0323008</div>",t0323008,Unwanted
+div,"<div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div>",majlis bandaraya seberang perai,Unwanted
+div,"<div class=""view_title_kecil"">T0323009</div>",t0323009,Unwanted
+div,"<div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div>",majlis bandaraya seberang perai,Unwanted
+div,"<div class=""view_title_kecil"">T0323001</div>",t0323001,Unwanted
+div,"<div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div>",majlis bandaraya seberang perai,Unwanted
+div,"<div class=""view_title_kecil"">T0323002</div>",t0323002,Unwanted
+div,"<div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div>",majlis bandaraya seberang perai,Unwanted
+div,"<div class=""view_title_kecil"">T0323003</div>",t0323003,Unwanted
+div,"<div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div>",majlis bandaraya seberang perai,Unwanted
+div,"<div class=""view_title_kecil"">T0323004</div>",t0323004,Unwanted
+div,"<div class=""view_title_content"">Majlis Bandaraya Pulau Pinang</div>",majlis bandaraya pulau pinang,Unwanted
+div,"<div class=""view_title_kecil"">MBPP.T.NO.67/2023(RFP)(P)</div>",mbpp.t.no.67/2023(rfp)(p),Unwanted
+div,"<div class=""view_title_content"">Majlis Bandaraya Pulau Pinang</div>",majlis bandaraya pulau pinang,Unwanted
+div,"<div class=""view_title_kecil"">MBPP.T.NO.68/2023(P)</div>",mbpp.t.no.68/2023(p),Unwanted
+div,"<div align=""center"">
+<p align=""center""><font color=""#FFFFFF"">			
+		Â© 2024 <i>sys</i><strong>P : Kerajaan Negeri Pulau Pinang</strong> |
+		Design by <a href=""mailto:ep@penang.gov.my"">Jabatan Kewangan Negeri Pulau Pinang</a>
+</font></p>
+</div>",â© 2024 sysp : kerajaan negeri pulau pinang | design by jabatan kewangan negeri pulau pinang,Unwanted
+div,"<div align=""center"">
+<p align=""center""><font color=""#FFFFFF"" size=""2"">
+<strong>Penafian : Kerajaan Negeri Pulau Pinang dan Jabatan Kewangan Negeri Pulau Pinang tidak bertanggungjawab terhadap sebarang kehilangan dan kerosakan yang dialami kerana menggunakan maklumat di laman ini.</strong></font>
+</p>
+</div>",penafian : kerajaan negeri pulau pinang dan jabatan kewangan negeri pulau pinang tidak bertanggungjawab terhadap sebarang kehilangan dan kerosakan yang dialami kerana menggunakan maklumat di laman ini.,Unwanted
+div,"<div align=""center"">
+<p align=""center""><font color=""#FFFFFF"" size=""2"">
+<strong>Paparan terbaik menggunakan Internet Explorer 7.0 ke atas dan Firefox 3.0 dengan resolusi skrin 1024x768.</strong></font>
+</p>
+</div>",paparan terbaik menggunakan internet explorer 7.0 ke atas dan firefox 3.0 dengan resolusi skrin 1024x768.,Unwanted
+title,<title>Laman Portal Rasmi Perolehan Kerajaan Negeri Pulau Pinang</title>,laman portal rasmi perolehan kerajaan negeri pulau pinang,Unwanted
+a,"<a href=""index.php?mod=utama"">Menu Utama</a>",menu utama,Unwanted
+a,"<a href=""index.php?mod=utama"">Perolehan<!--[if gte IE 7]><!--></a>",perolehan,Unwanted
+a,"<a class=""enclose"" href=""index.php?mod=utama"">Iklan<!--[if gte IE 7]><!--></a>",iklan,Unwanted
+a,"<a class=""enclose"" href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=1"">Cabutan Undi</a>",cabutan undi,Unwanted
+a,"<a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a>",sebutharga,Unwanted
+a,"<a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a>",tender,Unwanted
+a,"<a href=""index.php?action=senarai_carta&amp;mod=view"">Senarai Carta</a>",senarai carta,Unwanted
+a,"<a href=""index.php?action=keputusan_perolehan&amp;mod=iklan"">Keputusan<!--[if gte IE 7]><!--></a>",keputusan,Unwanted
+a,"<a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=3"">Lembaga Perolehan Tender</a>",lembaga perolehan tender,Unwanted
+a,"<a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=2"">Jawatankuasa Sebutharga</a>",jawatankuasa sebutharga,Unwanted
+a,"<a href="""">Muktamad<!--[if gte IE 7]><!--></a>",muktamad,Unwanted
+a,"<a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=cabutan_undi"">Cabutan Undi</a>",cabutan undi,Unwanted
+a,"<a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a>",sebutharga,Unwanted
+a,"<a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a>",tender,Unwanted
+a,"<a href=""?action=pendaftaran_kontraktor&amp;mod=daftar"">Pendaftaran</a>",pendaftaran,Unwanted
+a,"<a class=""enclose"" href=""index.php?action=agensi&amp;mod=view"">Jabatan/Agensi</a>",jabatan/agensi,Unwanted
+a,"<a href=""index.php?action=berita&amp;mod=view"">Hebahan</a>",hebahan,Unwanted
+a,"<a href=""#nogo"">Bantuan</a>",bantuan,Unwanted
+a,"<a class=""enclose"" href=""/manual/PenggunaUmum.pdf"" target=""_blank"">Panduan Pengguna</a>",panduan pengguna,Unwanted
+a,"<a href=""index.php?action=pertanyaan"">Pertanyaaan</a>",pertanyaaan,Unwanted
+a,"<a class=""a1"" href=""/manual/PEMBAYARAN.pdf"" target=""_blank"">KLIK SINI :Panduan melakukan pembayaran di sistem Perolehan Kerajaan Negeri Pulau Pinang</a>",klik sini :panduan melakukan pembayaran di sistem perolehan kerajaan negeri pulau pinang,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58220"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - PPPP/ICT/Q12/2023</a>",keputusan sebut harga(bantahan) - pppp/ict/q12/2023,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58160"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.55/2023(K)</a>",keputusan tender(bantahan) - mbpp.t.no.55/2023(k),Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58036"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.53/2023(P)</a>",keputusan tender(bantahan) - mbpp.t.no.53/2023(p),Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58024"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.57/2023(P)</a>",keputusan tender(bantahan) - mbpp.t.no.57/2023(p),Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57994"">HEBAHAN RALAT IKLAN TENDER MBSP</a>",hebahan ralat iklan tender mbsp,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57933"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - MBPP.S.NO.202/2023(P)</a>",keputusan sebut harga(bantahan) - mbpp.s.no.202/2023(p),Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57934"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - MBPP.S.NO.181/2023(K)</a>",keputusan sebut harga(bantahan) - mbpp.s.no.181/2023(k),Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=view&amp;idel=2"">Lagi...</a>",lagi...,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58235"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/01/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/01/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58234"">KEPUTUSAN TENDER(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/34/2024</a>",keputusan tender(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/34/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58233"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/19/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/19/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58232"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/43/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/43/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58231"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/36/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/36/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58230"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/37/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/37/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58229"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/38/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/38/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58228"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/30/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/30/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58227"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/32/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/32/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58226"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/44/2024</a>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/44/2024,Unwanted
+a,"<a class=""a1"" href=""?action=berita&amp;mod=view&amp;idel=1"">Lagi...</a>",lagi...,Unwanted
+a,"<a class=""a3"" href=""index.php?mod=utama&amp;order=ASC&amp;by=trkiklan&amp;page=3"">Tarikh Jual</a>",tarikh jual,Unwanted
+a,"<a class=""a3"" href=""index.php?mod=utama&amp;order=ASC&amp;by=trktutup&amp;page=3"">Tarikh Tutup</a>",tarikh tutup,Unwanted
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28856&amp;page=3"">KERJA-KERJA PENYELENGGARAAN OVERHEAD CRANE DI RUMAH-RUMAH PAM JPS PULAU PINANG SERTA KERJA-KERJA BERKAITAN</a>",kerja-kerja penyelenggaraan overhead crane di rumah-rumah pam jps pulau pinang serta kerja-kerja berkaitan,Tender
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28857&amp;page=3"">KERJA-KERJA PENYELENGGARAAN SISTEM SCADA DI RUMAH-RUMAH PAM DAN PINTU AIR (TCG) JPS PULAU PINANG SERTA KERJA-KERJA BERKAITAN</a>",kerja-kerja penyelenggaraan sistem scada di rumah-rumah pam dan pintu air (tcg) jps pulau pinang serta kerja-kerja berkaitan,Tender
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28858&amp;page=3"">PERKHIDMATAN JURUTERA ELEKTRIK KOMPETEN DAN PEMERIKSAAN KE ATAS RUMAH-RUMAH PAM DI KESELURUHAN JPS PULAU PINANG</a>",perkhidmatan jurutera elektrik kompeten dan pemeriksaan ke atas rumah-rumah pam di keseluruhan jps pulau pinang,Unwanted
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28863&amp;page=3"">PERKHIDMATAN KAWALAN KESELAMATAN BAGI PERPUSTAKAAN
+DIGITAL BUTTERWORTH</a>",perkhidmatan kawalan keselamatan bagi perpustakaan digital butterworth,Tender
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28864&amp;page=3"">PERKHIDMATAN PEMBERSIHAN BANGUNAN DAN KAWASAN BAGI
+PERPUSTAKAAN DIGITAL BUTTERWORTH</a>",perkhidmatan pembersihan bangunan dan kawasan bagi perpustakaan digital butterworth,Tender
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28827&amp;page=3"">TENDER REQUEST FOR PROPOSAL (RFP) PERKHIDMATAN PENGURUSAN SISA YANG BOLEH DIKITAR SEMULA DI SEBERANG PERAI</a>",tender request for proposal (rfp) perkhidmatan pengurusan sisa yang boleh dikitar semula di seberang perai,Unwanted
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28828&amp;page=3"">TENDER PERKHIDMATAN SEWAAN JENTERA BAGI KEGUNAAN TAPAK PELUPUSAN UNTUK TEMPOH SATU (1) TAHUN (TENDER SEMULA)</a>",tender perkhidmatan sewaan jentera bagi kegunaan tapak pelupusan untuk tempoh satu (1) tahun (tender semula),Tender
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28799&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI UTARA, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a>","tender perkhidmatan pembersihan parit monsun di zon seberang perai utara, pulau pinang untuk tempoh dua (2) tahun",Unwanted
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28800&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI TENGAH, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a>","tender perkhidmatan pembersihan parit monsun di zon seberang perai tengah, pulau pinang untuk tempoh dua (2) tahun",Unwanted
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28801&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI SELATAN, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a>","tender perkhidmatan pembersihan parit monsun di zon seberang perai selatan, pulau pinang untuk tempoh dua (2) tahun",Unwanted
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28802&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON PERINDUSTRIAN PERAI, SEBERANG PERAI TENGAH, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a>","tender perkhidmatan pembersihan parit monsun di zon perindustrian perai, seberang perai tengah, pulau pinang untuk tempoh dua (2) tahun",Tender
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28791&amp;page=3"">Request For Proposal (RFP) Cadangan Pembangunan Semula, Mengurus Dan Menyelenggara Premis Majlis Di Lengkok Erskine Atas Lot 2964, Seksyen 1, Bandar George Town, Daerah Timur Laut, Pulau Pinang</a>","request for proposal (rfp) cadangan pembangunan semula, mengurus dan menyelenggara premis majlis di lengkok erskine atas lot 2964, seksyen 1, bandar george town, daerah timur laut, pulau pinang",Tender
+a,"<a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28792&amp;page=3"">CADANGAN PAJAKAN PREMIS MBPP NO. 126 LEBUH ARMENIAN YANG TERLETAK DIATAS LOT 376, SEKSYEN 18, BANDAR GEORGE TOWN, DAERAH TIMUR LAUT, PULAU PINANG. </a>","cadangan pajakan premis mbpp no. 126 lebuh armenian yang terletak diatas lot 376, seksyen 18, bandar george town, daerah timur laut, pulau pinang.",Unwanted
+a,"<a href=""?mod=utama&amp;order=&amp;by=&amp;page=1"">1</a>",1,Unwanted
+a,"<a href=""?mod=utama&amp;order=&amp;by=&amp;page=2"">2</a>",2,Unwanted
+a,"<a href=""mailto:ep@penang.gov.my"">Jabatan Kewangan Negeri Pulau Pinang</a>",jabatan kewangan negeri pulau pinang,Unwanted
+b,<b>PANDUAN PEMBAYARAN</b>,panduan pembayaran,Unwanted
+b,<b>1</b>,1,Unwanted
+b,<b>2</b>,2,Unwanted
+b,<b>3</b>,3,Unwanted
+b,<b>4</b>,4,Unwanted
+b,"<b style=""color:#C00"">5</b>",5,Unwanted
+b,<b>6</b>,6,Unwanted
+b,<b>7</b>,7,Unwanted
+b,<b>8</b>,8,Unwanted
+b,<b>9</b>,9,Unwanted
+b,<b>10</b>,10,Unwanted
+b,<b>11</b>,11,Unwanted
+b,<b>12</b>,12,Date
+b,<b>13</b>,13,Unwanted
+b,<b>14</b>,14,Unwanted
+b,<b>15</b>,15,Date
+b,<b>16</b>,16,Date
+b,<b>17</b>,17,Unwanted
+b,<b>18</b>,18,Date
+b,<b>19</b>,19,Unwanted
+b,<b>20</b>,20,Unwanted
+b,<b>21</b>,21,Date
+b,<b>22</b>,22,Date
+b,<b>23</b>,23,RefNum
+b,<b>24</b>,24,Unwanted
+b,<b>25</b>,25,Unwanted
+b,<b>26</b>,26,Unwanted
+b,<b>27</b>,27,Unwanted
+b,<b>28</b>,28,Unwanted
+b,<b>29</b>,29,Unwanted
+b,<b>30</b>,30,Unwanted
+b,<b>31</b>,31,Unwanted
+td,"<td align=""left"" colspan=""3"" valign=""top""> <style type=""text/css""> 
+
+
+/* If you can see the pattern in the above IE5.5 and IE6 style then you can add as many sub levels as you like */
+ 
+</style>
+<div id=""menu_container"">
+<ul id=""pmenu"">
+<li><a href=""index.php?mod=utama"">Menu Utama</a></li>
+<li class=""drop""><a href=""index.php?mod=utama"">Perolehan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li class=""fly""><a class=""enclose"" href=""index.php?mod=utama"">Iklan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=1"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=senarai_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href=""index.php?action=senarai_carta&amp;mod=view"">Senarai Carta</a></li>
+<li class=""fly""><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan"">Keputusan<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class=""top"">
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=3"">Lembaga Perolehan Tender</a></li>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=lembaga&amp;jenis=2"">Jawatankuasa Sebutharga</a></li>
+<li class=""fly""><a href="""">Muktamad<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li><a class=""enclose"" href=""index.php?action=keputusan_perolehan&amp;mod=cabutan_undi"">Cabutan Undi</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=2"">Sebutharga</a></li>
+<li><a href=""index.php?action=keputusan_perolehan&amp;mod=iklan&amp;jenis=3"">Tender</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li><a href=""?action=pendaftaran_kontraktor&amp;mod=daftar"">Pendaftaran</a>
+<!--<ul>
+<li><a href=""?action=semak_pendaftaran"">Semak Pendaftaran</a></li>
+</ul>-->
+</li>
+<li><a class=""enclose"" href=""index.php?action=agensi&amp;mod=view"">Jabatan/Agensi</a></li>
+<li><a href=""index.php?action=berita&amp;mod=view"">Hebahan</a></li>
+<li class=""drop""><a href=""#nogo"">Bantuan</a><!--[if gte IE 7]><!--><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul>
+<li>
+<a class=""enclose"" href=""/manual/PenggunaUmum.pdf"" target=""_blank"">Panduan Pengguna</a>
+</li>
+<li><a href=""index.php?action=pertanyaan"">Pertanyaaan</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+</ul>
+</div>
+</td>",menu utama perolehan iklan cabutan undi sebutharga tender senarai carta keputusan lembaga perolehan tender jawatankuasa sebutharga muktamad cabutan undi sebutharga tender pendaftaran jabatan/agensi hebahan bantuan panduan pengguna pertanyaaan,Unwanted
+td,"<td align=""left"" id=""tdrowfirst"" valign=""top"" width=""300"">
+<script type=""text/javascript"">
+		var http = false;
+		
+		if(navigator.appName == ""Microsoft Internet Explorer"") {
+		  http = new ActiveXObject(""Microsoft.XMLHTTP"");
+		} else {
+		  http = new XMLHttpRequest();
+		}
+		
+			
+		/* -------------------------- */
+		/* LOGIN */
+		/* -------------------------- */
+		/* Required: var nocache is a random number to add to request. This value solve an Internet Explorer cache issue */
+		var nocache = 0;
+		function login() {
+		// Optional: Show a waiting message in the layer with ID ajax_response
+		document.getElementById('login_response').innerHTML = ""Loading...""
+		// Required: verify that all fileds is not empty. Use encodeURI() to solve some issues about character encoding.
+		var email = encodeURI(document.getElementById('txtusername').value);
+		var psw = encodeURI(document.getElementById('txtpassword').value);
+		// Set te random number to add to URL request
+		nocache = Math.random();
+		// Pass the login variables like URL variable
+		http.open('get', 'chck_login.php?email='+email+'&psw='+psw+'&nocache = '+nocache);
+		http.onreadystatechange = loginReply;
+		http.send(null);
+		}
+		function loginReply() {
+		if(http.readyState == 4){ 
+		var response = http.responseText;
+		if(response == 0){
+		// if login fails
+		document.getElementById('login_response').innerHTML = '<font color=red>Login gagal! Email atau kata laluan salah <font>';
+		document.getElementById('txtpassword').focus();
+		document.getElementById('txtpassword').select();
+		//document.getElementById('txtpassword').();
+		// else if login is ok show a message: ""Welcome + the user name"".
+		} else{
+			
+			if(response == 1){
+				document.forms[""frmLogin""].action=""index.php"";
+				document.forms[""frmLogin""].submit();
+			}else{
+				//alert(response);
+				document.getElementById('login_response').innerHTML = '<font color=red>Email atau kata laluan tidak dimasukkan <font>';
+				document.getElementById('txtusername').focus();
+			}
+		}
+		
+		}
+		}
+
+	function lupaKatalaluan(){
+		document.forms[""frmLogin""].action=""index.php?action=lupa_katalaluan"";
+		document.forms[""frmLogin""].submit();
+	}
+
+
+	</script>
+<table align=""center"" border=""0"" cellpadding=""2"" cellspacing=""2"" width=""95%"">
+<tbody><tr>
+<td align=""left"" colspan=""3""><h1>LOG MASUK</h1></td>
+</tr>
+<tr>
+<td align=""center"" colspan=""3"">
+</td>
+<form action=""javascript:login()"" method=""post"" name=""frmLogin""></form>
+<!--tr>
+			<td align=""center""><div class=""title_form"">Email</div></td>
+		</tr-->
+</tr><tr>
+<td align=""right"" width=""25%""><div class=""title_form"">Email</div></td>
+<td align=""left"" colspan=""2""><input autocomplete=""off"" class=""input_login"" id=""txtusername"" name=""txtusername"" size=""35"" type=""text""/></td>
+</tr>
+<!--tr>
+		 <td align=""center""><div class=""title_form"">Kata laluan</div></td>
+		 
+		 </tr-->
+<tr>
+<td align=""right""><div class=""title_form"">Kata laluan</div></td>
+<td align=""left"" colspan=""2""><input autocomplete=""off"" class=""input_login"" id=""txtpassword"" name=""txtpassword"" size=""35"" type=""password""/></td>
+</tr>
+<tr>
+<td align=""right"">Â </td>
+<td align=""left"" colspan=""2"" valign=""top""><input name=""submit"" src=""img/button_login.png"" style=""border:none"" type=""image""/>Â 
+		 <!--a href="""" ><img src=""img/button_lupa.png"" style=""border:none"" /></a--><input onclick=""return lupaKatalaluan()"" src=""img/button_lupa.png"" style=""border:none"" type=""image""/></td>
+</tr>
+<tr>
+<td align=""center"" colspan=""3""><div id=""login_response""></div></td>
+</tr>
+<tr>
+<td align=""left"" colspan=""3""><img src=""img/warning-sign-icon_1.gif""/> Â <b></b><p style=""color:red""><b>PANDUAN PEMBAYARAN</b> <br/>
+<a class=""a1"" href=""/manual/PEMBAYARAN.pdf"" target=""_blank"">KLIK SINI :Panduan melakukan pembayaran di sistem Perolehan Kerajaan Negeri Pulau Pinang</a></p></td>
+</tr>
+</tbody></table>
+</td>",log masuk email kata laluan â â â panduan pembayaran klik sini :panduan melakukan pembayaran di sistem perolehan kerajaan negeri pulau pinang,Unwanted
+td,"<td align=""left"" colspan=""3""><h1>LOG MASUK</h1></td>",log masuk,Unwanted
+td,"<td align=""right"" width=""25%""><div class=""title_form"">Email</div></td>",email,Unwanted
+td,"<td align=""right""><div class=""title_form"">Kata laluan</div></td>",kata laluan,Unwanted
+td,"<td align=""left"" colspan=""3""><img src=""img/warning-sign-icon_1.gif""/> Â <b></b><p style=""color:red""><b>PANDUAN PEMBAYARAN</b> <br/>
+<a class=""a1"" href=""/manual/PEMBAYARAN.pdf"" target=""_blank"">KLIK SINI :Panduan melakukan pembayaran di sistem Perolehan Kerajaan Negeri Pulau Pinang</a></p></td>",panduan pembayaran klik sini :panduan melakukan pembayaran di sistem perolehan kerajaan negeri pulau pinang,Unwanted
+td,"<td align=""left"" height=""200"" id=""tdrowfirst"" valign=""top"" width=""300""><!--a href=""https://www.surveymonkey.com/r/kajianeperkhidmatan2016"" target=""_blank""><img src=""img/bannereperkhidmatan2016.png"" /></a--><h1 style=""color:red;text-align:center;"">MAKLUMAN GANGGUAN TELEFON DI KAUNTER PEROLEHAN (sysP)</h1>
+<style type=""text/css"">
+.tftable {font-size:12px;color:#333333;width:100%;border-width: 1px;border-color: #729ea5;border-collapse: collapse;}
+.tftable th {font-size:12px;background-color:#acc8cc;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;text-align:left;}
+.tftable tr {background-color:#d4e3e5;}
+.tftable td {font-size:12px;border-width: 1px;padding: 8px;border-style: solid;border-color: #729ea5;}
+.tftable tr:hover {background-color:#ffffff;}
+</style>
+<p style=""text-align: center;"">Dimaklumkan bahawa talian telefon di Kaunter Perolehan (sysP) sedang mengalami gangguan teknikal dan pihak kami tidak dapat menerima sebarang panggilan buat sementara waktu. Talian kini sedang dalam proses baik pulih.</p>
+<p style=""text-align: center;"">Sebarang pertanyaan atau masalah boleh dikemukakan melalui emel di ep@penang.gov.my</p>
+<p style=""text-align: center;"">Segala kesulitan amatlah dikesali</p>
+<p style=""text-align: center;"">Sekian, terima kasih</p>
+</td>","makluman gangguan telefon di kaunter perolehan (sysp) dimaklumkan bahawa talian telefon di kaunter perolehan (sysp) sedang mengalami gangguan teknikal dan pihak kami tidak dapat menerima sebarang panggilan buat sementara waktu. talian kini sedang dalam proses baik pulih. sebarang pertanyaan atau masalah boleh dikemukakan melalui emel di ep@penang.gov.my segala kesulitan amatlah dikesali sekian, terima kasih",Unwanted
+td,"<td align=""left"" id=""tdrowfirst"" valign=""top"" width=""300""> <br/><br/>
+<div id=""calback"">
+<div id=""calendar"" style=""opacity: 0.99999;"">
+<table cellspacing=""1"" class=""cal"">
+<tbody><tr>
+<td colspan=""7"">
+<table class=""calhead"">
+<tbody><tr>
+<td>
+				Â 
+			</td>
+<td align=""right"">
+<div>Januari 2024</div>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr class=""dayhead"">
+<td>A</td>
+<td>I</td>
+<td>S</td>
+<td>R</td>
+<td>K</td>
+<td>J</td>
+<td>S</td>
+</tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>1</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>2</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>3</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>4</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b style=""color:#C00"">5</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>6</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>7</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>8</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>9</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>10</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>11</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>12</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>13</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>14</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>15</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>16</b></div></td><td class=""dayover"" onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>17</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>18</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>19</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>20</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>21</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>22</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>23</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>24</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>25</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>26</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>27</b></div></td></tr><tr class=""dayrow""><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>28</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>29</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>30</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>31</b></div></td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td><td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top"">Â </td></tr></tbody></table></div>
+</div> </td>",januari 2024 a i s r k j s â 12345678910111213141516171819202122232425262728293031,Unwanted
+td,"<td colspan=""7"">
+<table class=""calhead"">
+<tbody><tr>
+<td>
+				Â 
+			</td>
+<td align=""right"">
+<div>Januari 2024</div>
+</td>
+</tr>
+</tbody></table>
+</td>",januari 2024,Unwanted
+td,"<td align=""right"">
+<div>Januari 2024</div>
+</td>",januari 2024,Unwanted
+td,<td>A</td>,a,Unwanted
+td,<td>I</td>,i,Unwanted
+td,<td>S</td>,s,Unwanted
+td,<td>R</td>,r,Unwanted
+td,<td>K</td>,k,Unwanted
+td,<td>J</td>,j,Unwanted
+td,<td>S</td>,s,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>1</b></div></td>",1,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>2</b></div></td>",2,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>3</b></div></td>",3,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>4</b></div></td>",4,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b style=""color:#C00"">5</b></div></td>",5,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>6</b></div></td>",6,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>7</b></div></td>",7,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>8</b></div></td>",8,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>9</b></div></td>",9,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>10</b></div></td>",10,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>11</b></div></td>",11,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>12</b></div></td>",12,Date
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>13</b></div></td>",13,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>14</b></div></td>",14,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>15</b></div></td>",15,Date
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>16</b></div></td>",16,Date
+td,"<td class=""dayover"" onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>17</b></div></td>",17,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>18</b></div></td>",18,Date
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>19</b></div></td>",19,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>20</b></div></td>",20,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>21</b></div></td>",21,Date
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>22</b></div></td>",22,Date
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>23</b></div></td>",23,RefNum
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>24</b></div></td>",24,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>25</b></div></td>",25,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>26</b></div></td>",26,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>27</b></div></td>",27,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>28</b></div></td>",28,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>29</b></div></td>",29,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>30</b></div></td>",30,Unwanted
+td,"<td onmouseout=""this.className='dayout'"" onmouseover=""this.className='dayover'"" valign=""top""><div class=""day""><b>31</b></div></td>",31,Unwanted
+td,"<td align=""left"" id=""tdrowsec"" valign=""top"" width=""300""> <h1>HEBAHAN UMUM</h1>
+<ul type=""disc""></ul><table align=""center"" border=""0"" cellpadding=""0"" cellspacing=""1"" width=""90%"">
+<tbody><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58220"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - PPPP/ICT/Q12/2023</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58160"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.55/2023(K)</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58036"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.53/2023(P)</a></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58024"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.57/2023(P)</a></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57994"">HEBAHAN RALAT IKLAN TENDER MBSP</a></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57933"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - MBPP.S.NO.202/2023(P)</a></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57934"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - MBPP.S.NO.181/2023(K)</a></li></td></tr><tr><td align=""right""><a class=""a1"" href=""?action=berita&amp;mod=view&amp;idel=2"">Lagi...</a></td></tr>
+</tbody></table> </td>",hebahan umum keputusan sebut harga(bantahan) - pppp/ict/q12/2023â keputusan tender(bantahan) - mbpp.t.no.55/2023(k)â keputusan tender(bantahan) - mbpp.t.no.53/2023(p)keputusan tender(bantahan) - mbpp.t.no.57/2023(p)hebahan ralat iklan tender mbspkeputusan sebut harga(bantahan) - mbpp.s.no.202/2023(p)keputusan sebut harga(bantahan) - mbpp.s.no.181/2023(k)lagi...,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58220"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - PPPP/ICT/Q12/2023</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(bantahan) - pppp/ict/q12/2023,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58160"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.55/2023(K)</a>Â <img src=""img/baru.gif""/></li></td>",keputusan tender(bantahan) - mbpp.t.no.55/2023(k),Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58036"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.53/2023(P)</a></li></td>",keputusan tender(bantahan) - mbpp.t.no.53/2023(p),Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58024"">KEPUTUSAN TENDER(BANTAHAN) - MBPP.T.NO.57/2023(P)</a></li></td>",keputusan tender(bantahan) - mbpp.t.no.57/2023(p),Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57994"">HEBAHAN RALAT IKLAN TENDER MBSP</a></li></td>",hebahan ralat iklan tender mbsp,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57933"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - MBPP.S.NO.202/2023(P)</a></li></td>",keputusan sebut harga(bantahan) - mbpp.s.no.202/2023(p),Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=57934"">KEPUTUSAN SEBUT HARGA(BANTAHAN) - MBPP.S.NO.181/2023(K)</a></li></td>",keputusan sebut harga(bantahan) - mbpp.s.no.181/2023(k),Unwanted
+td,"<td align=""right""><a class=""a1"" href=""?action=berita&amp;mod=view&amp;idel=2"">Lagi...</a></td>",lagi...,Unwanted
+td,"<td align=""left"" colspan=""2"" id=""tdrowsec"" valign=""top""> <h1>BERITA PEROLEHAN</h1>
+<ul type=""disc""></ul><table align=""center"" border=""0"" cellpadding=""0"" cellspacing=""1"" width=""90%"">
+<tbody><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58235"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/01/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58234"">KEPUTUSAN TENDER(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/34/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58233"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/19/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58232"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/43/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58231"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/36/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58230"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/37/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58229"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/38/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58228"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/30/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58227"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/32/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58226"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/44/2024</a>Â <img src=""img/baru.gif""/></li></td></tr><tr><td align=""right""><a class=""a1"" href=""?action=berita&amp;mod=view&amp;idel=1"">Lagi...</a></td></tr>
+</tbody></table> </td>",berita perolehan keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/01/2024â keputusan tender(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/34/2024â keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/19/2024â keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/43/2024â keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/36/2024â keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/37/2024â keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/38/2024â keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/30/2024â keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/32/2024â keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/44/2024â lagi...,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58235"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/01/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/01/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58234"">KEPUTUSAN TENDER(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/34/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan tender(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/34/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58233"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/19/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/19/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58232"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/43/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/43/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58231"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/36/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/36/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58230"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/37/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/37/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58229"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/38/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/38/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58228"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/30/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/30/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58227"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/32/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/32/2024,Unwanted
+td,"<td align=""left""><li><a class=""a1"" href=""?action=berita&amp;mod=detail&amp;id=58226"">KEPUTUSAN SEBUT HARGA(MUKTAMAD): Jab. Pengairan &amp; SaliranÂ JPS/N/SH/SPU/M/44/2024</a>Â <img src=""img/baru.gif""/></li></td>",keputusan sebut harga(muktamad): jab. pengairan & saliranâ jps/n/sh/spu/m/44/2024,Unwanted
+td,"<td align=""right""><a class=""a1"" href=""?action=berita&amp;mod=view&amp;idel=1"">Lagi...</a></td>",lagi...,Unwanted
+td,"<td align=""left"" colspan=""3"" id=""tdrowlast"" valign=""top"">
+	Â 
+	<h1>IKLAN PEROLEHAN</h1>
+<table align=""center"" cellpadding=""0"" cellspacing=""0"" class=""perolehan"" width=""95%"">
+<form action="""" method=""post"" name=""frmCari""></form>
+<tbody><tr>
+<td align=""right"" colspan=""5"" valign=""top"">
+		Tajuk Perolehan : Â <input autocomplete=""off"" class=""input_form"" name=""txtNamaPerolehan"" size=""30"" type=""text""/>Â 
+		<!--input type=""image"" src=""img/button_cari.png"" style=""border:none"" /-->
+<!--input type=""submit"" name=""btnCari"" value=""Cari"" class=""formbutton"" /-->
+</td>
+<td align=""right"" colspan="""" valign=""middle"">
+<input name=""btnCari"" src=""img/button_cari.png"" style=""border:none"" type=""image""/>
+</td>
+</tr>
+<tr>
+<td colspan=""8"">Â </td>
+</tr>
+<tr class=""titlemenu"">
+<td align=""center"" class=""td_utama_kiri"" width=""35%"">Tajuk Perolehan</td>
+<td align=""center"" class=""td_utama_kiri"" width=""10%"">Jenis</td>
+<td align=""center"" class=""td_utama_kiri"" width=""22%"">Kod Bidang</td>
+<td align=""center"" class=""td_utama_kiri"" width=""10%"">
+<a class=""a3"" href=""index.php?mod=utama&amp;order=ASC&amp;by=trkiklan&amp;page=3"">Tarikh Jual</a></td>
+<td align=""center"" class=""td_utama_kiri"" width=""15%"">
+<a class=""a3"" href=""index.php?mod=utama&amp;order=ASC&amp;by=trktutup&amp;page=3"">Tarikh Tutup</a></td>
+<td align=""center"" class=""td_utama_kanan"" width=""8%"">Harga Dokumen</td>
+</tr>
+<tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div><div class=""view_title_kecil"">JPS/N/SH/BPME/M/7/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28856&amp;page=3"">KERJA-KERJA PENYELENGGARAAN OVERHEAD CRANE DI RUMAH-RUMAH PAM JPS PULAU PINANG SERTA KERJA-KERJA BERKAITAN</a>Â <img src=""img/baru.gif""/><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">CIDB</span><br/>Gred - G2 - ME - M15Â (Bumiputera) <br/>Â </td><td align=""center"" class=""td_kiri"">11-Jan-2024</td><td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 10.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div><div class=""view_title_kecil"">JPS/N/SH/BPME/M/8/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28857&amp;page=3"">KERJA-KERJA PENYELENGGARAAN SISTEM SCADA DI RUMAH-RUMAH PAM DAN PINTU AIR (TCG) JPS PULAU PINANG SERTA KERJA-KERJA BERKAITAN</a>Â <img src=""img/baru.gif""/><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">CIDB</span><br/>Gred - G2 - ME - M23Â (Bumiputera) <br/>Â </td><td align=""center"" class=""td_kiri"">11-Jan-2024</td><td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 10.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div><div class=""view_title_kecil"">JPS/N/SH/BPME/M/9/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28858&amp;page=3"">PERKHIDMATAN JURUTERA ELEKTRIK KOMPETEN DAN PEMERIKSAAN KE ATAS RUMAH-RUMAH PAM DI KESELURUHAN JPS PULAU PINANG</a>Â <img src=""img/baru.gif""/><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>220503Â (Bumiputera)<br/>Â </td><td align=""center"" class=""td_kiri"">11-Jan-2024</td><td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 10.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Pej. Setiausaha Kerajaan Negeri</div><div class=""view_title_kecil"">PSUKPP/2/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28863&amp;page=3"">PERKHIDMATAN KAWALAN KESELAMATAN BAGI PERPUSTAKAAN
+DIGITAL BUTTERWORTH</a>Â <img src=""img/baru.gif""/><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>220801Â <br/>Â </td><td align=""center"" class=""td_kiri"">04-Jan-2024</td><td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 0.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Pej. Setiausaha Kerajaan Negeri</div><div class=""view_title_kecil"">PSUKPP/3/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28864&amp;page=3"">PERKHIDMATAN PEMBERSIHAN BANGUNAN DAN KAWASAN BAGI
+PERPUSTAKAAN DIGITAL BUTTERWORTH</a>Â <img src=""img/baru.gif""/><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221001Â <span class=""text_underline"">dan</span><br/>221002Â <br/>Â </td><td align=""center"" class=""td_kiri"">04-Jan-2024</td><td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 0.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323008</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28827&amp;page=3"">TENDER REQUEST FOR PROPOSAL (RFP) PERKHIDMATAN PENGURUSAN SISA YANG BOLEH DIKITAR SEMULA DI SEBERANG PERAI</a><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Tender</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221012Â <span class=""text_underline"">dan</span><br/>221003Â <br/>Â </td><td align=""center"" class=""td_kiri"">29-Dec-2023</td><td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 50.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323009</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28828&amp;page=3"">TENDER PERKHIDMATAN SEWAAN JENTERA BAGI KEGUNAAN TAPAK PELUPUSAN UNTUK TEMPOH SATU (1) TAHUN (TENDER SEMULA)</a><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Tender</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221503Â <br/>Â </td><td align=""center"" class=""td_kiri"">29-Dec-2023</td><td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 50.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323001</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28799&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI UTARA, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Tender</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221006Â <br/>Â </td><td align=""center"" class=""td_kiri"">07-Dec-2023</td><td align=""center"" class=""td_kiri"">31-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 50.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323002</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28800&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI TENGAH, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Tender</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221006Â <br/>Â </td><td align=""center"" class=""td_kiri"">07-Dec-2023</td><td align=""center"" class=""td_kiri"">31-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 50.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323003</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28801&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI SELATAN, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Tender</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221006Â <br/>Â </td><td align=""center"" class=""td_kiri"">07-Dec-2023</td><td align=""center"" class=""td_kiri"">31-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 50.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323004</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28802&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON PERINDUSTRIAN PERAI, SEBERANG PERAI TENGAH, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Tender</td><td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221006Â <br/>Â </td><td align=""center"" class=""td_kiri"">07-Dec-2023</td><td align=""center"" class=""td_kiri"">31-Jan-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 50.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Pulau Pinang</div><div class=""view_title_kecil"">MBPP.T.NO.67/2023(RFP)(P)</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28791&amp;page=3"">Request For Proposal (RFP) Cadangan Pembangunan Semula, Mengurus Dan Menyelenggara Premis Majlis Di Lengkok Erskine Atas Lot 2964, Seksyen 1, Bandar George Town, Daerah Timur Laut, Pulau Pinang</a><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Tender</td><td align=""center"" class=""td_kiri"">Â </td><td align=""center"" class=""td_kiri"">04-Dec-2023</td><td align=""center"" class=""td_kiri"">05-Feb-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 50.00</td></tr><tr><td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Pulau Pinang</div><div class=""view_title_kecil"">MBPP.T.NO.68/2023(P)</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28792&amp;page=3"">CADANGAN PAJAKAN PREMIS MBPP NO. 126 LEBUH ARMENIAN YANG TERLETAK DIATAS LOT 376, SEKSYEN 18, BANDAR GEORGE TOWN, DAERAH TIMUR LAUT, PULAU PINANG. </a><br/><br/></td><td align=""center"" class=""td_kiri"" valign=""top"">Tender</td><td align=""center"" class=""td_kiri"">Â </td><td align=""center"" class=""td_kiri"">04-Dec-2023</td><td align=""center"" class=""td_kiri"">05-Feb-2024 12:00 pm</td><td align=""center"" class=""td_kanan"">RM 50.00</td></tr><tr><td colspan=""8"">Â </td></tr><tr><td align=""center"" colspan=""6""><a href=""?mod=utama&amp;order=&amp;by=&amp;page=1""><img border=""0"" src=""img/first.gif""/></a>Â <a href=""?mod=utama&amp;order=&amp;by=&amp;page=2""><img border=""0"" src=""img/left.gif""/></a>Â Â <a href=""?mod=utama&amp;order=&amp;by=&amp;page=1"">1</a>Â <a href=""?mod=utama&amp;order=&amp;by=&amp;page=2"">2</a>Â Â  3Â <img border=""0"" src=""img/right-grey.gif""/>Â <img border=""0"" src=""img/last-grey.gif""/></td></tr><tr><td>Â </td></tr>
+</tbody></table></td>","iklan perolehan tajuk perolehan : â â â tajuk perolehan jenis kod bidang tarikh jual tarikh tutup harga dokumen jabatan pengairan & saliranjps/n/sh/bpme/m/7/2024kerja-kerja penyelenggaraan overhead crane di rumah-rumah pam jps pulau pinang serta kerja-kerja berkaitanâ sebuthargacidbgred - g2 - me - m15â (bumiputera) â 11-jan-202418-jan-2024 12:00 pmrm 10.00jabatan pengairan & saliranjps/n/sh/bpme/m/8/2024kerja-kerja penyelenggaraan sistem scada di rumah-rumah pam dan pintu air (tcg) jps pulau pinang serta kerja-kerja berkaitanâ sebuthargacidbgred - g2 - me - m23â (bumiputera) â 11-jan-202418-jan-2024 12:00 pmrm 10.00jabatan pengairan & saliranjps/n/sh/bpme/m/9/2024perkhidmatan jurutera elektrik kompeten dan pemeriksaan ke atas rumah-rumah pam di keseluruhan jps pulau pinangâ sebuthargamof220503â (bumiputera)â 11-jan-202418-jan-2024 12:00 pmrm 10.00pej. setiausaha kerajaan negeripsukpp/2/2024perkhidmatan kawalan keselamatan bagi perpustakaan digital butterworthâ sebuthargamof220801â â 04-jan-202418-jan-2024 12:00 pmrm 0.00pej. setiausaha kerajaan negeripsukpp/3/2024perkhidmatan pembersihan bangunan dan kawasan bagi perpustakaan digital butterworthâ sebuthargamof221001â dan221002â â 04-jan-202418-jan-2024 12:00 pmrm 0.00majlis bandaraya seberang perait0323008tender request for proposal (rfp) perkhidmatan pengurusan sisa yang boleh dikitar semula di seberang peraitendermof221012â dan221003â â 29-dec-202318-jan-2024 12:00 pmrm 50.00majlis bandaraya seberang perait0323009tender perkhidmatan sewaan jentera bagi kegunaan tapak pelupusan untuk tempoh satu (1) tahun (tender semula)tendermof221503â â 29-dec-202318-jan-2024 12:00 pmrm 50.00majlis bandaraya seberang perait0323001tender perkhidmatan pembersihan parit monsun di zon seberang perai utara, pulau pinang untuk tempoh dua (2) tahuntendermof221006â â 07-dec-202331-jan-2024 12:00 pmrm 50.00majlis bandaraya seberang perait0323002tender perkhidmatan pembersihan parit monsun di zon seberang perai tengah, pulau pinang untuk tempoh dua (2) tahuntendermof221006â â 07-dec-202331-jan-2024 12:00 pmrm 50.00majlis bandaraya seberang perait0323003tender perkhidmatan pembersihan parit monsun di zon seberang perai selatan, pulau pinang untuk tempoh dua (2) tahuntendermof221006â â 07-dec-202331-jan-2024 12:00 pmrm 50.00majlis bandaraya seberang perait0323004tender perkhidmatan pembersihan parit monsun di zon perindustrian perai, seberang perai tengah, pulau pinang untuk tempoh dua (2) tahuntendermof221006â â 07-dec-202331-jan-2024 12:00 pmrm 50.00majlis bandaraya pulau pinangmbpp.t.no.67/2023(rfp)(p)request for proposal (rfp) cadangan pembangunan semula, mengurus dan menyelenggara premis majlis di lengkok erskine atas lot 2964, seksyen 1, bandar george town, daerah timur laut, pulau pinangtenderâ 04-dec-202305-feb-2024 12:00 pmrm 50.00majlis bandaraya pulau pinangmbpp.t.no.68/2023(p)cadangan pajakan premis mbpp no. 126 lebuh armenian yang terletak diatas lot 376, seksyen 18, bandar george town, daerah timur laut, pulau pinang. tenderâ 04-dec-202305-feb-2024 12:00 pmrm 50.00â â â â 1â 2â â 3",Unwanted
+td,"<td align=""right"" colspan=""5"" valign=""top"">
+		Tajuk Perolehan : Â <input autocomplete=""off"" class=""input_form"" name=""txtNamaPerolehan"" size=""30"" type=""text""/>Â 
+		<!--input type=""image"" src=""img/button_cari.png"" style=""border:none"" /-->
+<!--input type=""submit"" name=""btnCari"" value=""Cari"" class=""formbutton"" /-->
+</td>",tajuk perolehan :,Unwanted
+td,"<td align=""center"" class=""td_utama_kiri"" width=""35%"">Tajuk Perolehan</td>",tajuk perolehan,Unwanted
+td,"<td align=""center"" class=""td_utama_kiri"" width=""10%"">Jenis</td>",jenis,Unwanted
+td,"<td align=""center"" class=""td_utama_kiri"" width=""22%"">Kod Bidang</td>",kod bidang,Unwanted
+td,"<td align=""center"" class=""td_utama_kiri"" width=""10%"">
+<a class=""a3"" href=""index.php?mod=utama&amp;order=ASC&amp;by=trkiklan&amp;page=3"">Tarikh Jual</a></td>",tarikh jual,Unwanted
+td,"<td align=""center"" class=""td_utama_kiri"" width=""15%"">
+<a class=""a3"" href=""index.php?mod=utama&amp;order=ASC&amp;by=trktutup&amp;page=3"">Tarikh Tutup</a></td>",tarikh tutup,Unwanted
+td,"<td align=""center"" class=""td_utama_kanan"" width=""8%"">Harga Dokumen</td>",harga dokumen,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div><div class=""view_title_kecil"">JPS/N/SH/BPME/M/7/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28856&amp;page=3"">KERJA-KERJA PENYELENGGARAAN OVERHEAD CRANE DI RUMAH-RUMAH PAM JPS PULAU PINANG SERTA KERJA-KERJA BERKAITAN</a>Â <img src=""img/baru.gif""/><br/><br/></td>",jabatan pengairan & saliranjps/n/sh/bpme/m/7/2024kerja-kerja penyelenggaraan overhead crane di rumah-rumah pam jps pulau pinang serta kerja-kerja berkaitan,Tender
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td>",sebutharga,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">CIDB</span><br/>Gred - G2 - ME - M15Â (Bumiputera) <br/>Â </td>",cidbgred - g2 - me - m15â (bumiputera),RefNum
+td,"<td align=""center"" class=""td_kiri"">11-Jan-2024</td>",11-jan-2024,Date
+td,"<td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td>",18-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 10.00</td>",rm 10.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div><div class=""view_title_kecil"">JPS/N/SH/BPME/M/8/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28857&amp;page=3"">KERJA-KERJA PENYELENGGARAAN SISTEM SCADA DI RUMAH-RUMAH PAM DAN PINTU AIR (TCG) JPS PULAU PINANG SERTA KERJA-KERJA BERKAITAN</a>Â <img src=""img/baru.gif""/><br/><br/></td>",jabatan pengairan & saliranjps/n/sh/bpme/m/8/2024kerja-kerja penyelenggaraan sistem scada di rumah-rumah pam dan pintu air (tcg) jps pulau pinang serta kerja-kerja berkaitan,Tender
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td>",sebutharga,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">CIDB</span><br/>Gred - G2 - ME - M23Â (Bumiputera) <br/>Â </td>",cidbgred - g2 - me - m23â (bumiputera),RefNum
+td,"<td align=""center"" class=""td_kiri"">11-Jan-2024</td>",11-jan-2024,Date
+td,"<td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td>",18-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 10.00</td>",rm 10.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Jabatan Pengairan &amp; Saliran</div><div class=""view_title_kecil"">JPS/N/SH/BPME/M/9/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28858&amp;page=3"">PERKHIDMATAN JURUTERA ELEKTRIK KOMPETEN DAN PEMERIKSAAN KE ATAS RUMAH-RUMAH PAM DI KESELURUHAN JPS PULAU PINANG</a>Â <img src=""img/baru.gif""/><br/><br/></td>",jabatan pengairan & saliranjps/n/sh/bpme/m/9/2024perkhidmatan jurutera elektrik kompeten dan pemeriksaan ke atas rumah-rumah pam di keseluruhan jps pulau pinang,Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td>",sebutharga,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>220503Â (Bumiputera)<br/>Â </td>",mof220503â (bumiputera),RefNum
+td,"<td align=""center"" class=""td_kiri"">11-Jan-2024</td>",11-jan-2024,Date
+td,"<td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td>",18-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 10.00</td>",rm 10.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Pej. Setiausaha Kerajaan Negeri</div><div class=""view_title_kecil"">PSUKPP/2/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28863&amp;page=3"">PERKHIDMATAN KAWALAN KESELAMATAN BAGI PERPUSTAKAAN
+DIGITAL BUTTERWORTH</a>Â <img src=""img/baru.gif""/><br/><br/></td>",pej. setiausaha kerajaan negeripsukpp/2/2024perkhidmatan kawalan keselamatan bagi perpustakaan digital butterworth,Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td>",sebutharga,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>220801Â <br/>Â </td>",mof220801,Unwanted
+td,"<td align=""center"" class=""td_kiri"">04-Jan-2024</td>",04-jan-2024,Date
+td,"<td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td>",18-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 0.00</td>",rm 0.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Pej. Setiausaha Kerajaan Negeri</div><div class=""view_title_kecil"">PSUKPP/3/2024</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28864&amp;page=3"">PERKHIDMATAN PEMBERSIHAN BANGUNAN DAN KAWASAN BAGI
+PERPUSTAKAAN DIGITAL BUTTERWORTH</a>Â <img src=""img/baru.gif""/><br/><br/></td>",pej. setiausaha kerajaan negeripsukpp/3/2024perkhidmatan pembersihan bangunan dan kawasan bagi perpustakaan digital butterworth,Tender
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Sebutharga</td>",sebutharga,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221001Â <span class=""text_underline"">dan</span><br/>221002Â <br/>Â </td>",mof221001â dan221002,RefNum
+td,"<td align=""center"" class=""td_kiri"">04-Jan-2024</td>",04-jan-2024,Date
+td,"<td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td>",18-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 0.00</td>",rm 0.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323008</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28827&amp;page=3"">TENDER REQUEST FOR PROPOSAL (RFP) PERKHIDMATAN PENGURUSAN SISA YANG BOLEH DIKITAR SEMULA DI SEBERANG PERAI</a><br/><br/></td>",majlis bandaraya seberang perait0323008tender request for proposal (rfp) perkhidmatan pengurusan sisa yang boleh dikitar semula di seberang perai,Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Tender</td>",tender,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221012Â <span class=""text_underline"">dan</span><br/>221003Â <br/>Â </td>",mof221012â dan221003,Unwanted
+td,"<td align=""center"" class=""td_kiri"">29-Dec-2023</td>",29-dec-2023,Date
+td,"<td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td>",18-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 50.00</td>",rm 50.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323009</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28828&amp;page=3"">TENDER PERKHIDMATAN SEWAAN JENTERA BAGI KEGUNAAN TAPAK PELUPUSAN UNTUK TEMPOH SATU (1) TAHUN (TENDER SEMULA)</a><br/><br/></td>",majlis bandaraya seberang perait0323009tender perkhidmatan sewaan jentera bagi kegunaan tapak pelupusan untuk tempoh satu (1) tahun (tender semula),Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Tender</td>",tender,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221503Â <br/>Â </td>",mof221503,Unwanted
+td,"<td align=""center"" class=""td_kiri"">29-Dec-2023</td>",29-dec-2023,Date
+td,"<td align=""center"" class=""td_kiri"">18-Jan-2024 12:00 pm</td>",18-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 50.00</td>",rm 50.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323001</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28799&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI UTARA, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a><br/><br/></td>","majlis bandaraya seberang perait0323001tender perkhidmatan pembersihan parit monsun di zon seberang perai utara, pulau pinang untuk tempoh dua (2) tahun",Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Tender</td>",tender,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221006Â <br/>Â </td>",mof221006,Unwanted
+td,"<td align=""center"" class=""td_kiri"">07-Dec-2023</td>",07-dec-2023,Date
+td,"<td align=""center"" class=""td_kiri"">31-Jan-2024 12:00 pm</td>",31-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 50.00</td>",rm 50.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323002</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28800&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI TENGAH, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a><br/><br/></td>","majlis bandaraya seberang perait0323002tender perkhidmatan pembersihan parit monsun di zon seberang perai tengah, pulau pinang untuk tempoh dua (2) tahun",Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Tender</td>",tender,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221006Â <br/>Â </td>",mof221006,Unwanted
+td,"<td align=""center"" class=""td_kiri"">07-Dec-2023</td>",07-dec-2023,Date
+td,"<td align=""center"" class=""td_kiri"">31-Jan-2024 12:00 pm</td>",31-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 50.00</td>",rm 50.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323003</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28801&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON SEBERANG PERAI SELATAN, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a><br/><br/></td>","majlis bandaraya seberang perait0323003tender perkhidmatan pembersihan parit monsun di zon seberang perai selatan, pulau pinang untuk tempoh dua (2) tahun",Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Tender</td>",tender,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221006Â <br/>Â </td>",mof221006,Unwanted
+td,"<td align=""center"" class=""td_kiri"">07-Dec-2023</td>",07-dec-2023,Date
+td,"<td align=""center"" class=""td_kiri"">31-Jan-2024 12:00 pm</td>",31-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 50.00</td>",rm 50.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Seberang Perai</div><div class=""view_title_kecil"">T0323004</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28802&amp;page=3"">TENDER PERKHIDMATAN PEMBERSIHAN PARIT MONSUN DI ZON PERINDUSTRIAN PERAI, SEBERANG PERAI TENGAH, PULAU PINANG UNTUK TEMPOH DUA (2) TAHUN</a><br/><br/></td>","majlis bandaraya seberang perait0323004tender perkhidmatan pembersihan parit monsun di zon perindustrian perai, seberang perai tengah, pulau pinang untuk tempoh dua (2) tahun",Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Tender</td>",tender,Unwanted
+td,"<td align=""center"" class=""td_kiri""><span class=""title_bidang"">MOF</span><br/>221006Â <br/>Â </td>",mof221006,Unwanted
+td,"<td align=""center"" class=""td_kiri"">07-Dec-2023</td>",07-dec-2023,Date
+td,"<td align=""center"" class=""td_kiri"">31-Jan-2024 12:00 pm</td>",31-jan-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 50.00</td>",rm 50.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Pulau Pinang</div><div class=""view_title_kecil"">MBPP.T.NO.67/2023(RFP)(P)</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28791&amp;page=3"">Request For Proposal (RFP) Cadangan Pembangunan Semula, Mengurus Dan Menyelenggara Premis Majlis Di Lengkok Erskine Atas Lot 2964, Seksyen 1, Bandar George Town, Daerah Timur Laut, Pulau Pinang</a><br/><br/></td>","majlis bandaraya pulau pinangmbpp.t.no.67/2023(rfp)(p)request for proposal (rfp) cadangan pembangunan semula, mengurus dan menyelenggara premis majlis di lengkok erskine atas lot 2964, seksyen 1, bandar george town, daerah timur laut, pulau pinang",Tender
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Tender</td>",tender,Unwanted
+td,"<td align=""center"" class=""td_kiri"">04-Dec-2023</td>",04-dec-2023,Date
+td,"<td align=""center"" class=""td_kiri"">05-Feb-2024 12:00 pm</td>",05-feb-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 50.00</td>",rm 50.00,Unwanted
+td,"<td align=""left"" class=""td_kiri"" valign=""top""><div class=""view_title_content"">Majlis Bandaraya Pulau Pinang</div><div class=""view_title_kecil"">MBPP.T.NO.68/2023(P)</div><a class=""a2"" href=""?action=senarai_detail&amp;mod=view_utama&amp;id=28792&amp;page=3"">CADANGAN PAJAKAN PREMIS MBPP NO. 126 LEBUH ARMENIAN YANG TERLETAK DIATAS LOT 376, SEKSYEN 18, BANDAR GEORGE TOWN, DAERAH TIMUR LAUT, PULAU PINANG. </a><br/><br/></td>","majlis bandaraya pulau pinangmbpp.t.no.68/2023(p)cadangan pajakan premis mbpp no. 126 lebuh armenian yang terletak diatas lot 376, seksyen 18, bandar george town, daerah timur laut, pulau pinang.",Unwanted
+td,"<td align=""center"" class=""td_kiri"" valign=""top"">Tender</td>",tender,Unwanted
+td,"<td align=""center"" class=""td_kiri"">04-Dec-2023</td>",04-dec-2023,Date
+td,"<td align=""center"" class=""td_kiri"">05-Feb-2024 12:00 pm</td>",05-feb-2024 12:00 pm,Date
+td,"<td align=""center"" class=""td_kanan"">RM 50.00</td>",rm 50.00,Unwanted
+td,"<td align=""center"" colspan=""6""><a href=""?mod=utama&amp;order=&amp;by=&amp;page=1""><img border=""0"" src=""img/first.gif""/></a>Â <a href=""?mod=utama&amp;order=&amp;by=&amp;page=2""><img border=""0"" src=""img/left.gif""/></a>Â Â <a href=""?mod=utama&amp;order=&amp;by=&amp;page=1"">1</a>Â <a href=""?mod=utama&amp;order=&amp;by=&amp;page=2"">2</a>Â Â  3Â <img border=""0"" src=""img/right-grey.gif""/>Â <img border=""0"" src=""img/last-grey.gif""/></td>",1â 2â â 3,Unwanted
+td,"<td background=""img/footer_sysP.jpg"" colspan=""3"">
+<div align=""center"">
+<p align=""center""><font color=""#FFFFFF"">			
+		Â© 2024 <i>sys</i><strong>P : Kerajaan Negeri Pulau Pinang</strong> |
+		Design by <a href=""mailto:ep@penang.gov.my"">Jabatan Kewangan Negeri Pulau Pinang</a>
+</font></p>
+</div>
+<div align=""center"">
+<p align=""center""><font color=""#FFFFFF"" size=""2"">
+<strong>Penafian : Kerajaan Negeri Pulau Pinang dan Jabatan Kewangan Negeri Pulau Pinang tidak bertanggungjawab terhadap sebarang kehilangan dan kerosakan yang dialami kerana menggunakan maklumat di laman ini.</strong></font>
+</p>
+</div>
+<div align=""center"">
+<p align=""center""><font color=""#FFFFFF"" size=""2"">
+<strong>Paparan terbaik menggunakan Internet Explorer 7.0 ke atas dan Firefox 3.0 dengan resolusi skrin 1024x768.</strong></font>
+</p>
+</div>
+</td>",â© 2024 sysp : kerajaan negeri pulau pinang | design by jabatan kewangan negeri pulau pinang penafian : kerajaan negeri pulau pinang dan jabatan kewangan negeri pulau pinang tidak bertanggungjawab terhadap sebarang kehilangan dan kerosakan yang dialami kerana menggunakan maklumat di laman ini. paparan terbaik menggunakan internet explorer 7.0 ke atas dan firefox 3.0 dengan resolusi skrin 1024x768.,Unwanted
+span,"<span class=""title_bidang"">CIDB</span>",cidb,Unwanted
+span,"<span class=""title_bidang"">CIDB</span>",cidb,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+span,"<span class=""text_underline"">dan</span>",dan,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+span,"<span class=""text_underline"">dan</span>",dan,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+span,"<span class=""title_bidang"">MOF</span>",mof,Unwanted
+i,<i>sys</i>,sys,Unwanted
+p,"<p style=""color:red""><b>PANDUAN PEMBAYARAN</b> <br/>
+<a class=""a1"" href=""/manual/PEMBAYARAN.pdf"" target=""_blank"">KLIK SINI :Panduan melakukan pembayaran di sistem Perolehan Kerajaan Negeri Pulau Pinang</a></p>",panduan pembayaran klik sini :panduan melakukan pembayaran di sistem perolehan kerajaan negeri pulau pinang,Unwanted
+p,"<p style=""text-align: center;"">Dimaklumkan bahawa talian telefon di Kaunter Perolehan (sysP) sedang mengalami gangguan teknikal dan pihak kami tidak dapat menerima sebarang panggilan buat sementara waktu. Talian kini sedang dalam proses baik pulih.</p>",dimaklumkan bahawa talian telefon di kaunter perolehan (sysp) sedang mengalami gangguan teknikal dan pihak kami tidak dapat menerima sebarang panggilan buat sementara waktu. talian kini sedang dalam proses baik pulih.,Unwanted
+p,"<p style=""text-align: center;"">Sebarang pertanyaan atau masalah boleh dikemukakan melalui emel di ep@penang.gov.my</p>",sebarang pertanyaan atau masalah boleh dikemukakan melalui emel di ep@penang.gov.my,Unwanted
+p,"<p style=""text-align: center;"">Segala kesulitan amatlah dikesali</p>",segala kesulitan amatlah dikesali,Unwanted
+p,"<p style=""text-align: center;"">Sekian, terima kasih</p>","sekian, terima kasih",Unwanted
+p,"<p align=""center""><font color=""#FFFFFF"">			
+		Â© 2024 <i>sys</i><strong>P : Kerajaan Negeri Pulau Pinang</strong> |
+		Design by <a href=""mailto:ep@penang.gov.my"">Jabatan Kewangan Negeri Pulau Pinang</a>
+</font></p>",â© 2024 sysp : kerajaan negeri pulau pinang | design by jabatan kewangan negeri pulau pinang,Unwanted
+p,"<p align=""center""><font color=""#FFFFFF"" size=""2"">
+<strong>Penafian : Kerajaan Negeri Pulau Pinang dan Jabatan Kewangan Negeri Pulau Pinang tidak bertanggungjawab terhadap sebarang kehilangan dan kerosakan yang dialami kerana menggunakan maklumat di laman ini.</strong></font>
+</p>",penafian : kerajaan negeri pulau pinang dan jabatan kewangan negeri pulau pinang tidak bertanggungjawab terhadap sebarang kehilangan dan kerosakan yang dialami kerana menggunakan maklumat di laman ini.,Unwanted
+p,"<p align=""center""><font color=""#FFFFFF"" size=""2"">
+<strong>Paparan terbaik menggunakan Internet Explorer 7.0 ke atas dan Firefox 3.0 dengan resolusi skrin 1024x768.</strong></font>
+</p>",paparan terbaik menggunakan internet explorer 7.0 ke atas dan firefox 3.0 dengan resolusi skrin 1024x768.,Unwanted
+h1,<h1>LOG MASUK</h1>,log masuk,Unwanted
+h1,"<h1 style=""color:red;text-align:center;"">MAKLUMAN GANGGUAN TELEFON DI KAUNTER PEROLEHAN (sysP)</h1>",makluman gangguan telefon di kaunter perolehan (sysp),Unwanted
+h1,<h1>HEBAHAN UMUM</h1>,hebahan umum,Unwanted
+h1,<h1>BERITA PEROLEHAN</h1>,berita perolehan,Unwanted
+h1,<h1>IKLAN PEROLEHAN</h1>,iklan perolehan,Unwanted
