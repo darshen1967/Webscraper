@@ -54,7 +54,7 @@ def log(*args):
             str_args += json.dumps(arg)
         else:
             str_args += str(arg)
-    print(str_args)
+    #print(str_args)
 
 def get_leaf_nodes(master, exclude_tags):
     nodes = master.find_all(True)
@@ -227,7 +227,7 @@ def scrape(page_source):
     # Save the updated DataFrame to a new CSV file
     class_data_df.to_csv('class_data_with_text.csv', index=False)
 
-    TenderResult = {'Final': []}
+    TenderResult = {'Tag': [], 'Class': [],'Final': []}
     for index, row in class_data_df.iterrows():
 
         # Find all elements based on the tag and class
@@ -240,6 +240,8 @@ def scrape(page_source):
         #print(TenderCleaned)
         
         for v in TenderCleaned:
+            TenderResult['Tag'].append(row['Tag'])
+            TenderResult['Class'].append(row['Class'])
             TenderResult['Final'].append(v)
             #print(v)
             #print("\n")
@@ -262,6 +264,7 @@ driver.get(val)
 get_url = driver.current_url
 wait.until(EC.url_to_be(val))
 
+time.sleep(3)
 if get_url == val:
     page_source = driver.page_source
 
@@ -276,9 +279,17 @@ if continue_scraping.lower() == 'yes':
     next_button_xpath = sys.argv[3]
     #disabled_class = input("Enter the class name when the 'Next' button is disabled: ")
     disabled_class = sys.argv[4]
-    page_number = 1
+    page_number = 2
+
+    start_time = time.time()#HERE TIME
     #next_button = WebDriverWait(driver, 100).until(EC.element_to_be_clickable((By.XPATH, next_button_xpath)))
     while True:
+        #HERE TIME
+        if time.time() - start_time > 600:  # 600 seconds = 10 minutes
+            print("Time limit reached (10 minutes). Exiting the loop.")
+            print(f"Reached the last page: Page {page_number}")
+            break
+
         try:
             next_button = WebDriverWait(driver, 100).until(EC.element_to_be_clickable((By.XPATH, next_button_xpath)))
             next_button_disabled = driver.find_elements(By.XPATH, f"{next_button_xpath}/ancestor::li[contains(@class, '{disabled_class}')]")
@@ -325,30 +336,60 @@ tender_df['Predicted_Class'] = predictions
     # Save the updated DataFrame to a new CSV file
 tender_df.to_csv('TenderResult_Predicted.csv', index=False)
 
-tender_df = tender_df[tender_df['Predicted_Class'] == 'Tender']
-tender_df = tender_df.drop_duplicates()
+data = tender_df  # Replace with your file path
 
-Final_tender_list = tender_df.drop('Predicted_Class', axis=1)
-Final_tender_list.to_csv('Final_tender_list.csv', index=False)
+# Grouping the data by 'Tag' and 'Class'
+grouped_data = data.groupby(['Tag', 'Class'])
+
+# Filtering groups where more than 75% of 'Predicted_Class' is 'Tender'
+filtered_groups = []
+for name, group in grouped_data:
+    if (group['Predicted_Class'] == 'Tender').mean() >= 0.5:
+        filtered_groups.append(group)
+
+# Creating a new DataFrame with the filtered results
+filtered_data = pd.concat(filtered_groups)
+
+filtered_data = filtered_data[filtered_data['Predicted_Class'] == 'Tender']
+filtered_data = filtered_data.drop_duplicates()
+# Correcting the code to handle non-string entries in the 'Final' column
+filtered_data = filtered_data[filtered_data['Final'].apply(lambda x: len(str(x).split()) <= 50)]
+
+# Displaying the first few rows of the updated dataframe
+filtered_data.to_csv('temp.csv', index=False)
+
+
+Final_tender_list = filtered_data[['Final']]
+Final_tender_list = Final_tender_list.drop_duplicates()
+Final_tender_list.to_csv(r'C:\Users\User\Desktop\FYP\Webscraper\Final_tender_list.csv', index=False)
+
 
 
 # Iterating and printing
-index = 0
+i = 0
 for index, row in Final_tender_list.iterrows():
-    print(f"{index + 1}. {row['Final']}")   
+    i = i+1
+    print(f"{i}. {row['Final']}")
+      
 
 print('\n','IT_TENDER','\n')
 
-with open(r'C:\Users\User\Desktop\FYP\Webscraper\IT_keywords.txt', 'r') as file:
-    keywords = [line.strip() for line in file]
+# Read keywords from keywords.txt
+with open(r'C:\Users\User\Desktop\FYP\Webscraper\IT_keywords.txt', 'r') as file:  # Replace with your keywords file path
+    keywords = [line.strip().lower() for line in file]
 
-# Function to check if any keyword is in a sentence
-def contains_keyword(sentence, keywords):
-    return any(keyword in sentence for keyword in keywords)
+# Function to check if any keyword is in the text
+def contains_keyword(text):
+    for keyword in keywords:
+        if keyword in text.lower():
+            return True
+    return False
 
-# Iterate through DataFrame and check for keywords
-for index, row in Final_tender_list.iterrows():
-    if contains_keyword(row['Final'], keywords):
-        print(f"{index + 1}. {row['Final']}")
+# Checking each row in the 'Final' column for IT keywords
+IT_tender = [tender for tender in Final_tender_list['Final'] if contains_keyword(tender)]
+
+# Print each item with its index
+for i, tender in enumerate(IT_tender, start=1):
+    print(f"{i}) {tender}\n")
 
 driver.quit()
