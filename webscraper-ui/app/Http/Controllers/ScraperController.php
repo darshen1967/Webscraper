@@ -3,6 +3,8 @@
 namespace App\Http\Controllers;
 use Symfony\Component\Process\Exception\ProcessFailedException;
 use Symfony\Component\Process\Process;
+use Illuminate\Support\Facades\Storage;
+use Illuminate\Http\Response;
 
 
 use Illuminate\Http\Request;
@@ -40,28 +42,56 @@ class ScraperController extends Controller
         //$process->run();
         $command = "$pythonPath $scriptPath $input1 $input2 $input3 $input4";
         $output = shell_exec($command);
-        /*
-        if (!$process->isSuccessful()) {
-            throw new ProcessFailedException($process);
-        }
-        $output = $process->getOutput();
-        */
-        //$output = null;
-        //$return_var = null;
-        //exec($process, $output, $return_var);
-        //passthru($process, $output);
+        //dd($output);
 
-        // Handle the output of the Python script
-        // This part depends on how your Python script outputs data
-        // You might need to parse $output or handle errors in $return_var
 
-        // Assuming you want to return the output to another view
-        //echo ("end");
-        //echo ($output);
-        //var_dump($output);
-        //echo ($last_line);
-        return view('results', ['output' => $output]);
+        #return view('results', ['output' => $output]);
+                $data = $this->getTableData(); // Assume this is a method that retrieves your table data
+
+        return view('results', compact('output', 'data'));
 
     }
+
+
+        public function downloadCsv()
+        {
+            // Define the file path
+            $filePath = "public\download\Final_tender_list.csv"; // Update 'yourfile.csv' to your actual file name
+
+            // Check if file exists
+            if (!Storage::exists($filePath)) {
+
+                abort(404, 'File not found');
+            }
+
+            // Get file content
+            $fileContent = Storage::get($filePath);
+
+            // Create a response and force download
+            return (new Response($fileContent, 200))
+                  ->header('Content-Type', 'text/csv')
+                  ->header('Content-Disposition', 'attachment; filename="Tender.csv"');
+        }
+
+        private function getTableData()
+        {
+            $filePath = storage_path("app\public\download\Final_tender_list.csv");
+
+            // Open the file for reading
+            $handle = fopen($filePath, 'r');
+
+            $data = [];
+            while (($row = fgetcsv($handle, 1000, ",")) !== FALSE) {
+                $data[] = $row;
+            }
+            fclose($handle);
+
+            return $data;
+
+        }
+
+
+
+
 }
 

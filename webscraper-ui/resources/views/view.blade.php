@@ -23,10 +23,10 @@
             border-radius: 25px; /* Rounded corners */
             padding: 60px; /* Padding around the form */
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); /* Stronger shadow for 'floating' effect */
-            margin: auto; /* Auto margins for centering */
             width: 80%; /* Width of the form container */
-            transform: translateY(-50%); /* Center vertically */
             max-width: 800px;
+            margin-top: 1%; /* Adjust the margin at the top */
+            position: relative; /* You can use relative if you need to use the top property */
         }
         /* Button styling */
         .d-grid {
@@ -57,7 +57,7 @@
         <div class="row justify-content-center">
             <!-- Form styling class 'purple-theme' applied here -->
             <div class="shadow-lg p-3 col-md-8 purple-theme">
-                <h1 class="text-center">Web Scraping Input Form</h1>
+                <h1 class="text-center">Malaysian Tender Website Scraper</h1>
                 <form action="/handle-form" method="POST" class="my-3">
                     {{{csrf_field()}}} <!-- CSRF token for security -->
 
@@ -67,7 +67,7 @@
                     </div>
 
                     <div class="mb-3">
-                        <label for="continue_scraping" class="form-label">Do you want to scrape from other pages?</label>
+                        <label for="continue_scraping" class="form-label">Do you want to scrape the next pages?</label>
                         <select class="form-select" id="continue_scraping" name="continue_scraping" required>
                             <option value="yes">Yes</option>
                             <option value="no" selected>No</option>
@@ -89,6 +89,9 @@
                     <div class="d-grid">
                         <button type="submit" class="btn btn-purple">Submit</button>
                     </div>
+                    <div id="loading-spinner" class="spinner-border text-purple" role="status" style="display: none;">
+                        <span class="visually-hidden"></span>
+                    </div>
                 </form>
             </div>
         </div>
@@ -98,6 +101,29 @@
         document.getElementById('continue_scraping').addEventListener('change', function() {
             var display = this.value === 'yes' ? 'block' : 'none';
             document.getElementById('additional-fields').style.display = display;
+        });
+
+        // JavaScript for showing spinner on form submission
+        var form = document.querySelector('form');
+        var submitButton = document.querySelector('.btn-purple');
+        var spinner = document.getElementById('loading-spinner');
+
+        // Event listener for the form submission
+        form.addEventListener('submit', function(event) {
+            // Prevent the form from submitting immediately
+            event.preventDefault();
+
+            // Show the spinner
+            spinner.style.display = 'inline-block';
+
+            // Change the button text and disable it
+            submitButton.textContent = 'Scrapping...';
+            submitButton.disabled = true;
+
+            // Add a slight delay to simulate network request then submit the form
+            setTimeout(function() {
+                form.submit();
+            }, 500); // This timeout is just for demonstration and can be adjusted or removed
         });
     </script>
     <!-- JavaScript unchanged -->

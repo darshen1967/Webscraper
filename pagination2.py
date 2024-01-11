@@ -39,6 +39,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import sys
+from tabulate import tabulate
 
 
 options = Options()
@@ -170,8 +171,8 @@ def scrape(page_source):
 
 
     #Predicting the data
-    svm_classifier = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_model.pkl')
-    tfidf_vectorizer = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_vectorizer.pkl')
+    svm_classifier = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_model1.pkl')
+    tfidf_vectorizer = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_vectorizer1.pkl')
 
     # Load the test CSV file
     test_df = pd.read_csv('Train_data.csv', encoding='unicode_escape')
@@ -286,15 +287,15 @@ if continue_scraping.lower() == 'yes':
     while True:
         #HERE TIME
         if time.time() - start_time > 600:  # 600 seconds = 10 minutes
-            print("Time limit reached (10 minutes). Exiting the loop.")
-            print(f"Reached the last page: Page {page_number}")
+            #print("Time limit reached (10 minutes). Exiting the loop.")
+            #print(f"Reached the last page: Page {page_number}")
             break
 
         try:
             next_button = WebDriverWait(driver, 100).until(EC.element_to_be_clickable((By.XPATH, next_button_xpath)))
             next_button_disabled = driver.find_elements(By.XPATH, f"{next_button_xpath}/ancestor::li[contains(@class, '{disabled_class}')]")
             if next_button_disabled:
-                print(f"Reached the last page: Page {page_number}")
+                #print(f"Reached the last page: Page {page_number}")
                 break
         
             next_button.click()
@@ -309,14 +310,14 @@ if continue_scraping.lower() == 'yes':
             #print(page_number)
             #time.sleep(2)
         except NoSuchElementException:
-            print(f"Element not found on page: Page {page_number}")
+            #print(f"Element not found on page: Page {page_number}")
             break
         except TimeoutException:
-            print(f"Timeout occurred on page: Page {page_number}")
+            #print(f"Timeout occurred on page: Page {page_number}")
             break
 
-svm_classifier = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_model.pkl')
-tfidf_vectorizer = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_vectorizer.pkl')
+svm_classifier = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_model1.pkl')
+tfidf_vectorizer = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_vectorizer1.pkl')
 
     # Load the test CSV file LOOK HEREeeeeeeeeeeeeeeeeeeeee
     #test_df = pd.read_csv('pagination_data.csv', encoding='unicode_escape')
@@ -341,7 +342,7 @@ data = tender_df  # Replace with your file path
 # Grouping the data by 'Tag' and 'Class'
 grouped_data = data.groupby(['Tag', 'Class'])
 
-# Filtering groups where more than 75% of 'Predicted_Class' is 'Tender'
+# Filtering groups where more than 50% of 'Predicted_Class' is 'Tender'
 filtered_groups = []
 for name, group in grouped_data:
     if (group['Predicted_Class'] == 'Tender').mean() >= 0.5:
@@ -361,7 +362,7 @@ filtered_data.to_csv('temp.csv', index=False)
 
 Final_tender_list = filtered_data[['Final']]
 Final_tender_list = Final_tender_list.drop_duplicates()
-Final_tender_list.to_csv(r'C:\Users\User\Desktop\FYP\Webscraper\Final_tender_list.csv', index=False)
+Final_tender_list['Final'] = Final_tender_list['Final'].apply(lambda x: x.capitalize())
 
 
 
@@ -388,8 +389,12 @@ def contains_keyword(text):
 # Checking each row in the 'Final' column for IT keywords
 IT_tender = [tender for tender in Final_tender_list['Final'] if contains_keyword(tender)]
 
+Final_tender_list['Label'] = Final_tender_list['Final'].apply(lambda x: 'IT_tender' if x in IT_tender else '')
+Final_tender_list.to_csv(r'C:\Users\User\Desktop\FYP\Webscraper\webscraper-ui\storage\app\public\download\Final_tender_list.csv', index=False)
+
 # Print each item with its index
 for i, tender in enumerate(IT_tender, start=1):
     print(f"{i}) {tender}\n")
+
 
 driver.quit()

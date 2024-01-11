@@ -27,3 +27,6 @@ Route::get('/', function () {
 
 Route::get('/scrape', [ScraperController::class, 'showForm'])->name('scrape.form');
 Route::post('/handle-form', [ScraperController::class, 'handleForm'])->name('handle.form');
+
+//Route::get('/download', [ScraperController::class, 'download'])->name('download');
+Route::get('/download-csv', [ScraperController::class, 'downloadCsv'])->name('download-csv');
