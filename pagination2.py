@@ -40,6 +40,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import sys
 from tabulate import tabulate
+from fuzzywuzzy import fuzz
 
 
 options = Options()
@@ -265,7 +266,7 @@ driver.get(val)
 get_url = driver.current_url
 wait.until(EC.url_to_be(val))
 
-time.sleep(3)
+time.sleep(5)
 if get_url == val:
     page_source = driver.page_source
 
@@ -359,9 +360,50 @@ filtered_data = filtered_data[filtered_data['Final'].apply(lambda x: len(str(x).
 # Displaying the first few rows of the updated dataframe
 filtered_data.to_csv('temp.csv', index=False)
 
+if continue_scraping.lower() == 'no':
+    # Convert the 'Final' column to a list
+    final_list = filtered_data['Final'].tolist()
+
+    # Create an empty list to store elements that do not meet the condition
+    non_matching_pairs = []
+
+    # Loop to compare elements
+    for i in range(len(final_list)):
+        for j in range(i + 1, len(final_list)):
+            val = fuzz.partial_ratio(final_list[i], final_list[j])
+            if val < 40 or val > 80:
+                non_matching_pairs.append((final_list[i], final_list[j]))
+
+    # Find elements repeated more than twice
+    #from collections import Counter
+    elements = [item for pair in non_matching_pairs for item in pair]
+    
+
+    # Filtering the DataFrame
+    filtered_df = filtered_data[filtered_data['Final'].isin(elements)]
+
+    # Retrieving the corresponding 'class' values
+    class_values = filtered_df['Class'].tolist()
+
+    class_values = list(set(class_values))
+
+    # Proceed only if there are more than one unique classes
+    if len(class_values) > 1:
+        # Count the frequency of each class in the DataFrame
+        class_counts = filtered_data['Class'].value_counts()
+
+        # Find the class with the minimum frequency in class_values
+        min_freq_class = min(class_values, key=lambda x: class_counts.get(x, float('inf')))
+
+        # Remove rows with this class
+        filtered_data = filtered_data[filtered_data['Class'] != min_freq_class]
+
 
 Final_tender_list = filtered_data[['Final']]
 Final_tender_list = Final_tender_list.drop_duplicates()
+
+
+
 Final_tender_list['Final'] = Final_tender_list['Final'].apply(lambda x: x.capitalize())
 
 
