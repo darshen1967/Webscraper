@@ -1,6 +1,7 @@
 <?php
 use App\Http\Controllers\ScraperController;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\SearchController;
 
 /*
 |--------------------------------------------------------------------------
@@ -30,3 +31,5 @@ Route::post('/handle-form', [ScraperController::class, 'handleForm'])->name('han
 
 //Route::get('/download', [ScraperController::class, 'download'])->name('download');
 Route::get('/download-csv', [ScraperController::class, 'downloadCsv'])->name('download-csv');
+
+Route::get('/search/tenders', [SearchController::class, 'search'])->name('search');

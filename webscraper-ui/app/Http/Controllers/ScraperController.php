@@ -5,6 +5,8 @@ use Symfony\Component\Process\Exception\ProcessFailedException;
 use Symfony\Component\Process\Process;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Http\Response;
+use App\Models\Tender;
+use League\Csv\Reader;
 
 
 use Illuminate\Http\Request;
@@ -46,7 +48,24 @@ class ScraperController extends Controller
 
 
         #return view('results', ['output' => $output]);
-                $data = $this->getTableData(); // Assume this is a method that retrieves your table data
+        $data = $this->getTableData(); // Assume this is a method that retrieves your table data
+
+        //DATABASE PART
+        $csvFilePath = storage_path('app\public\download\Final_tender_list.csv');
+
+        // Read CSV file
+        $csv = Reader::createFromPath($csvFilePath, 'r');
+        $csv->setHeaderOffset(0); // assuming the first row of your CSV file contains headers
+
+        $records = $csv->getRecords();
+
+        // Insert data into the database
+        foreach ($records as $row) {
+            Tender::create([
+                'final' => $row['Final'],
+                'label' => $row['Label'] ?? null,
+            ]);
+        }
 
         return view('results', compact('output', 'data'));
 
@@ -90,6 +109,17 @@ class ScraperController extends Controller
 
         }
 
+
+
+        public function showResults(){
+            // Initialize an empty collection for $results
+            $results = collect();
+
+            // Your logic here...
+
+            // Pass $results to the view
+            return view('results', compact('results'));
+        }
 
 
 

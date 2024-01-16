@@ -13,8 +13,8 @@ return new class extends Migration
     {
         Schema::create('tenders', function (Blueprint $table) {
             $table->id();
-            $table->Final();
-            $table->Label();
+            $table->string('final');  // Assuming 'final' is a string type
+            $table->string('label')->nullable();  // Assuming 'label' is a string type and can be nullable
             $table->timestamps();
         });
     }

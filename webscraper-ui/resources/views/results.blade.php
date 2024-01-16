@@ -104,6 +104,7 @@
         </div><br><br>
         <div class="output-container">
             <div class="buttons-wrapper">
+                <button id="showKeywordSearchBtn" class="btn btn-primary">Keyword Search</button>
                 <button id="showOutputBtn" class="btn btn-primary">Raw Output</button>
                 <button id="showTableBtn" class="btn btn-primary">Table</button>
             </div>
@@ -144,6 +145,25 @@
                     <p>Error has occured. Please check your input variables.</p>
                 @endif
             </div>
+            <div id="keywordSearchSection">
+                <form id="searchForm"  action="{{ route('search') }}" method="GET">
+                    <input type="text" name="keyword" placeholder="Enter keyword" required>
+                    <button type="submit" class="btn btn-primary">Search</button>
+                </form>
+
+                @if(isset($results))
+                    <div id="searchResults">
+                        @foreach ($results as $tender)
+                            <div>
+                                <p>{{ $tender->final }}</p>
+                                <!-- Other tender details -->
+                            </div>
+                        @endforeach
+                    </div>
+                @else
+                    <p>Please enter a keyword to search.</p>
+                @endif
+            </div>
 
         </div>
     </div>
@@ -152,12 +172,44 @@
         document.getElementById('showOutputBtn').addEventListener('click', function() {
             document.getElementById('outputSection').style.display = 'block';
             document.getElementById('tableSection').style.display = 'none';
+            document.getElementById('keywordSearchSection').style.display = 'none';
         });
 
         document.getElementById('showTableBtn').addEventListener('click', function() {
             document.getElementById('outputSection').style.display = 'none';
             document.getElementById('tableSection').style.display = 'block';
+            document.getElementById('keywordSearchSection').style.display = 'none';
         });
+
+        document.getElementById('showKeywordSearchBtn').addEventListener('click', function() {
+            document.getElementById('outputSection').style.display = 'none';
+            document.getElementById('tableSection').style.display = 'none';
+            document.getElementById('keywordSearchSection').style.display = 'block';
+        });
+
+        window.onload = function() {
+        // Get the keyword from the URL parameter if it exists
+        const urlParams = new URLSearchParams(window.location.search);
+        const keyword = urlParams.get('keyword');
+
+            if (keyword) {
+                // Use a regex pattern to find the keyword in the text
+                const regex = new RegExp(keyword, 'i'); // 'i' for case-insensitive
+                const textElements = document.querySelectorAll('pre');
+                document.getElementById('showOutputBtn').disabled = true;
+                document.getElementById('showTableBtn').disabled = true;
+
+                for (const element of textElements) {
+                    if (regex.test(element.textContent)) {
+                        // Scroll to the element and break the loop
+                        element.scrollIntoView();
+                        break;
+                    }
+                }
+            }
+        };
+
+
     </script>
 
 </body>
