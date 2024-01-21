@@ -153,12 +153,14 @@
 
                 @if(isset($results))
                     <div id="searchResults">
-                        @foreach ($results as $tender)
+                        @forelse ($results as $tender)
                             <div>
                                 <p>{{ $tender->final }}</p>
                                 <!-- Other tender details -->
                             </div>
-                        @endforeach
+                        @empty
+                            <p>No output for the keyword</p>
+                        @endforelse
                     </div>
                 @else
                     <p>Please enter a keyword to search.</p>

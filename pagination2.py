@@ -277,11 +277,12 @@ tender_df = scrape(page_source)
 #continue_scraping = input("Do you want to scrape from other pages? (yes/no): ")
 continue_scraping = sys.argv[2]
 if continue_scraping.lower() == 'yes':
+    error_handler = True
     #next_button_xpath = input("Enter the XPath for the 'Next' button: ")
     next_button_xpath = sys.argv[3]
     #disabled_class = input("Enter the class name when the 'Next' button is disabled: ")
     disabled_class = sys.argv[4]
-    page_number = 2
+    page_number = 1
 
     start_time = time.time()#HERE TIME
     #next_button = WebDriverWait(driver, 100).until(EC.element_to_be_clickable((By.XPATH, next_button_xpath)))
@@ -300,6 +301,7 @@ if continue_scraping.lower() == 'yes':
                 break
         
             next_button.click()
+            error_handler = False
             time.sleep(3)
             page_source = driver.page_source
             current_page = scrape(page_source)
@@ -314,7 +316,9 @@ if continue_scraping.lower() == 'yes':
             #print(f"Element not found on page: Page {page_number}")
             break
         except TimeoutException:
-            #print(f"Timeout occurred on page: Page {page_number}")
+            if(error_handler):
+                print(f"Timeout occurred on page: Page {page_number}. Check your Xpath Value.")
+                print("")
             break
 
 svm_classifier = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_model1.pkl')
