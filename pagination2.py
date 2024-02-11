@@ -191,11 +191,6 @@ def scrape(page_source):
     # Filter rows with predicted class 'Tender'
     tender_rows = test_df[test_df['Predicted_Class'] == 'Tender']
 
-    # List to store classes
-    #classes_list = []
-
-    # Dictionary to store data
-    #data = {'Tag': [], 'Class': []}
 
     # Assuming 'test_predictions.csv' contains the output with 'Predicted_Class' column
     test_predictions_df = pd.read_csv('data_predictions.csv')
@@ -203,31 +198,17 @@ def scrape(page_source):
     # Filter rows with predicted class 'Tender'
     tender_rows = test_predictions_df[test_predictions_df['Predicted_Class'] == 'Tender']
 
-    # Iterate over each row in 'tender_rows' and apply the extract_classes function
-    #data1 = {'Tag': [], 'Class': []}
-    #for index, row in tender_rows.iterrows():
-     #   html_input = row['HTML']
-      #  element_data = row['Element']
-       # extract_classes(html_input, element_data)
 
-    # Print the list of unique classes
-    #for class_name in classes_list:
-        #print(class_name)
 
     # Convert the dictionary to a DataFrame
     class_data_df = extract_classes(tender_rows)
     class_data_df = class_data_df.drop_duplicates()
-
-    class_data_df.to_csv('class_data.csv', index=False)
 
     # Apply the extract_text function to create a new 'Text' column
     class_data_df['Content'] = class_data_df.apply(extract_text, axis=1)
 
     # Drop rows where 'Text' column is empty
     class_data_df = class_data_df.dropna(subset=['Content'])
-
-    # Save the updated DataFrame to a new CSV file
-    class_data_df.to_csv('class_data_with_text.csv', index=False)
 
     TenderResult = {'Tag': [], 'Class': [],'Final': []}
     for index, row in class_data_df.iterrows():
@@ -245,15 +226,10 @@ def scrape(page_source):
             TenderResult['Tag'].append(row['Tag'])
             TenderResult['Class'].append(row['Class'])
             TenderResult['Final'].append(v)
-            #print(v)
-            #print("\n")
-            
-        
-        #print("\n")
+
     
     TenderResult_df = pd.DataFrame(TenderResult)
     TenderResult_df = TenderResult_df.drop_duplicates()
-    TenderResult_df.to_csv('TenderResult.csv', index=False)
 
     return TenderResult_df
 
@@ -324,10 +300,7 @@ if continue_scraping.lower() == 'yes':
 svm_classifier = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_model1.pkl')
 tfidf_vectorizer = joblib.load(r'C:\Users\User\Desktop\FYP\Webscraper\FYP2_vectorizer1.pkl')
 
-    # Load the test CSV file LOOK HEREeeeeeeeeeeeeeeeeeeeee
-    #test_df = pd.read_csv('pagination_data.csv', encoding='unicode_escape')
-
-    # Apply the same text preprocessing to the 'Content' column
+# Apply the same text preprocessing to the 'Content' column
 tender_df['Final'] = tender_df['Final'].apply(preprocess_text)
 
     # Transform the test data using the same TF-IDF vectorizer
@@ -338,9 +311,6 @@ predictions = svm_classifier.predict(X_test_tfidf)
 
     # Add the predicted classes to the test DataFrame
 tender_df['Predicted_Class'] = predictions
-
-    # Save the updated DataFrame to a new CSV file
-tender_df.to_csv('TenderResult_Predicted.csv', index=False)
 
 data = tender_df  # Replace with your file path
 
@@ -361,8 +331,6 @@ filtered_data = filtered_data.drop_duplicates()
 # Correcting the code to handle non-string entries in the 'Final' column
 filtered_data = filtered_data[filtered_data['Final'].apply(lambda x: len(str(x).split()) <= 50)]
 
-# Displaying the first few rows of the updated dataframe
-filtered_data.to_csv('temp.csv', index=False)
 
 if continue_scraping.lower() == 'no':
     # Convert the 'Final' column to a list
@@ -406,10 +374,7 @@ if continue_scraping.lower() == 'no':
 Final_tender_list = filtered_data[['Final']]
 Final_tender_list = Final_tender_list.drop_duplicates()
 
-
-
 Final_tender_list['Final'] = Final_tender_list['Final'].apply(lambda x: x.capitalize())
-
 
 
 # Iterating and printing
