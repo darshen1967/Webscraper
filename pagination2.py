@@ -266,7 +266,7 @@ driver.get(val)
 get_url = driver.current_url
 wait.until(EC.url_to_be(val))
 
-time.sleep(5)
+time.sleep(3)
 if get_url == val:
     page_source = driver.page_source
 
